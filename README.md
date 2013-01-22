@@ -2,7 +2,9 @@
 githubでのコード表記のタイトル表記の再現方法を確認する (kobitoとは全然違う。)
 →だからここで編集するべきなんだってば。JamesやKyleのプロジェクトの書き方を参照して。
 あとは、たぶん
-http://ja.wikipedia.org/wiki/Markdown#.E6.94.B9.E8.A1.8C
+http://ja.wikipedia.org/wiki/Markdown#.E6.94.B9.E8.A1.8C  
+あと、デフォルトのREADMEを英語にするのか日本語にするのかで少し迷ってます。他とそろえるなら英語、
+なのかもな、と。
 
 #各章の概要
 
