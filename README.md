@@ -22,7 +22,6 @@ http://ja.wikipedia.org/wiki/Markdown#.E6.94.B9.E8.A1.8C
 
 
 
-12条(7)利用には、コンペへの応募も含まれること。  
 
 
 
