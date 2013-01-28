@@ -44,8 +44,8 @@ http://ja.wikipedia.org/wiki/Markdown#.E6.94.B9.E8.A1.8C
 (これが何であるかということ)  
 GRPContractは、クリエイティブでオープンなコラボラティブワークを実現する契約書のひな形です。。。。。  
 (想定している内容)アートセンターがメディアアートの研究者やエンジニアを招いて滞在制作の形で先進的なテーマについて共同研究を行い、その成果をオープン化することで更なる派生や発展を促すことができるように設計されています。  
-これは、YCAM Interlab Guest Research Projectを実施するための契約書をもとに作成された契約書のひな形であり、、、、波及、
-
+これは、YCAM Interlab Guest Research Projectを実施するための契約書をもとに作成された契約書のひな形であり、、、、波及、  
+(期待される効果)  
 
 
 
@@ -87,17 +87,33 @@ GRPの契約書を一般化したひな形であること。
 変更すべき部分
 
 
+
+
 ```
-ライセンス
-全記事(テキスト?)とも、Creative Commons Attribution-ShareAlike 3.0 Unported License（以下、CC-BY-SA3.0 Unportedと略します）に
+クレジット(仮)
+企画制作 : Yamaguchi Center for Arts and Media [YCAM]
+立案・作成：YCAM InterLab
+監修: 水野　祐（クリエイティブ・コモンズ・ジャパン、弁護士）
+協力：ドミニク・チェン（クリエイティブ・コモンズ・ジャパン）
+
+Produced by : Yamaguchi Center for Arts and Media [YCAM]
+Planned & Made by：YCAM InterLab
+Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law)
+Support: Dominick Chen (Creative Commons Japan)
+```
+
+
+```
+ライセンス(仮)
+全テキストとも、Creative Commons Attribution-ShareAlike 3.0 Unported License（以下、CC-BY-SA3.0 Unportedと略します）に
 基づく改変・再利用を許諾します。
 ```
 
 
 ```
-免責事項(wikipediaの免責事項の要旨からGFDLを削除)
+免責事項(仮)(wikipediaの免責事項の要旨からGFDLを削除)
 
-本サイトは、あなたに対して何も保証しません。本サイトの関係者（他の利用者も含む）は、あなたに対して一切責任を負いません。
+本テキストは、あなたに対して何も保証しません。本サイトの関係者（他の利用者も含む）は、あなたに対して一切責任を負いません。
 あなたが、本サイトを利用（閲覧、投稿、外部での再利用など全てを含む）する場合は、自己責任で行う必要があります。
 利用の結果生じた損害について、一切責任を負いません。
 あなたの適用される法令に照らして、本サイトの利用が合法であることを保証しません。
