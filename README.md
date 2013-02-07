@@ -66,7 +66,7 @@ GRPのフレームワークの構築を通じて、真摯に設計された契�
 
 
 
-*YCAM Interlab Guest Research Project*(http://interlab.ycam.jp/projects/guestresearch)
+*YCAM Interlab Guest Research Project* (http://interlab.ycam.jp/projects/guestresearch)
 
 
 ####つかいかた
