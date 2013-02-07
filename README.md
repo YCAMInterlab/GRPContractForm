@@ -114,32 +114,21 @@ Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law)
 Support: Dominick Chen (Creative Commons Japan)
 ```
 
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL">... Produced by : Yamaguchi Center for Arts and Media [YCAM] Planned & Made by：YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
 
 
-
-
-
 ```
-ライセンス(仮)
-全テキストとも、Creative Commons Attribution-ShareAlike 3.0 Unported License（以下、CC-BY-SA3.0 Unportedと略します）に
-基づく改変・再利用を許諾します。
-```
-
-
-```
-免責事項(仮)(wikipediaの免責事項の要旨からGFDLを削除)
+免責事項(仮)(wikipediaの免責事項の要旨をベースとしています)
 
 本テキストは、あなたに対して何も保証しません。本サイトの関係者（他の利用者も含む）は、あなたに対して一切責任を負いません。
 あなたが、本サイトを利用（閲覧、投稿、外部での再利用など全てを含む）する場合は、自己責任で行う必要があります。
 利用の結果生じた損害について、一切責任を負いません。
 あなたの適用される法令に照らして、本サイトの利用が合法であることを保証しません。
-コンテンツとして提供する全ての文章、画像、音声情報について、内容の合法性・正確性・安全性等、あらゆる点において保証しません。
+コンテンツとして提供する全ての情報について、内容の合法性・正確性・安全性等、あらゆる点において保証しません。
 リンクをしている外部サイトについては、何ら保証しません。
-全記事(テキスト?)とも、Creative Commons Attribution-ShareAlike 3.0 Unported License（以下、CC-BY-SA3.0 Unportedと略します）に
-基づく改変・再利用を許諾しますが、法令その他の法慣習に反する形での利用を許諾するものではありません。
-文章と共に表示されている画像は、それぞれ文章とは別個のライセンスに基づく提供となります。
+全テキストとも、Creative Commons Attribution-ShareAlike 3.0 Unported Licenseに基づく改変・再利用を許諾しますが、
+法令その他の法慣習に反する形での利用を許諾するものではありません。
+文章と共に表示されている画像は、それぞれ文章とは別個のライセンスに基づく場合があります。
 事前の予告無く、コンテンツの提供を中止する可能性があります。
 ```
 
