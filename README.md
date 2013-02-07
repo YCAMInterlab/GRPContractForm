@@ -48,7 +48,7 @@ http://ja.wikipedia.org/wiki/Markdown#.E6.94.B9.E8.A1.8C
 
 #はじめに
 
-###GRPContract(Form)について
+##GRPContract(Form)について
 
 
 GRPContract(Form)は、クリエイティブでオープンな恊働のフレームワークを実現する契約書のフォーム(ContractForm)です。いわゆるオープンソースコードと同様に、多くの人々が自由に利用し、開発に参加し、派生物を生み出して行くことができる状態とするため、公開します。  
@@ -58,7 +58,7 @@ GRPContract(Form)は、クリエイティブでオープンな恊働のフレー
 このフォームはクリエイティブ・コモンズ・ライセンス(下記)のもとに公開されています。利用者はライセンスの範囲で、自分たちのプロジェクトのためにアレンジ/フォークし、実利用することができます。更新リクエストも歓迎します。  
 
 
-###本コントラクトフォームの特徴
+##本コントラクトフォームの特徴
 
 このフォームはGRPは先端的なテーマをもつアーティスト/技術者を研究員として招聘し、YCAM InterLabと共同で研究開発をおこなう滞在研究プログラムであるYCAM Interlab Guest Research Project(GRP)を実施するための契約書をもとに作成されています。  
 
@@ -73,18 +73,18 @@ GRPのフレームワークの構築を通じて、真摯に設計された契�
 
 
 
-###つかいかた
+##つかいかた
 
 【】でくくられた部分は、契約書ごとに適切な内容に変更する必要が有ります。その他、条文についてもプロジェクトに応じてアレンジして下さい。例えば、ゲストリサーチャーを外国から招聘することを前提としていますが、国内から招聘する場合は、その点を書き換える必要が有ります。詳しくは解説本文を参照ください。  
 
 
 
-###ライセンス
+##ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL"> Produced by Yamaguchi Center for Arts and Media [YCAM] Planned & Made by YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
 
 
 
-###クレジット
+##クレジット
 ```
 企画制作: Yamaguchi Center for Arts and Media [YCAM]
 立案・作成: YCAM InterLab
@@ -99,7 +99,7 @@ Support: Dominick Chen (Creative Commons Japan)
 
 
 
-###免責事項
+##免責事項
 ```
 本テキストは、あなたに対して何も保証しません。本サイトの関係者（他の利用者も含む）は、あなたに対して一切責任を負いません。
 あなたが、本サイトを利用（閲覧、投稿、外部での再利用など全てを含む）する場合は、自己責任で行う必要があります。
