@@ -37,10 +37,13 @@ http://ja.wikipedia.org/wiki/Markdown#.E6.94.B9.E8.A1.8C
 ---
 #本書の構成
 
-•はじめに
-•各章の概要
-•解説
+[•はじめに](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#はじめに)
+[•各章の概要](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#各章の概要)
+[•解説](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#解説)
 
+
+
+[タイトルと当事者](#%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%A8%E5%BD%93%E4%BA%8B%E8%80%85-1)
 
 ---
 
