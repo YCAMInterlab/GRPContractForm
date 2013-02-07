@@ -34,7 +34,12 @@ http://ja.wikipedia.org/wiki/Markdown#.E6.94.B9.E8.A1.8C
 
 ```
 
+---
+#本書の構成
 
+•はじめに
+•各章の概要
+•解説
 
 
 ---
