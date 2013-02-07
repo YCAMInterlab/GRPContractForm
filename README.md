@@ -45,8 +45,7 @@ http://ja.wikipedia.org/wiki/Markdown#.E6.94.B9.E8.A1.8C
 
 #はじめに
 
-###はじめに
-
+###GRPContractについて
 
 
 
