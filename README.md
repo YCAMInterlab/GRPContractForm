@@ -31,6 +31,12 @@ http://ja.wikipedia.org/wiki/Markdown#.E6.94.B9.E8.A1.8C
 ~~~
 
 
+~~~
+どこかに入れておきたいところ(脚注のような)。
+~~~
+"GRPはその成果を公開し波及して行くことを目的の１つとしています。プロジェクトのフレームワーク自体を成果として捉え、プロジェクト自体の波及、発展を目的としてオープン化します。    "  
+
+
 
 
 
@@ -54,52 +60,23 @@ GRPのフレームワークの構築を通じて、真摯に設計された契�
 
 ####本コントラクトの特徴
 
-このひな形はYCAM Interlab Guest Research Project(GRP)を実施するための契約書をもとに作成されています。滞在期間や研究内容といった、一般的な共同研究や滞在製作に必要な事項以外に、成果の公開とその効果を高めるための項目が含まれていることが最大の特徴です。例えば、成果の権利の扱い、公開のライセンスや方法、さらにクレジットやメンテナンスについて定めています。
+このひな形はYCAM Interlab Guest Research Project(GRP)を実施するための契約書をもとに作成されています。滞在期間や研究内容といった、一般的な共同研究や滞在製作に必要な事項以外に、成果の公開とその効果を高めるための項目が含まれていることが最大の特徴です。例えば、成果の権利の扱い、公開のライセンスや方法、さらにクレジットやメンテナンスについて定めています。  
+
+ゲストリサーチャーを外国から招聘することを前提としており、そのために必要な国際的な事務手続(ビザ、租税条約関連)についての項目も盛り込んでいます。当事者同士の関係として、主催者とゲストリサーチャーとのフェアな関係の実現を目指しています。  
 
 
-~~~
-どこかに入れておきたいところ(脚注のような)。
-"GRPはその成果を公開し波及して行くことを目的の１つとしています。プロジェクトのフレームワーク自体を成果として捉え、プロジェクト自体の波及、発展を目的としてオープン化します。    "
-~~~
 
 
 *YCAM Interlab Guest Research Project*(http://interlab.ycam.jp/projects/guestresearch)
 
-~~~
-このあたりに、interlabのwebにのせるテキストと同じものを。  
-~~~
-
-
-
-
-~~~
-本書の特徴、というより、GRPの特徴だよね。  
-
-
-フレームワーク
-誰が誰を、いつ、何について、どのように、保守、メンテナンス、クレジット、費用、委託料、国際的な事務手続(ビザ、条約)
-
-
-
-成果の公開  
-フェアな関係  
-滞在制作  
-外国からの招聘  
-GRPの契約書を一般化したひな形であること。
-~~~
-
-
-
-
 
 ####つかいかた
 
+【】でくくられた部分は、契約書ごとに適切な内容に変更する必要が有ります。  
+ゲストリサーチャーを外国から招聘することを前提としていますが、国内から招聘する場合は、その点をアレンジする必要が有ります。
+クリエイティブコモンズ•ライセンス(下記)のもとに公開しており、利用者はライセンスの範囲でフォークするなり実利用することができます。更新リクエストも歓迎します。
 
-【】でくくられた部分は、契約書ごとに適切な内容に変更します。ということ。  
-あとは、フォークするなり更新リクエストするなりどうぞ。  
-
-
-
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL"> Produced by : Yamaguchi Center for Arts and Media [YCAM] Planned & Made by：YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
 
 
 ```
@@ -113,8 +90,6 @@ Planned & Made by：YCAM InterLab
 Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law)
 Support: Dominick Chen (Creative Commons Japan)
 ```
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL">... Produced by : Yamaguchi Center for Arts and Media [YCAM] Planned & Made by：YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
 
 
 ```
@@ -131,10 +106,6 @@ Support: Dominick Chen (Creative Commons Japan)
 文章と共に表示されている画像は、それぞれ文章とは別個のライセンスに基づく場合があります。
 事前の予告無く、コンテンツの提供を中止する可能性があります。
 ```
-
-
-
-
 
 ---
 
