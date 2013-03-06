@@ -1,3 +1,4 @@
+#GRPContractForm_Japanese ver.1.0
 
 
 ##クレジット
