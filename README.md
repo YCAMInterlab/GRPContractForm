@@ -1,6 +1,4 @@
 
-
----
 #本書の構成
 
 [•はじめに](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#はじめに)  
