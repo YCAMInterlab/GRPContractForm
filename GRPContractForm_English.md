@@ -1,3 +1,5 @@
+#せつめいしょができてから、せつめいしょからぬきだすこと!1じょうからぜんぶやりなおし!
+
 #GRPContractForm_English ver.1.0
 
 
@@ -95,39 +97,48 @@ The Host and the Researcher shall discuss and determine the period and schedule 
   
 ---
   
-####第3条（滞在場所・期間）  
-1 リサーチャーは、主催者が指定する以下の場所（以下「共同研究機関」という）において本件業務を行う。  
+####Article 3 (Place and Period of Work)  
+3.1 The Researcher shall conduct the Work at the following place:    
+[Name]  
 【________________】   
+[Address]  
+【________________】   
+ (hereinafter "Joint Research Facility")  
   
-2 リサーチャーの滞在期間は、20**年**月**日から20**年**月*日までとする（以下「滞在期間」という）。詳細なスケジュールについては、別途主催者・リサーチャー間で協議するものとする。  
-  
+3.2 The Researcher shall stay for the period from * **, 20** until * **, 20** (hereinafter "Period of Stay").   
+A detailed schedule shall be worked out between the Host and the Researcher.  
+    
 ---
 
-####第4条（研究および開発の内容）  
- 主催者およびリサーチャーは、共同で以下に関する研究および開発を行う。  
+####Article 4 (Research and Development Contents)   
+The Host and the Researcher shall conduct joint research and development on the following subject.   
 【________________】  
  
 ---
   
-####第5条（ワークショップの制作および実施）  
-1 リサーチャーは、本件業務として、第3条第２項に定める滞在期間中に、共同研究機関において、第4条に定める研究および開発に関するワークショップを制作しなければならない。ワークショップの内容の詳細については、主催者・リサーチャー間において別途協議して決定する。  
+####Article 5 (Production and Implementation of Workshops)   
+5.1 During the Period of Stay set forth in Article 2.2, the Researcher shall produce workshops on the research and development set forth in Article 3 at Joint Research Facility. Detailed contents of workshops shall be discussed and determined separately between the Host and the Researcher.  
   
-2 リサーチャーは、本件業務として前項に従い制作したワークショップを、第3条第２項に定める滞在期間中に、実施しなければならない。ワークショップの場所、回数等の詳細については、主催者・リサーチャー間において別途協議して決定する。  
-  
----
-  
-####第6条（講演の実施）  
-リサーチャーは、本件業務として、講演を実施する。ただし、場所・回数・内容等の詳細については、主催者およびリサーチャーが別途協議して決定する。  
+5.2 The Researcher shall carry out the workshops produced according to the preceding clause during the Period of Stay set forth in Article 2.2. Details such as workshop locations and frequency shall be discussed and determined separately between the Host and the Researcher.   
   
 ---
-
-####第7条（展示の実施）  
-リサーチャーは、本件業務として、展示を実施する。ただし、場所・回数・内容等の詳細については、主催者およびリサーチャーが別途協議して決定する。  
+  
+####Article 6 (Implementation of Lectures)   
+As part of the Work, the Researcher shall give lectures. Details including contents, location and frequency shall be discussed and determined separately between the Host and the Researcher.   
   
 ---
 
-####第8条（ドキュメントの作成）  
-リサーチャーは、第4条ないし第5条に定める業務について、ドキュメント（ソフトウェアのexample、readme、マニュアル、説明文などの一切の文書およびデモムービーを含む。）を作成しなければならない。編集方法、スケジュールを含むその他詳細は主催者・リサーチャー双方で別途協議して決定する。  
+####Article 7 (Implementation of Exhibitions)  
+As part of the Work, the Researcher shall implement exhibitions. Details including contents, location and frequency shall be discussed and determined separately between the Host and the Researcher.  
+  
+---
+
+####Article 8 (Creation of Documents)  
+8.1 The Researcher shall create documents related to the Work set forth in Articles 3 and 5 (including software examples, "readme" file, manuals, explanations and others, as well as demo movies).   
+Details such as editing process and schedule shall be discussed and determined separately between the Host and the Researcher.  
+  
+8.2 The Host and the Researcher shall share copyrights and other intellectual property rights of such documents set forth in Article 8.1.  
+  
   
  
 
