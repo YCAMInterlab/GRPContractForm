@@ -1,74 +1,67 @@
-#本書の構成
+#Contents  
 
-[•はじめに](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#はじめに)  
-[•各章の概要](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#各章の概要)  
-[•解説](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#解説)  
+[•Introduction](https://github.com/YCAMInterlab/GRPContract/blob/master/README?ENG.md#Introduction)  
+[•Chapter summaries](https://github.com/YCAMInterlab/GRPContract/blob/master/README_ENG.md#Chapter summaries)  
+[•Explanatory notes](https://github.com/YCAMInterlab/GRPContract/blob/master/README_ENG.md#Explanatory notes)  
 
 
 
 ---
 
 
-#はじめに
+#Introduction  
 
-##GRPContractFormについて
+##About the GRPContractForm 
 
 
-GRPContractFormは、クリエイティブでオープンな恊働のフレームワークを実現する契約書のフォーム(ContractForm)です。いわゆるオープンソースコードと同様に、多くの人々が自由に利用し、開発に参加し、派生物を生み出して行くことができる環境を志向し、公開します。  
+The GRPContractForm is a contract form created with the aim to define creative and open collaboration frameworks. The idea is to establish environments comparable to so-called "open-source codes", and make them available to a broad audience to use, further develop, and/or create derivative works.  
 
-このフォームは、アートセンターがメディアアートの研究者やエンジニアを招いて、滞在制作のスタイルで先進的なテーマについて共同研究を行い、その成果をオープン化することで更なる派生や発展を促す、というプロジェクトを実施できるように設計されています。このようなプロジェクトのフレームワークを実現するソースコードと言っても良いでしょう。  
+The purpose of this form is to facilitate projects in which art centers invite researchers and engineers in the field of media art to carry out joint research on cutting-edge topics in a residency style, and encourage further development and derivation of the resulting products by making them openly available. One may consider the form as a source code for a framework for such projects.    
 
-このフォームは、クリエイティブ・コモンズ・ライセンス(詳細は下記「免責事項」をご覧ください)のもとに公開されています*。利用者はライセンスの範囲で、自分たちのプロジェクトのためにアレンジ/フォークし、実利用することができます。更新リクエストも歓迎します。  
+This form is published under a Creative Commons license* (for details see "disclaimer" below). Within the scope of the license, users are free to arrange or fork products to fit their respective projects. Requests for updates are also welcome.   
 
 
 ```
-クリエイティブ・コモンズ・ライセンスは著作物を前提とするライセンスですが、契約書が著作物であるか否かについては議論があります。
-しかし、本プロジェクトでは、メディアアートの新しいフレームワークとして、契約書やそれに関連する情報を広く共有することが重要であると考え、
-一つの試みとして契約書にCCライセンスを付与しています。  
+* A Creative Commons (CC) license is a form of license for copyrighted work. While there is controversy as to whether a contract is a copyrighted work, considering the importance of the fact that the contract and related information are to be broadly shared as a new framework for media art, the contract as part of this project is published under a CC license.    
 ```
 
 
 
-##本コントラクトフォームの特徴
+##Special Features of this Contract Form  
 
-このフォームはGRPは先端的なテーマをもつアーティスト/技術者を研究員として招聘し、YCAM InterLabと共同で研究開発をおこなう滞在研究プログラムであるYCAM Interlab Guest Research Project(GRP)を実施するために実際に使用された契約書をもとに作成されています。  
+This form was created based on an actual contract used for the implementation of the YCAM InterLab Guest Research Project (GRP), a residency program inviting artists/technicians specializing in cutting-edge topics to carry out joint research and development with the YCAM InterLab staff.  
 
 *YCAM Interlab Guest Research Project* (http://interlab.ycam.jp/projects/guestresearch)
 
-研究内容や滞在期間、費用といった、一般的な共同研究や滞在製作に必要な事項はもちろん、成果の公開とその効果を高めるための項目が含まれていることが最大の特徴です。例えば、成果の権利の扱い、公開のライセンスや方法、さらにクレジットやメンテナンスについて定めています。  
+In addition to regulating research contents, residency periods, costs, and other general issues related to joint research and residency projects, this particular contract contains regulations for publishing and improving the efficiency of resulting products. Specified here are, for example, the handling of rights, publishing licenses and methods, as well as credits and maintenance details.    
 
-また、ゲストリサーチャーを外国から招聘することを前提としており、そのために必要な国際的な事務手続(ビザ、租税条約関連)、保険、国際輸送についての項目も盛り込んでいます。パートナーシップについては、主催者とゲストリサーチャーとのフェアな関係の実現を目指しています。  
+As this form assumes the invitation of guest researchers from other countries, it contains items related to the necessary international administrative procedures (such as visa and tax issues), insurance, and international transport. The aim is to establish partnerships based on fair relationships between hosts and guest researchers.      
 
-GRPのフレームワークの構築を通じて、真摯に設計された契約は、アートセンターとアーティスト/技術者との間の信頼関係を強め、より良い成果を生み出せることを知りました。また、契約書はプログラムコードに非常に良く似ており、両者の交錯に大きな可能性があるとも考えます。つまり、共同研究や委託における契約はクリエイションに大きな影響を与え、そのフレームワークを実現する契約書は、プログラムコードと同様に恊働して開発し発達させることができる、ということです。このフォームの公開が、今日的なクリエイションのフレームワークが発達する一助となればと考えています。  
+Through the construction of a GRP framework, we learned that a seriously formulated contract helps strengthen the relationships of mutual trust between art centers and artists/technicians, and produce better results. We further think that a contract is very similar to a program code, and are seeing great potential in a mixture of both. In other words, contracts for joint research or commissioned work have a big effect on the eventual creation, whereas the contracts for realizing such frameworks can be developed in cooperation just like program codes. We hope that the publication of this form will help develop frameworks for contemporary forms of creative work.    
 
 
 
-##つかいかた
+##Usage  
 
-【】でくくられた部分は、契約書ごとに適切な内容に変更する必要が有ります。また、この契約書はあくまでひな形ですので、その他の条項についてもプロジェクトに応じてアレンジして下さい。  
-例えば、ゲストリサーチャーを外国から招聘することを前提としていますが、国内から招聘する場合は、その点を書き換える必要が有ります。具体的には以下の部分を変更します。  
+Parts in brackets ([]) are to be adapted to each specific contract. Furthermore, as this contract is merely a basic model, other items may require modifications/arrangements to fit the respective project.    
+For example, as the form assumes the invitation of guest researchers from abroad, contents will have to be modified for projects on a domestic level. Concrete items to be modified are as follows.    
 
 
 
 ```
-12条(1)委託料a[変更] (3)輸送費用[変更] (6)ビザ申請費用[削除]  
-13条(1)b[削除] (3)ビザ取得手続に対する協力[削除] (4)租税免除の手続[削除]  
+Article 12.1 Commission a) [modify] / 12.3 Transportation Costs [modify] / 12.6 Visa Application [delete]  
+Article 13.1 b) [delete] / 13.3 Cooperation for Visa Application [delete] / 13.4 Tax Exemption Procedures [delete]  
 ```
-詳しくは解説本文を参照ください。  
+For more details, please refer to the explanatory notes     
 
 
-##ライセンス
+##Licenses
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL"> Produced by Yamaguchi Center for Arts and Media [YCAM] Planned & Made by YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
 
 
 
-##クレジット
+##Credits  
 ```
-企画制作: Yamaguchi Center for Arts and Media [YCAM]
-立案・作成: YCAM InterLab
-監修: 水野　祐（クリエイティブ・コモンズ・ジャパン、弁護士）
-協力: ドミニク・チェン（クリエイティブ・コモンズ・ジャパン）
-
 Produced by Yamaguchi Center for Arts and Media [YCAM]
 Planned & Made by YCAM InterLab
 Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law)
@@ -77,20 +70,18 @@ Support: Dominick Chen (Creative Commons Japan)
 
 
 
-##免責事項
+##Disclaimer
 ```
-YCAMはあなたに対し、本テキストに関し、何らの保証もいたしません。
-本サイトの関係者（他の利用者も含む）は、本テキストの利用（閲覧、投稿、外部での再利用など一切の利用を含むものとします。以下同じ）に関し、
-あなたに対して一切責任を負いません。
-あなたが、本テキストを利用する場合は、自己責任で行う必要があります。
-YCAMは、あなたに対し、本テキストの利用の結果生じた損害について、一切責任を負いません。
-YCAMは、あなたの適用される法令に照らして、本テキストの利用が合法であることを保証しません。
-コンテンツとして提供する全ての情報について、内容の合法性・正確性・安全性等、あらゆる点において保証しません。
-また、リンクをしている外部サイトについては、何ら保証しません。
-本テキストは、Creative Commons Attribution-ShareAlike 3.0 Unported Licenseに基づく改変・再利用を許諾しますが、
-法令その他の法慣習に反する形での利用を許諾するものではありません。
-文章と共に表示されている画像は、それぞれ文章とは別個のライセンスに基づく場合があります。
-YCAMは、事前の予告無く、本テキストのほか全部または一部のコンテンツの提供を中止する可能性があります。
+YCAM makes no guarantees whatsoever related to this text.
+The persons involved in the creation/operation of this website (including other users) take no responsibility regarding the usage of this text (including any kind of use such as browsing, contribution, or external re-use; the same shall apply hereinafter).
+When using this text, you are required to take personal responsibility. 
+YCAM takes no responsibility regarding eventual damage resulting from your use of this text.
+YCAM does not guarantee that your use of this text is legitimate according to applicable laws.
+We don't guarantee in any way the legitimacy, accuracy and safety of all information provided as contents.
+We make no guarantees regarding external website linked to from this site.
+This text permits alteration or reuse based on the Creative Commons Attribution-ShareAlike 3.0 Unported License, however it does not permit forms of reuse that violate laws or other regulations.  
+The use of images accompanying the text may be based on license agreements separate from the respective text licenses.  
+YCAM may discontinue the publication of all or parts of this text and all other contents without prior notice.
 ```
 
 ---
@@ -99,53 +90,53 @@ YCAMは、事前の予告無く、本テキストのほか全部または一部�
 
 
 
-#各章の概要
+#Chapter summaries
 
-###[タイトルと当事者](#%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%A8%E5%BD%93%E4%BA%8B%E8%80%85-1)
-本契約書のタイトルと、当事者について記しています。
+###[Title and Parties Concerned](#%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%A8%E5%BD%93%E4%BA%8B%E8%80%85-1)
+Contains this contract's title and information on the parties concerned.  
 ```
-タイトルと当事者
-```
-
-
-###[第1章  総則](#%E7%AC%AC%EF%BC%91%E7%AB%A0--%E7%B7%8F%E5%89%87-1)
-本契約書で定める事の概略や目的について定めています。
-
-```
-第１条（目的）
+Title and Parties Concerned
 ```
 
-###[第2章　本件業務](#%E7%AC%AC2%E7%AB%A0%E3%80%80%E6%9C%AC%E4%BB%B6%E6%A5%AD%E5%8B%99-1)
-主催者がリサーチャーに業務委託を行うこと(2条)や滞在場所および滞在期間(3条)、その業務内容について定めています。
-業務の主体はリサーチおよび開発(4条)ですが、これにともなって行う事項についても示しています(5-8条)。
 
+###[Division 1  General Provisions](#%E7%AC%AC%EF%BC%91%E7%AB%A0--%E7%B7%8F%E5%89%87-1)
+Contains outlines and purposes to be regulated by this contract.  
 
 ```
-第2条（委託）  
-第3条（滞在場所・期間）  
-第4条（研究および開発の内容）  
-第5条（ワークショップの制作および実施）  
-第6条（講演の実施）  
-第7条（展示の実施）  
-第8条（ドキュメントの作成）  
+Article 1 (Purpose)
 ```
 
-###[第3章　成果物の権利帰属](#第3章%E3%80%80成果物の権利帰属-1)
-プロジェクトにおいて発生するさまざまな成果物の権利について定めています。  
-共同研究開発の成果について、知的財産権は共有としつつも、クレジットを適切に表記すれば主催者もしくはリサーチャーが単独でも自由に利用できること、有体物の所有権は主催者が有することを示しています(9条)。  
-また、主催者が記録したアーカイブについては、主催者が著作権を有し、自由に利用できるとしています(10条)。  
+###[Division 2  Assigned Work](#%E7%AC%AC2%E7%AB%A0%E3%80%80%E6%9C%AC%E4%BB%B6%E6%A5%AD%E5%8B%99-1)
+Contains information on the work the host assigns to the guest researcher (Article 2), and on the place and period of work (Article 3).  
+While the assigned work is chiefly research and development (Article 4), this chapter contains also items regulating accompanying activities (Articles 5-8).  
 
 
 ```
-第9条（成果物に関する権利の帰属）
-第10条（写真・映像の撮影、音声の録音）
+Article 2 (Assigned Work)  
+Article 3 (Place and Period of Work)  
+Article 4 (Research and Development Contents)  
+Article 5 (Production and Implementation of Workshops)  
+Article 6 (Implementation of Lectures)  
+Article 7 (Implementation of Exhibitions)  
+Article 8 (Creation of Documents)   
 ```
 
-###[第4章　成果物の公開](#第4章%E3%80%80成果物の公開-1)
-リサーチおよび開発における成果物、つまりソフトウェアおよびその他の著作物の公開について定めています(8条および9条参照)。
+###[Division 3  Attribution of Rights](#第3章%E3%80%80成果物の権利帰属-1)
+Regulates the handling of rights related to all kinds of products resulting from the respective projects.  
+Regarding results of the joint research and development, the chapter specifies that intellectual property rights shall be shared, and that both the host and the researcher may exercise these rights independently as long as credits are indicated appropriately, whereas ownership of material products shall be attributed to the host (Article 9).    
+The chapter further specifies that copyrights in the host's recorded archives shall be attributed to the host, who may make free use of those rights (Article 10).    
+
 
 ```
-第11条（公開およびオープンソース・ライセンスの付与）
+Article 9 (Attribution of Rights Relating to Development Results)
+Article 10 (Photographs, Video and Audio Recordings)
+```
+
+###[Division 4  Publication of Works](#第4章%E3%80%80成果物の公開-1)
+Regulates the publication of software and other copyrighted products resulting from the joint research and development. (See also Articles 8/9)  
+
+```
+Article 11 (Publication of Works, Open-Source Licensing)
 ```
 
 
