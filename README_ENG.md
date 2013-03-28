@@ -22,7 +22,9 @@ This form is published under a Creative Commons license* (for details see "discl
 
 
 ```
-* A Creative Commons (CC) license is a form of license for copyrighted work. While there is controversy as to whether a contract is a copyrighted work, considering the importance of the fact that the contract and related information are to be broadly shared as a new framework for media art, the contract as part of this project is published under a CC license.    
+* A Creative Commons (CC) license is a form of license for copyrighted work. While there is controversy as to whether 
+a contract is a copyrighted work, considering the importance of the fact that the contract and related information are 
+to be broadly shared as a new framework for media art, the contract as part of this project is published under a CC license.    
 ```
 
 
@@ -73,13 +75,15 @@ Support: Dominick Chen (Creative Commons Japan)
 ##Disclaimer
 ```
 YCAM makes no guarantees whatsoever related to this text.
-The persons involved in the creation/operation of this website (including other users) take no responsibility regarding the usage of this text (including any kind of use such as browsing, contribution, or external re-use; the same shall apply hereinafter).
+The persons involved in the creation/operation of this website (including other users) take no responsibility regarding 
+the usage of this text (including any kind of use such as browsing, contribution, or external re-use; the same shall apply hereinafter).
 When using this text, you are required to take personal responsibility. 
 YCAM takes no responsibility regarding eventual damage resulting from your use of this text.
 YCAM does not guarantee that your use of this text is legitimate according to applicable laws.
 We don't guarantee in any way the legitimacy, accuracy and safety of all information provided as contents.
 We make no guarantees regarding external website linked to from this site.
-This text permits alteration or reuse based on the Creative Commons Attribution-ShareAlike 3.0 Unported License, however it does not permit forms of reuse that violate laws or other regulations.  
+This text permits alteration or reuse based on the Creative Commons Attribution-ShareAlike 3.0 Unported License, 
+however it does not permit forms of reuse that violate laws or other regulations.  
 The use of images accompanying the text may be based on license agreements separate from the respective text licenses.  
 YCAM may discontinue the publication of all or parts of this text and all other contents without prior notice.
 ```
