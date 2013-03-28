@@ -216,23 +216,30 @@ The Host shall assume the following obligations to the Researcher:
 (1) Payment of Commission  
   
 a)   The Host shall pay **** yen (tax excluded; hereinafter "Commission") to the Researcher only for the Work defined in Article 2. The Commission shall cover daily wages, travel expenses in the country of residence (except for the expenses specified in Article 12 (2) a), as well as costs of insurance and visa formalities in the country of residence. Regarding payment of Commission based on the above definition, the Researcher shall issue estimates and invoices to the Host.  
+  
 b) The Host shall pay fifty (50) % of the Commission as defined above by bank transfer to an account specified by the Researcher by * **, 20** (bank fees to be covered by the Host).   
 The Host shall pay the remaining part of the Commission by bank transfer to an account specified by the Researcher by * **, 20** (bank fees to be covered by the Host).   
+  
 c) 	The Host shall pay the entire amount without deducting taxes, bank fees or other expenses for reasons not specified in this Agreement.  
+  
 d) The Host and the Researcher regard the day on which the required procedures for the above-mentioned bank transfer are completed as the day of payment.   
+  
 e) 	The Host shall prove the completion of payment to the Researcher by supplying a "wire transfer form" of the bank from which the money transfer was made.   
   
 (2) Travel expenses  
   
 a) 	The Host shall cover expenses for a round trip from an airport near the Researcher's place of residence to the place of stay during the program. When the use of an airplane is necessary, the Host shall agree beforehand to cover the costs of an Economy Class air ticket.  
+  
 b) If actual travel expenses exceed the estimated costs by the Researcher’s intention or negligence after having agreed on details, the Researcher shall cover the excess portion.  
   
 (3) Transportation costs  
   
 a) 	Transportation to the Joint Research Facility  
 If the execution of the Researcher's work requires an international shipment of cargo to the Joint Research Facility, and the Host accepts this in advance, the Host shall compensate for international shipping fees (transportation from a Host-approved location in the country of residence to the Joint Research Facility), charges for customs clearance of [country where the Joint Research Facility is located], and domestic cargo rates in [country where the Joint Research Facility is located] covered in advance by the Researcher.   
+  
 b) 	Transportation from the Joint Research Facility  
 If the execution of the Researcher's work requires an international shipment of cargo from Joint Research Facility, and the Host accepts this in advance, the Host shall cover international shipping fees (transportation from the Joint Research Facility to a location in the country of residence approved by the Host), charges for customs clearance of [country where the Joint Research Facility is located], and domestic cargo rates in [country where the Joint Research Facility is located].
+  
 c) 	In case the Researcher covered transportation costs set forth in a) and b) of this clause in advance, the Researcher shall issue the according invoice(s) or receipt(s) to the Host, together with a copy of the respective receipt of the transportation company.  
   
 (4) Accommodation  
@@ -256,7 +263,9 @@ The Researcher shall assume the following obligations to the Host:
 (1) Payment of expenses  
   
 a)   When the cooperation of a third party is necessary, the Researcher shall do the necessary processing, and cover occurring costs regarding copyrights or other rights belonging to a composer, designer or other rights holder, whenever necessary in order to execute the Work.  
+  
 b) 	The Researcher shall cover accident and health insurance costs for the period from and including the day of departure from the Researcher's country of residence, up to and including the day of departure from [country where the Joint Research Facility is located]  
+  
 c) 	The Researcher shall cover all other expenses spent by the Researcher, except for those defined in this Agreement as the Host's responsibility.  
   
 (2) Credits of Development Results  
@@ -265,6 +274,7 @@ When using or publishing Development Results or derivative products, the Researc
 (3) Cooperation for Visa Acquisition  
   
 a) The Researcher shall properly undertake the necessary procedures for the acquisition of a visa. When the Researcher needs to provide the Host with documents necessary for the visa application, the Researcher shall send these documents timely and by an appropriate method. The Host shall support the acquisition of necessary documents for the Researcher's visa application, but not guarantee or assume responsibility for the issuance of such certificate.  
+  
 b) After receipt of a certificate of eligibility from the Host, the Researcher shall promptly acquire a proper visa. The Researcher's passport must be valid until at least six months from the time of entrance into [country where the Joint Research Facility is located], and have at least two blank pages left.  
   
 (4) Procedure for Tax Exemption  
