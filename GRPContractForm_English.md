@@ -1,4 +1,3 @@
-#ENGせつめいしょができてから、ENGせつめいしょからぬきだすこと!1じょうからぜんぶやりなおし!
 
 #GRPContractForm_English ver.1.0
 
@@ -47,7 +46,7 @@ YCAMは、事前の予告無く、本テキストのほか全部または一部�
 This Agreement was concluded in ●●, 20** between:  
 
 [Name]                                            
-【________________】  (hereinafter "Host")
+【________________】  (hereinafter "Host")  
 [Country of residence]  
 【________________】  
 [Address]  
@@ -414,15 +413,15 @@ In witness hereof, the parties sign this Agreement and agree it to be executed b
 
 Each party will be given a copy of the signed Agreement.  
 
-Host:    			
-【________________】
+Host:  
+【________________】  
 Represented by:  		
 【________________】
 　　　　　　　		  					
   
 Researcher:  
 [Name]  	  	
-【________________】
+【________________】  
 Represented by:  
 [Name]  
 【________________】  
