@@ -140,46 +140,46 @@ Article 11 (Publication of Works, Open-Source Licensing)
 ```
 
 
-###[第5章　その他の権利・義務](#第5章%E3%80%80その他の権利・義務-1)
-主催者の義務(12条)とリサーチャーの義務(13条)を定めています。アーティスト/技術者に対し支払う本件委託業務の対価や費用関連、宿泊、クレジット、権利処理についての項目が主ですが、リサーチャーが外国人の場合のビザや租税条約についての手続についての記述もあります。  
-また、知的財産の保証(12条)、第三者が権利を有するソフトウェアの利用(15条)、滞在期間が終わった後のサポートやメンテナンス(16条)について定めています。  
+###[Division 5  Other Rights and Obligations](#第5章%E3%80%80その他の権利・義務-1)
+Specifies obligations on the Host's (Article 12) and the Researcher's side (Article 13). While mainly regulating the payment of commission to the artists/technicians, as well as the coverage of other expenses, accommodation, and the handling of credits and rights, this chapter also contains information on visa application and tax convention procedures for researchers coming from abroad.    
+The chapter further regulates warranty issues regarding intellectual property (Article 14), the use of software etc. of a third party (Article 15), and support and maintenance after the end of the period of stay (Article 16).  
 
 ```
-第12条（主催者の義務）  
-第13条（リサーチャーの義務）  
-第14条（保証等）  
-第15条（第三者のソフトウェアの利用）  
-第16条（保守）  
+Article 12 (Host's Obligations)
+Article 13 (Researcher's Obligations)
+Article 14 (Warranty)
+Article 15 (Use of Software etc. of a Third Party)
+Article 16 (Maintenance) 
 ```
 
-###[第6章　一般条項](#第6章%E3%80%80一般条項-1)
-共同研究開発契約において一般的な事項について定めています。業務の再委託の禁止(17条)、守秘義務(18条)、主催者とリサーチャーとがどうしてもコントロールできない理由で契約を履行できなかった場合の対処(19条)、主催者が業務を中止しなければならなくなった際のリサーチャーの救済(20条)、契約の解除(21条)、損害賠償(22条)などについての規定があります。
+###[Division 6  General Terms](#第6章%E3%80%80一般条項-1)
+This chapter regulates general issues related to the joint research and development contract. It further contains provisions regarding the prohibition of re-commission (Article 17), confidentiality (Article 18), measures to be taken if the agreement cannot be fulfilled due to reasons beyond the control of the host and/or researcher (Article 19), the payment of redemption to the researcher if the host is forced to discontinue the project (Article 20), cancellation (Article 21), damage compensation (Article 22), etc.  
 
 ```
-第17条（再委託の禁止）  
-第18条（守秘義務）  
-第19条（不可抗力）  
-第20条（業務の中止）  
-第21条（解除）  
-第22条（損害賠償）  
-第23条（責任）  
-第24条（権利の譲渡禁止等）  
-第25条（変更）  
-第26条（完全なる合意）  
-第27条（契約期間）  
-第28条（準拠法）  
-第29条（管轄）  
-第30条（優先関係）  
+Article 17 (Prohibition of Re-commission)
+Article 18 (Confidentiality)
+Article 19 (Force Majeure)
+Article 20 (Discontinuation of Work)
+Article 21 (Cancellation)
+Article 22 (Damage Compensation)   
+Article 23 (Responsibility)
+Article 24 (Non-assignment of Rights)
+Article 25 (Modifications to this Agreement)
+Article 26 (Entire Agreement)
+Article 27 (Term of Agreement)
+Article 28 (Governing Law)
+Article 29 (Jurisdiction)
+Article 30 (Language of Priority)
 ```
 
 
 
 ---
 
-#解説
+#Explanatory Notes
 
 
-##タイトルと当事者
+##Title and Parties Concerned
 
 >  
 >####共同研究開発契約書  
