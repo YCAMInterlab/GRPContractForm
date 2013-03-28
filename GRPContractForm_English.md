@@ -43,12 +43,11 @@ YCAMは、事前の予告無く、本テキストのほか全部または一部�
 
 #JOINT RESEARCH AND DEVELOPMENT AGREEMENT
 
-####（主催者）
 
 This Agreement was concluded in ●●, 20** between:  
 
-[Name]                                            (hereinafter "Host")  
-【________________】  
+[Name]                                            
+【________________】  (hereinafter "Host")
 [Country of residence]  
 【________________】  
 [Address]  
@@ -60,27 +59,31 @@ This Agreement was concluded in ●●, 20** between:
 
 
 
-####（リサーチャー）
 
 and  
   
-[Name]  						(hereinafter "Researcher")  
+[Name]  					              	
+【________________】  (hereinafter "Researcher")  
 [Country of residence]  
+【________________】  
 [Address]  
+【________________】  
 [E-mail]  
-[Phone]	  
+【________________】  
+[Phone]  
+【________________】  
   
 
 ##Division 1 GENERAL PROVISIONS  
 
 ####Article 1 (Purpose)   
-The Purpose of this agreement is to define the roles of the Host and the Researcher, as well as the retention of rights on the results, methods of publishing results, and other rights and obligations on the Host's and the Researcher's side during their joint research and development, with the aim to contribute to the development of culture by publishing development results such as software and hardware as common property of mankind.   
+The Purpose of this agreement is to define the roles of the Host and the Researcher, as well as the retention of rights on the results, methods of publishing results, and other rights and obligations on the Host's and the Researcher's side during their joint research and development, with the aim to contribute to the development of culture by publishing development results such as software and hardware as common property of mankind.  
   
  
 
-##DivisionⅡ ASSIGNED WORKS  
+##DivisionⅡ ASSIGNED WORKS 
 
-####Article 2 (Assigned Work)   
+####Article 2 (Assigned Work) 
 The Host shall assign the following work (hereinafter "Work") to the Researcher, and the Researcher shall accept the assignment.   
 (1) Work contents  
 a) Joint research and development with the Host at a place specified by the Host  
@@ -91,345 +94,340 @@ e) Implementation of exhibitions
 f) Creation of documents related to (a) and (b)  
 g) Maintenance of software and hardware  
 h) Miscellaneous other work related to all of the above  
+  
 (2) Work period and schedule  
 The Host and the Researcher shall discuss and determine the period and schedule of work separately.  
   
-  
 ---
   
-####Article 3 (Place and Period of Work)  
-3.1 The Researcher shall conduct the Work at the following place:    
+####Article 3 (Place and Period of Work)
+3.1 The Researcher shall conduct the Work at the following place:  
 [Name]  
 【________________】   
 [Address]  
 【________________】   
- (hereinafter "Joint Research Facility")  
+ (hereinafter "Joint Research Facility")
   
 3.2 The Researcher shall stay for the period from * **, 20** until * **, 20** (hereinafter "Period of Stay").   
 A detailed schedule shall be worked out between the Host and the Researcher.  
     
 ---
 
-####Article 4 (Research and Development Contents)   
-The Host and the Researcher shall conduct joint research and development on the following subject.   
+####Article 4 (Research and Development Contents) 
+The Host and the Researcher shall conduct joint research and development on the following subject.      
 【________________】  
  
 ---
   
-####Article 5 (Production and Implementation of Workshops)   
+####Article 5 (Production and Implementation of Workshops) 
 5.1 During the Period of Stay set forth in Article 2.2, the Researcher shall produce workshops on the research and development set forth in Article 3 at Joint Research Facility. Detailed contents of workshops shall be discussed and determined separately between the Host and the Researcher.  
   
 5.2 The Researcher shall carry out the workshops produced according to the preceding clause during the Period of Stay set forth in Article 2.2. Details such as workshop locations and frequency shall be discussed and determined separately between the Host and the Researcher.   
   
 ---
   
-####Article 6 (Implementation of Lectures)   
-As part of the Work, the Researcher shall give lectures. Details including contents, location and frequency shall be discussed and determined separately between the Host and the Researcher.   
+####Article 6 (Implementation of Lectures) 
+As part of the Work, the Researcher shall give lectures. Details including contents, location and frequency shall be discussed and determined separately between the Host and the Researcher.     
   
 ---
 
-####Article 7 (Implementation of Exhibitions)  
+####Article 7 (Implementation of Exhibitions)
 As part of the Work, the Researcher shall implement exhibitions. Details including contents, location and frequency shall be discussed and determined separately between the Host and the Researcher.  
   
 ---
 
-####Article 8 (Creation of Documents)  
+####Article 8 (Creation of Documents)
 8.1 The Researcher shall create documents related to the Work set forth in Articles 3 and 5 (including software examples, "readme" file, manuals, explanations and others, as well as demo movies).   
 Details such as editing process and schedule shall be discussed and determined separately between the Host and the Researcher.  
   
 8.2 The Host and the Researcher shall share copyrights and other intellectual property rights of such documents set forth in Article 8.1.  
   
   
+  
  
 
-##第3章 成果物の権利帰属
+##DivisionⅢ ATTRIBUTION OF RIGHTS
 
-####第9条（成果物に関する権利の帰属）  
-1  本件成果物一般にかかる通則  
-第2条に定める本件業務における成果物(ソフトウェア、ハードウェア、写真、映像、図面、ドキュメント、データ、技術的方法、ノウハウその他一切の成果物を含む。以下「本件成果物」という)に関する著作権、特許権その他知的財産権を含む一切の権利（ただし、本条第4項で定める所有権は除く）の帰属は、以下のとおりとする。  
+####Article 9 (Attribution of Rights Relating to Development Results) 
+9.1 General Provision about Development Results  
+The attribution of all rights including copyrights, patent rights and other intellectual property rights (except the ownership specified in Article 9.4) of  development results as part of the Work defined in Article 2 (including software, hardware, images, movies, plans, drawings, documents, data, techniques, know-how and other results of development; hereinafter "Development Results") shall be handled as follows:  
+a) The Host and the Researcher shall share copyrights, patent rights and other intellectual property rights of the Development Results.  
+b) Copyrights, patent rights and other intellectual property rights owned by the Host or the Researcher before commencement of the Work shall remain in the possession of the respective party.  
+c)   When the attribution of copyrights, patent rights and other intellectual property rights is unclear, rights shall be considered as shared.   
   
-a 本件成果物の著作権、特許権その他知的財産権を含む一切の権利は、主催者およびリサーチャーの共有とする。  
-b 本件業務の着手前からすでに主催者またはリサーチャーが有していた著作権、特許権その他知的財産権を含む一切の権利は、そのまま各当事者に帰属する。  
-c 前bに定める事項につき、どちらに帰属していたか不明の場合には主催者およびリサーチャーの共有とする。  
+9.2 Attribution of Rights Relating to the Developed Software  
+When the Development Results contain software (hereinafter "Developed Software"), the attribution of rights of the Developed Software shall be handled as follows:  
+a) 	The Host and the Researcher shall share copyrights, patent rights and other intellectual property rights of the source-code and compiled object-code of the Developed Software.  
+b) Copyrights, patent rights and other intellectual property rights relating to the Developed Software owned by the Host or the Researcher before commencement of the Work shall remain in the possession of the respective party.  
+c) 	When the attribution of copyrights, patent rights and other intellectual property rights relating to the Developed Software is unclear, rights shall be considered as shared.   
   
-2  ソフトウェアにかかる権利の帰属  
-第1項の規定にかかわらず、本件成果物にソフトウェア（以下「本件ソフトウェア」という）が含まれる場合には、かかる本件ソフトウェアに関する著作権、特許権その他知的財産権の帰属は、以下のとおりとする。  
+9.3 Attribution of Rights Relating to the Developed Hardware  
+When the Development Results contain hardware (including physical materials such as machines, devices, boards, circuits etc., but excluding photographs, plans, drawings and documents etc.; hereinafter "Developed Hardware"), the attribution of rights of the Developed Hardware shall be handled as follows:  
+a) 	The Host and the Researcher shall share copyrights, patent rights and other intellectual property rights of the Developed Hardware.  
+b) Copyrights, patent rights and other intellectual property rights relating to the Developed Hardware owned by the Host or the Researcher before commencement of Work shall remain in the possession of the respective party.  
+c) 	When the attribution of copyrights, patent rights and other intellectual property rights relating to the Developed Hardware is unclear, rights shall be considered as shared.   
   
-a 本件ソフトウェアのソースコード、コンパイルされたオブジェクトコードの著作権、特許権その他知的財産権は、主催者およびリサーチャーの共有とする。  
-b 本件業務の着手前からすでに主催者またはリサーチャーが有していた著作権、特許権その他知的財産権は、そのまま各当事者に帰属する。  
-c 前bに定める事項につき、どちらに帰属していたか不明の場合には主催者およびリサーチャーの共有とする。  
+9.4 In the case of material Development Results, ownership of the Development Results shall be attributed to the Host.  
   
-3  ハードウェアにかかる権利の帰属  
-第1項の規定にかかわらず、本件成果物にハードウェア（機械、装置、基板、回路等の物理的な実体のことをいい、写真、図面、ドキュメント等を除くものをいう。以下「本件ハードウェア」という）が含まれる場合には、かかる本件ハードウェアに関する著作権、特許権その他知的財産権の帰属は、以下のとおりとする。  
+9.5 When the Host and the Researcher co-own in whole or in part copyrights and other intellectual property rights of the Development Results defined in Article 9.1-4, the Host or the Researcher may exercise these rights without the respective co-holder's agreement. However, the foregoing shall not apply when rights are found to be exercised without due reason (including rights not exercised by mandatory provision). The Host or the Researcher may only use data that don't involve copyrights.  
   
-a 本件ハードウェアの著作権、特許権その他知的財産権は、主催者およびリサーチャーの共有とする。  
-b 本件業務の着手前からすでに主催者またはリサーチャーが有していた著作権、特許権その他知的財産権は、そのまま各当事者に帰属する。  
-c 前bに定める事項につき、どちらに帰属していたか不明の場合には主催者およびリサーチャーの共有とする。  
-  
-4 本件成果物が有体物の場合には、かかる有体物の所有権は主催者に帰属する。  
-  
-5 第1項から第4項に定める本件成果物に関する著作権、特許権その他知的財産権を含む一切の権利の一部または全部が主催者とリサーチャーの共有である場合、主催者またはリサーチャーは、かかる共有に係る権利をそれぞれ単独で行使することができる。ただし、主催者またはリサーチャーの単独による権利行使に正当な理由がない場合（強行規定として単独行使が認められない場合も含む）にはこの限りではない。なお、本件成果物のうち著作権の対象とならないデータについては、主催者またはリサーチャーはこれを単独で利用することができる。  
-  
-6 主催者は、リサーチャーに対し、リサーチャーの請求があった場合には、可能なかぎり、本件成果物のうち有体物を無償にて貸与する。ただし、かかる貸与にかかる輸送、保険その他一切の費用はリサーチャーの負担とする。  
-  
+9.6 Upon request, the Host agrees to lend eventual material Developed Results to the Researcher free of charge whenever possible. However, the Researcher shall cover transportation, insurance and other expenses involved in the use of loaned hardware.  
+    
   
 ---
 
-####第10条（写真・映像の撮影、音声の録音）  
-1  リサーチャーは、本件業務全体について、主催者または主催者が指定する者が、広告宣伝、研究開発および本件業務のアーカイブその他主催者が必要と判断する範囲において、リサーチャーの写真または映像を撮影すること、または、音声等を録音することに同意する。  
+####Article 10 (Photographs, Video and Audio Recordings)
+10.1 As part of the Work, the Researcher agrees to have photographs, video or audio recordings made by the Host or person specified by the Host, to be used for advertisement, research, development, archive creation, and other purposes whenever considered necessary by the Host.   
   
-2  前項により撮影した写真・映像および録音した音声等の著作権は、すべて主催者に帰属する（著作権法第27条および第28条の権利も含むものとする）。  
+10.2 Copyrights in photographs, video or audio recordings as specified in Article 9.1 shall be attributed to the Host (including rights set forth in the Copyright Act of Japan, Articles 27 & 28).   
   
-3  リサーチャーは、第1項に基づき撮影した写真、映像について、肖像権等の自己の権利を主張してはならない。  
+10.3 The Researcher shall not claim the right of likeness and publicity or other rights in photographs or video recordings as specified in Article 9.1.   
   
-4  リサーチャーは、第１項に基づき録音した音声等の著作者人格権を行使してはならない。  
+10.4 The Researcher shall not exercise moral rights of the author of audio recordings as specified in Article 9.1.  
   
-5  リサーチャーは、主催者に対して、第1項に規定する写真、映像または音声の提供を請求できる。ただし、主催者が写真、映像または音声を提供するためにかかる費用およびそのために必要な手続・処理は、リサーチャーが負担するものとする。  
+10.5 The Researcher may request the supply of photographs, video or audio recordings as specified in Article 9.1 from the Host. However, the Researcher shall be responsible for formalities and other procedures involved in the supply of materials, and cover all expenses.  
   
    
 
 
 
-##第4章 成果物の公開
+##DivisionⅣ PUBLICATION OF WORKS
 
-####第11条（公開およびオープンソース・ライセンスの付与） 
-1  リサーチャーは、主催者または主催者が指定する者が、第三者に対し、本件成果物を公開（ダウンロード、ストリーミングを含む）することに同意する。  
+####Article 11 (Publication of Works, Open-Source Licensing)
+11.1 The Researcher agrees the Host or person specified by the Host to publish the Development Results (including downloading and Internet streaming).   
   
-2  リサーチャーは、主催者が本件ソフトウェアをオープンソース・ライセンス（GPL、MIT License、Apache License等を含むオープンソース・ライセンスをいう）を付与したうえで、公開することに同意する。  
+11.2 The Researcher agrees the Host to publish the Developed Software under open-source licenses (such as GPL, MIT License, Apache License etc.).  
   
-3  リサーチャーは、主催者が、本件成果物のうち、本件ソフトウェアを除く、一切の著作物をクリエイティブ・コモンズ・ライセンスの下に公開することに同意する。  
+11.3 The Researcher agrees the Host to publish all copyrighted items resulting from the Work, except for the Developed Software, under Creative Commons licenses.  
   
-4  本条第2項または第3項に定める場合において、リサーチャーはオープンソース・ライセンスおよびクリエイティブ・コモンズ・ライセンスの仕組みを十分に理解しているものとする。なお、ライセンスの詳細な条件、公開方法その他公開の詳細については、主催者・リサーチャー間において別途協議して決定するものとする。  
+11.4 Based on the premise that the Researcher has sufficient knowledge of the structures of open source and Creative Commons licenses set forth in Articles 10.2 and 10.3, details such as licensing conditions and methods shall be discussed and determined separately between the Host and the Researcher.  
   
   
 
   
   
-##第5章 その他の権利・義務
+##DivisionⅤ OTHER RIGHTS AND OBLIGATIONS
 
-####第12条（主催者の義務）  
+####Article 12 (Host's Obligations)  
   
-主催者は、リサーチャーに対し、以下の義務を負う。  
+The Host shall assume the following obligations to the Researcher:  
   
-(1) 委託料  
+(1) Payment of Commission  
+a)   The Host shall pay **** yen (tax excluded; hereinafter "Commission") to the Researcher only for the Work defined in Article 2. The Commission shall cover daily wages, travel expenses in the country of residence (except for the expenses specified in Article 12 (2) a), as well as costs of insurance and visa formalities in the country of residence. Regarding payment of Commission based on the above definition, the Researcher shall issue estimates and invoices to the Host.  
+b) The Host shall pay fifty (50) % of the Commission as defined above by bank transfer to an account specified by the Researcher by * **, 20** (bank fees to be covered by the Host).   
+The Host shall pay the remaining part of the Commission by bank transfer to an account specified by the Researcher by * **, 20** (bank fees to be covered by the Host).   
+c) 	The Host shall pay the entire amount without deducting taxes, bank fees or other expenses for reasons not specified in this Agreement.  
+d) The Host and the Researcher regard the day on which the required procedures for the above-mentioned bank transfer are completed as the day of payment.   
+e) 	The Host shall prove the completion of payment to the Researcher by supplying a "wire transfer form" of the bank from which the money transfer was made.   
   
-a 主催者は、第2条に定める本件業務に対する唯一の対価として、金****円（税抜き）（以下「委託料」という）を支払う。委託料には、日当、交通費（後記(2)aに定める居住国内の移動費を除く)、居住国内でのビザ取得手続にかかる費用、保険費用が含まれるものとする。リサーチャーは、本項に基づく委託料の支払について、主催者に対し、見積書及び請求書を提出する。  
-b 主催者は、前aに定める委託料の50パーセントを、20**年**月**日までに、リサーチャーが別途指定する銀行口座に振り込む方法によって支払う（振込手数料は主催者の負担とする）。残りの委託料は、20**年**月**日もしくはそれ以降にリサーチャーが別途指定する銀行口座に振り込む方法によって支払う（振込手数料は主催者の負担とする）。  
-c  主催者は、課税、銀行手数料その他この契約で明確でない他の理由によって控除することなく、前aに定める委託料の全額を支払う。   
-d 主催者が上記銀行口座に必要な支払手続きを完了した日をもって支払日となす。  
-e 主催者が以上の手続きを完了した銀行は、「電信送金申請書」を発行し、これをもって、主催者がリサーチャーへの支払を完了したことを証する。  
+(2) Travel expenses  
+a) 	The Host shall cover expenses for a round trip from an airport near the Researcher's place of residence to the place of stay during the program. When the use of an airplane is necessary, the Host shall agree beforehand to cover the costs of an Economy Class air ticket.  
+b) If actual travel expenses exceed the estimated costs by the Researcher’s intention or negligence after having agreed on details, the Researcher shall cover the excess portion.  
   
-(2) 移動費用   
+(3) Transportation costs  
+a) 	Transportation to the Joint Research Facility  
+If the execution of the Researcher's work requires an international shipment of cargo to the Joint Research Facility, and the Host accepts this in advance, the Host shall compensate for international shipping fees (transportation from a Host-approved location in the country of residence to the Joint Research Facility), charges for customs clearance of [country where the Joint Research Facility is located], and domestic cargo rates in [country where the Joint Research Facility is located] covered in advance by the Researcher.   
+b) 	Transportation from the Joint Research Facility  
+If the execution of the Researcher's work requires an international shipment of cargo from Joint Research Facility, and the Host accepts this in advance, the Host shall cover international shipping fees (transportation from the Joint Research Facility to a location in the country of residence approved by the Host), charges for customs clearance of [country where the Joint Research Facility is located], and domestic cargo rates in [country where the Joint Research Facility is located].
+c) 	In case the Researcher covered transportation costs set forth in a) and b) of this clause in advance, the Researcher shall issue the according invoice(s) or receipt(s) to the Host, together with a copy of the respective receipt of the transportation company.  
   
-a 主催者は、リサーチャーの居住地の最寄りの空港から、滞在地までの往復の移動費用１回分を負担する。なお、航空機の利用が必要な場合、航空運賃については、エコノミークラスの金額を前提に、事前に主催者が合意した金額とする。  
-b 主催者およびリサーチャーが移動費用に合意した後に、リサーチャーの故意または過失により、実際に発生した移動費用が見積額を超えた場合は、リサーチャーが超過部分を負担するものとする。  
+(4) Accommodation  
+The Host shall provide a one-room apartment for the Researcher for the period from * **, 20** to * **, 20**. The Researcher shall cover all other costs (including telecom, food, etc.), as well as additional lodging expenses in case the Researcher is accompanied by another person.    
   
-(3) 輸送費用  
+(5) Equipment supply and support   
+In accordance with this Agreement, the Host shall cooperate regarding the Developed Software and the Developed Hardware, and provide necessary goods or equipment to a possible and reasonable extent.  
   
-a 往路について  
-主催者は、リサーチャーが本件業務の遂行のために貨物の国際輸送をする必要があり、かつ、主催者がこれを事前に認めた場合には、リサーチャーが負担した国際輸送運賃（居住国内の主催者が認めた場所から共同研究機関の所在地までの輸送運賃）、【共同研究機関が所在する国】の通関に必要な手数料および【共同研究機関が所在する国】内における貨物運賃を事後的に支払う。  
-b 復路について  
-主催者は、リサーチャーが本件業務の遂行のために貨物の国際輸送をする必要があり、かつ、主催者がこれを事前に認めた場合には、国際輸送運賃（共同研究機関の所在地から居住国内の主催者が認めた場所までの輸送運賃）、【共同研究機関が所在する国】の通関に必要な手数料および【共同研究機関が所在する国】内における貨物運賃を支払う。  
-c リサーチャーは、前aおよびbに定める輸送費用をリサーチャーが立て替えた場合には、その請求書または領収書を主催者宛に発行する。リサーチャーは、自分の請求書と合わせ、輸送会社の請求書のコピーを提出しなければならない。  
+(6) Visa application costs   
+The Host shall cover the costs of a visa application if the Researcher needs to apply for a visa in [country where the Joint Research Facility is located]. However, the Researcher shall cover visa application expenses that occur in the Researcher's country of residence.  
   
-(4) 宿泊  
-主催者は、リサーチャーに対し、20**年**月**日から20**年**月**日までの期間のアパート1室を主催者の費用にて提供する。これ以外の費用（電話、食事、飲料など、その他の一切の個人的な費用を含む）はリサーチャーが負担する。リサーチャー以外に同伴者がいる場合、かかる同伴者の宿泊費は、リサーチャーが負担する。  
+(7) Credits of Development Results  
+When using or publishing Development Results or derivative products, the Host shall indicate for all results of the Work, during and after the term of this Agreement, that these were produced through joint research and development with the Researcher at the Joint Research Facility. Details of such credits are to be discussed and determined separately between the Host and the Researcher.  
   
-(5) 機材の提供およびサポート  
-主催者は、本契約にしたがって、リサーチャーの研究および開発に協力し、合理的かつ可能な範囲で必要な物品または機材を手配または提供する。  
-  
-(6) ビザ申請費用  
-主催者は、リサーチャーが【共同研究機関が所在する国】におけるビザを申請する必要がある場合には、かかるビザの申請費用を負担する。ただし、ビザ申請に関し、リサーチャーの居住国内で発生する費用については、リサーチャーが負担するものとする。  
-  
-(7) 成果物に関する表記  
-主催者は、本件成果物及びその派生物を利用又は公開する場合には、本契約期間中および本契約期間終了後においても、主催者およびリサーチャーが共同で制作したことを表記しなければならない。表記に関する具体的な内容は、主催者・リサーチャー間において別途協議して決定する。  
   
 ---    
   
-####第13条（リサーチャーの義務）  
-リサーチャーは、主催者に対し、以下の義務を負う。  
+####Article 13 (Researcher's Obligations)  
+The Researcher shall assume the following obligations to the Host:  
   
-(1) 費用負担  
-リサーチャーは、以下の費用を負担する。  
+(1) Payment of expenses  
+a)   When the cooperation of a third party is necessary, the Researcher shall do the necessary processing, and cover occurring costs regarding copyrights or other rights belonging to a composer, designer or other rights holder, whenever necessary in order to execute the Work.  
+b) 	The Researcher shall cover accident and health insurance costs for the period from and including the day of departure from the Researcher's country of residence, up to and including the day of departure from [country where the Joint Research Facility is located]  
+c) 	The Researcher shall cover all other expenses spent by the Researcher, except for those defined in this Agreement as the Host's responsibility.  
   
-a 本件業務の遂行に第三者の関与を必要とする場合、リサーチャーは、作曲家、デザイナー、その他本件業務に関する他の権利保有者の著作権及びその他の必要な権利について、本件業務において必要とされる処理を行い、その対価を支払う。  
-b リサーチャーは、【共同研究機関が所在する国】に来るために居住国を出発した日から、【共同研究機関が所在する国】から居住国に帰国する日までを含む期間におけるリサーチャーに対する疾病、事故および傷害に関し、保険を付保しなければならない。  
-c リサーチャーは、本契約において主催者の責任として特段定められているものを除き、リサーチャーにより費やされる一切の費用を負担する。  
+(2) Credits of Development Results  
+When using or publishing Development Results or derivative products, the Researcher shall indicate for all results of the Work, during and after the term of this Agreement, that these were produced through joint research and development with the Host at the Joint Research Facility. Details of such credits are to be discussed and determined separately between the Host and the Researcher.  
   
-(2) 成果物に関する表記  
-リサーチャーは、本件成果物及びその派生物を利用又は公開する場合には、本契約期間中および本契約期間終了後においても、主催者およびリサーチャーが共同で制作したことを表記しなければならない。表記に関する具体的な内容は、主催者・リサーチャー間において別途協議して決定する。  
+(3) Cooperation for Visa Acquisition  
+a) The Researcher shall properly undertake the necessary procedures for the acquisition of a visa. When the Researcher needs to provide the Host with documents necessary for the visa application, the Researcher shall send these documents timely and by an appropriate method. The Host shall support the acquisition of necessary documents for the Researcher's visa application, but not guarantee or assume responsibility for the issuance of such certificate.  
+b) After receipt of a certificate of eligibility from the Host, the Researcher shall promptly acquire a proper visa. The Researcher's passport must be valid until at least six months from the time of entrance into [country where the Joint Research Facility is located], and have at least two blank pages left.  
   
-(3)  ビザ取得手続に対する協力  
+(4) Procedure for Tax Exemption  
+When the Researcher is exempted taxes in a foreign countries, the Researcher shall provide the Host with data or documents required for tax exemption procedures at least one month prior to the Researcher's entrance into [country where the Joint Research Facility is located].  
   
-a リサーチャーは、リサーチャーのビザ取得に必要な手続を適切に行わなければならない。この手続において、リサーチャーが主催者に対し、ビザ取得に必要な書類を送付する必要が有る場合は、リサーチャーは主催者に対し、これらの書類を適切な期間内および手続によって送付する。主催者は、リサーチャーのビザ取得に必要な書類の収集に協力するが、その発行を保証し、その発行に責任を持つものではない。  
-b リサーチャーは、主催者からビザ取得に必要な書類を受領した場合、その受領後すみやかにビザの取得を行わなければならない。リサーチャーのパスポートは【共同研究機関が所在する国】に入国時より最低6ヶ月間有効で、最低2頁空のページがなければならない。  
+(5) Cooperation for PR/report concerning  
+The Researcher shall provide the Host with materials such as profile, photograph(s), text(s), work documentation (video)(s), printed matters, and others to be used for PR/report concerning the Work, and allows the Host to use such data free of charge when deemed necessary.  
   
-(4) 租税免除の手続  
-リサーチャーは、リサーチャーが居住国以外における租税免除の対象となる場合には、主催者に対し、租税免除の手続に必要な資料を、【共同研究機関が所在する国】に入国する1ヶ月前までに送付しなければならない。  
-  
-(5) 広報等に対する協力  
-リサーチャーは、主催者に対して、本件業務に関する広報・報告用資料（プロフィール、写真、テキスト、業務内容の録画、印刷物等）および情報を提供し、主催者が必要と認める範囲内でそれらを無償にて自由に使用することに同意する。  
-
-(6)  法令等の遵守  
-リサーチャーは、【共同研究機関が所在する国】に滞在中、共同研究機関の規則、【共同研究機関が所在する国】の法令およびガイドラインならびに公序良俗を遵守する。リサーチャーに違約があった場合及びリサーチャーの故意または過失による火災、事故等の一切の責任はリサーチャーが負う。  
+(6) Compliance with Laws and Regulations  
+During the Researcher’s stay in [the country where Joint Research Facility is located] , the Researcher shall obey the rules of Joint Research Facility, law of [country where the Joint Research Facility is located] and public policy. In the case of fire or other accident caused by intention, negligence or a breach of contract by the Researcher, the Researcher shall assume full responsibility.  
   
   
 ---
 
 
+####Article 14 (Warranty)   
 
-
-
-####第14条（保証等）  
-
-1  リサーチャーは、主催者に対し、リサーチャーが本契約を締結する正当な権限を有することを保証し、本件業務が第三者の特許権、著作権、商標権、意匠権その他一切の権利を侵害せず、第三者を誹謗中傷せず、プライバシーの侵害もしないことを保証する。万一第三者との間で紛争が生じた場合には、その処理解決に要した費用（弁護士費用およびその他の実費を含む）は、リサーチャーの負担とする。  
+14.1 In executing the Work, the Researcher shall warrant to the Host that the Researcher has legitimate authority to conclude this Agreement, and that the Work will not infringe on copyrights, patent rights, trademark rights, design rights, other intellectual property rights, or any other rights owned by a third party, or that mentally abuse, or violate the privacy of a third party. In the event of any dispute with a third party, Researcher shall cover all expenses (including legal fees and other costs) for resolving the problem.  
   
-2  リサーチャーは、本件成果物にリサーチャーが本件業務に関与する以前から有する特許権等が含まれる場合には、かかる特許権等を行使しないことに同意する。  
-  
+14.2 Whenever a product of the Work involves the Researcher's own patent rights etc. owned before commencement of the Work, the Researcher agrees not to enforce such rights.    
+    
 ---
 
 
-####第15条（第三者のソフトウェア等の利用）  
+####Article 15 (Use of Software etc. of a Third Party)  
 
-本件業務の遂行にあたり、第三者が権利を有するソフトウェア等の利用が必要となるときは、主催者・リサーチャー間で協議のうえ、当該第三者との間でライセンス契約の締結を行うなど、その取扱いにつき定めるものとする。  
+Whenever the Work requires the use of software etc., the rights of which are owned by a third party, the Host and the Researcher shall discuss the matter, and decide on the usage of the software, such as by licensing or other necessary agreement with the third party.  
   
 ---
 
-####第16条（保守）
+####Article 16 (Maintenance) 
 
-1  リサーチャーは、本件ソフトウェアおよび本件ハードウェアの保守、管理、改良および発展（ユーザーグループの活性化等）につき、滞在期間終了後2年間は、無償で、可能な限りの協力を行う。  
+16.1 The Researcher shall cooperate without compensation and to the extent possible on maintenance, administration, improvement and development (through user groups, etc.) of the Developed Software and the Developed Hardware for two (2) years after the Period of Stay.  
   
-2  リサーチャーは、滞在期間終了後1年以内に、本件ソフトウェアが稼動するOS等の動作環境のアップデートが行われた場合、本件ソフトウェアがその新しい動作環境において稼動するよう、本件ソフトウェアを無償で改修したうえで、公開しなければならない。  
+16.2 In the event of an OS update or other modification concerning the Developed Software's operating environment within one (1) year after the end of the Period of Stay, the Researcher shall make the upgrades necessary for the Developed Software to run in the respective new environment, and make the updated software accessible to the public without compensation.   
   
-3  リサーチャーは、滞在期間終了後1年以内に、本件ソフトウェアを開発する統合開発環境やライブラリ等の開発環境のアップデートが行われた場合、本件ソフトウェアがその新しい開発環境において開発できるよう、本件ソフトウェアを無償で改修したうえで、公開しなければならない。  
+16.3 In the event of an update to the integrated development environment, library or other parts of the development environment of the Developed Software within one (1) year after the end of the Period of Stay, the Researcher shall make the upgrades necessary for the software to be developed in the respective new environment, and make the updated software accessible to the public without compensation.   
   
-4  滞在期間終了後1年以内に本件ハードウェアに使用する部品等が製造中止となった場合、リサーチャーは、本件ハードウェアと同様の機能を発揮できるよう、代替部品を用いて本件ハードウェアを無償にて再設計・製造し、動作の検証を行ったうえで、公開しなければならない。ただし、リサーチャーによる代替部品の購入にかかる費用は主催者の負担とし、リサーチャーは購入に際し、主催者より事前に許諾を得るものとする。  
+16.4 In the event of a termination of manufacture of parts used for the Developed Hardware within one (1) year after the end of the Period of Stay, the Researcher shall re-design and rebuild equally functioning hardware using the respective substitute part(s) without compensation, and make the updated hardware accessible to the public after verifying its operation. However, the Host shall cover the costs of substitute part(s), and the Researcher shall purchase the substitute part(s) only with the Host's consent.  
+  
 
 
 
+##DivisionⅥ GENERAL TERMS 
 
-##第6章 一般条項
+####Article 17 (Prohibition of Re-commission) 
 
-####第17条（再委託の禁止）  
-
-リサーチャーは、本件業務の全部または一部を第三者に再委託することはできない。ただし、主催者・リサーチャー間で協議のうえ、主催者が書面による再委託の許可をした場合に限り、リサーチャーは本件業務の再委託をすることができる。  
+The Researcher shall not re-entrust all or part of the Work to a third party. However, the Host and the Researcher may assign the Work to a third party if the Host permits such re-commission by a document to be issued after mutual agreement.  
 
 ---
 
   
-####第18条（守秘義務）  
+####Article 18 (Confidentiality) 
 
-1 主催者およびリサーチャーは、本契約期間中はもとより終了後も、本契約に基づき相手方から開示された情報を守秘し、第三者に開示してはならない。  
+18.1 During and after the term of this Agreement, the Host and the Researcher shall treat confidentially all information disclosed by the respective other party based on this Agreement, and not disclose it to a third party.   
   
-2 前項の守秘義務は、以下のいずれかに該当する場合には適用しない。  
- (1) 公知の事実または当事者の責めに帰すべき事由によらずして公知となった事実  
- (2) 第三者から適法に取得した事実  
- (3) 開示の時点ですでに相手方が保有していた事実  
- (4) 法令、政府機関、裁判所の命令により開示が義務付けられた事実  
+18.2 The preceding clause shall not apply for information  
+(1) that is publicly known or became known for reasons not imputable to the party concerned.   
+(2) that was lawfully acquired by a third party.  
+(3) that had already been possessed at the time of disclosure.   
+(4) the disclosure of which was required by law, or mandated by the court or governmental organization.  
+  
   
 ---
 
 
-####第19条（不可抗力）  
+####Article 19 (Force Majeure)  
+  
+19.1 In the event the Host or the Researcher does not fulfill this Agreement due to a natural disaster, war, revolution, riot, epidemic or other cause beyond the control of the Host and the Researcher, this shall not be regarded as a breach of this Agreement.   
+  
+19.2 If all or part of the Work is judged impracticable for a reason specified above, the payment of commission to the Researcher as defined in Article 12 shall be calculated by the following method:   
+[commission] = [full commission] x [number of actual days of operation] ÷ [number of days of stay]  
+  
+  
+---
+    
 
-1  主催者、リサーチャーのいずれも、自然災害、戦争、革命、暴動、疫病など、主催者・リサーチャー双方の支配を超える事由で、この契約が達成されない場合には契約違反とみなされないものとする。  
- 
-2 前項に定める理由により、本業務のうち一部または全部の業務ができないと判断された場合、第12条に定めるリサーチャーが受領する委託料は、以下のとおりとする。  
-  受領する委託料 ＝ 全委託料 × 実際に滞在し業務行った日数 ÷ 滞在期間の日数  
+####Article 20 (Discontinuation of Work)   
+If the Host decides to discontinue the Work, and no breach of contract by the Researcher is involved, the Host shall pay the Researcher fifty (50)% of the commission defined in Article 12 as the only remuneration.   
+  
+---
+  
+####Article 21 (Cancellation)  
+When one of the following applies to either the Host or the Researcher, the respective other party may cancel all or part of this contract if obligations still remain unexecuted one week after demanding fulfillment. In such cases, claims for damages shall not be precluded.  
+  
+(1) Illegal actions in the process of conclusion or fulfillment of this Agreement  
+(2) Other forms of violation of this Agreement that are not included in the above point  
+(3) Bankruptcy, liquidation, or financial difficulties   
   
 ---
   
   
+####Article 22 (Damage Compensation)    
+22.1 When the Researcher breaks all or part of this contract, the Researcher shall compensate for all resulting damage (including legal fees).  
   
-####第20条（業務の中止）  
-本契約の規定にかかわらず、主催者がこの業務を中止し、かつ、リサーチャーが本書に違反していない場合には、リサーチャーは、唯一の救済として主催者から第12条に定めた委託料の50％を受領する。  
-  
----
-  
-####第21条（解除）  
-主催者またはリサーチャーが、以下の各号のいずれかに該当したときは、相手方は履行の催告をしたうえで、履行を催告した後、1週間以内に履行がなされない場合には、本契約の全部または一部を解除することができる。なお、この場合でも損害賠償の請求を妨げない。  
-  
-(1) 本契約の締結もしくは履行の過程での何らかの違反・違法の行為  
-(2) 本契約に一部でも違反したとき  
-(3) 差押、仮差押、仮処分、強制執行、担保権の実行としての競売、租税滞納処分その他これに準じる手続が開始されたとき  
-(4) 破産、民事再生、会社更生または特別清算・解散の手続開始決定等の申立がなされたとき  
-(5) その他、資産、信用または支払能力に重大な変更があったとき  
-  
----
-  
-  
-####第22条（損害賠償）  
-1 リサーチャーが本契約の全部または一部に違反した場合には、リサーチャーはこれに起因する一切の損害（合理的な弁護士費用を含む）を賠償しなければならない。  
-  
-2 主催者の過失のために、本件業務を行うことができなくなった場合には、主催者は、第12条に規定する委託料の全額から、本件業務の終了により支出する必要がなくなった費用または経費等を控除した金額をリサーチャーに対して補償する。  
+22.2 When execution of the Work becomes impossible due to the Host's negligence, the Host shall compensate the Researcher by paying the full Commission as defined in Article 12, but deducting all expenses the termination of the Work renders unnecessary to incur.    
   
 ---
   
 
-####第23条（責任）  
-本件業務により第三者に損害が生じた場合、かかる損害がリサーチャーの故意または過失に基づくときは、リサーチャーが一切の責任を負い、主催者は責任を負わない。  
+####Article 23 (Responsibility)   
+In the event any damage to a third party arises out of the Work, the Host shall take no responsibility, and the Researcher will be liable for the damage if caused by the Researcher's own intention or negligence.  
   
 ---
   
 
-####第24条（権利の譲渡禁止等）  
-主催者およびリサーチャーは、あらかじめ相手方の書面による承諾を得ないで、本契約に基づく権利、義務または財産の全部または一部を第三者に譲渡し、承継させ、または担保に供してはならない。  
+####Article 24 (Non-assignment of Rights)   
+Neither party may assign, transfer or mortgage all or part of the rights, obligations or property that are subject of this Agreement without prior written consent of the other party.   
+  
   
 ---
 
 
-####第25条（変更）  
-本契約のいかなる変更も、主催者およびリサーチャー両当事者により署名が行われた書面による場合を除いて、無効となり、効力を持たない。  
+####Article 25 (Modifications to this Agreement)  
+Any modification to this document will be invalid and not effective unless specified in a written agreement signed by both parties.  
   
 ---
   
   
-####第26条（完全なる合意）  
-本契約は、本契約の目的に関し、財団・リサーチャー間の完全なる合意を構成する。前条に定める場合を除き、いつの時点で作成されたものであっても、また、口頭であるか書面であるかを問わず、本契約に反するその他の契約、合意、表明及び保証はすべて、無効となり、効力を持たない。    
+####Article 26 (Entire Agreement)  
+This Agreement constitutes the entire agreement between the Host and the Researcher with respect to the purpose of this Agreement, and supersedes any prior written or oral agreement, assertion or endorsement concerning the subject matter unless specified otherwise in writing and signed by both parties.   
   
 ---
   
       
-####第27条（契約期間）  
-本契約は、契約締結日より効力を発し、本書に定める主催者、リサーチャーのいずれかの権利もしくは義務が存在するかぎり効力を有する。  
+####Article 27 (Term of Agreement)  
+This Agreement takes effect on the day of conclusion, and will remain effective as long as any right or obligation exists for either the Host or the Researcher specified in this Agreement.  
   
 ---
   
   
-####第28条（準拠法）  
-本契約は、日本法に準拠し、同法によって解釈されるものとする。  
+####Article 28（Governing Law）  
+This Agreement complies with, and shall be construed in accordance with the laws of Japan.  
   
 ---
   
   
-####第29条（管轄）  
-主催者およびリサーチャーは、本契約に関し、裁判上の紛争が生じたときは、【主催者が所在する地域を管轄する裁判所】を専属的合意管轄裁判所とすることに合意する。  
+####Article 29 (Jurisdiction)   
+The parties hereto submit to the exclusive jurisdiction of [district court having jurisdiction over the location of the Host] with respect to all controversies arising from the interpretation and performance of this Agreement.  
   
 ---
   
   
-####第30条（優先関係）  
-主催者およびリサーチャーは、本契約書が、【主催者が所在する国の言語】と英語双方の言語で作成されるとき、仮に両言語により解釈に差異が生じた場合には、【主催者が所在する国の言語で作成された契約書／英文契約書】の解釈によることに同意する。  
+####Article 30 (Language of Priority)  
+This Agreement is written in both [language of the country where the Joint Research Facility is located] and English languages, however in the event that differences arise in its interpretation, the Host and the Researcher agree to refer to the [language of the country where the Joint Researcher Facility is located / English] interpretation.   
   
 ---
   
   
-本契約締結の証としては、本契約書2通を作成し、主催者・リサーチャー相互に署名または記名・捺印のうえ、各1通を保有することとする。  
+In witness hereof, the parties sign this Agreement and agree it to be executed by their duly authorized representatives as of  
   
-20**年**月**日  
+[Date] 20**/**/**  
+
+Each party will be given a copy of the signed Agreement.  
+
+Host:    			
+【________________】
+Represented by:  		
+【________________】
+　　　　　　　		  					
   
-  
-（主催者）  
-住所    
+Researcher:  
+[Name]  	  	
+【________________】
+Represented by:  
+[Name]  
 【________________】  
-氏名（名称）  
+[Title]  
 【________________】  
-  
-  
-（リサーチャー）  
-住所               
-【________________】  
-氏名（名称）  
-【________________】  
+
   
  
