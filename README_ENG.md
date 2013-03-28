@@ -24,7 +24,8 @@ This form is published under a Creative Commons license* (for details see "discl
 ```
 * A Creative Commons (CC) license is a form of license for copyrighted work. While there is controversy as to whether 
 a contract is a copyrighted work, considering the importance of the fact that the contract and related information are 
-to be broadly shared as a new framework for media art, the contract as part of this project is published under a CC license.    
+to be broadly shared as a new framework for media art, the contract as part of this project is published 
+under a CC license.    
 ```
 
 
@@ -76,7 +77,8 @@ Support: Dominick Chen (Creative Commons Japan)
 ```
 YCAM makes no guarantees whatsoever related to this text.
 The persons involved in the creation/operation of this website (including other users) take no responsibility regarding 
-the usage of this text (including any kind of use such as browsing, contribution, or external re-use; the same shall apply hereinafter).
+the usage of this text (including any kind of use such as browsing, contribution, or external re-use; 
+the same shall apply hereinafter).
 When using this text, you are required to take personal responsibility. 
 YCAM takes no responsibility regarding eventual damage resulting from your use of this text.
 YCAM does not guarantee that your use of this text is legitimate according to applicable laws.
