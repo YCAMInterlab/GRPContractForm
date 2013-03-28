@@ -81,7 +81,9 @@ The Purpose of this agreement is to define the roles of the Host and the Researc
 
 ####Article 2 (Assigned Work) 
 The Host shall assign the following work (hereinafter "Work") to the Researcher, and the Researcher shall accept the assignment.   
+  
 (1) Work contents  
+  
 a) Joint research and development with the Host at a place specified by the Host  
 b) Production and implementation of workshops  
 c) Publication of the results achieved in (a) under open-source licenses  
@@ -144,21 +146,24 @@ Details such as editing process and schedule shall be discussed and determined s
 
 ##DivisionⅢ ATTRIBUTION OF RIGHTS
 
-####Article 9 (Attribution of Rights Relating to Development Results) 
+####Article 9 (Attribution of Rights Relating to Development Results)   
 9.1 General Provision about Development Results  
 The attribution of all rights including copyrights, patent rights and other intellectual property rights (except the ownership specified in Article 9.4) of  development results as part of the Work defined in Article 2 (including software, hardware, images, movies, plans, drawings, documents, data, techniques, know-how and other results of development; hereinafter "Development Results") shall be handled as follows:  
+  
 a) The Host and the Researcher shall share copyrights, patent rights and other intellectual property rights of the Development Results.  
 b) Copyrights, patent rights and other intellectual property rights owned by the Host or the Researcher before commencement of the Work shall remain in the possession of the respective party.  
 c)   When the attribution of copyrights, patent rights and other intellectual property rights is unclear, rights shall be considered as shared.   
   
 9.2 Attribution of Rights Relating to the Developed Software  
 When the Development Results contain software (hereinafter "Developed Software"), the attribution of rights of the Developed Software shall be handled as follows:  
+  
 a) 	The Host and the Researcher shall share copyrights, patent rights and other intellectual property rights of the source-code and compiled object-code of the Developed Software.  
 b) Copyrights, patent rights and other intellectual property rights relating to the Developed Software owned by the Host or the Researcher before commencement of the Work shall remain in the possession of the respective party.  
 c) 	When the attribution of copyrights, patent rights and other intellectual property rights relating to the Developed Software is unclear, rights shall be considered as shared.   
   
 9.3 Attribution of Rights Relating to the Developed Hardware  
 When the Development Results contain hardware (including physical materials such as machines, devices, boards, circuits etc., but excluding photographs, plans, drawings and documents etc.; hereinafter "Developed Hardware"), the attribution of rights of the Developed Hardware shall be handled as follows:  
+  
 a) 	The Host and the Researcher shall share copyrights, patent rights and other intellectual property rights of the Developed Hardware.  
 b) Copyrights, patent rights and other intellectual property rights relating to the Developed Hardware owned by the Host or the Researcher before commencement of Work shall remain in the possession of the respective party.  
 c) 	When the attribution of copyrights, patent rights and other intellectual property rights relating to the Developed Hardware is unclear, rights shall be considered as shared.   
@@ -209,6 +214,7 @@ c) 	When the attribution of copyrights, patent rights and other intellectual pro
 The Host shall assume the following obligations to the Researcher:  
   
 (1) Payment of Commission  
+  
 a)   The Host shall pay **** yen (tax excluded; hereinafter "Commission") to the Researcher only for the Work defined in Article 2. The Commission shall cover daily wages, travel expenses in the country of residence (except for the expenses specified in Article 12 (2) a), as well as costs of insurance and visa formalities in the country of residence. Regarding payment of Commission based on the above definition, the Researcher shall issue estimates and invoices to the Host.  
 b) The Host shall pay fifty (50) % of the Commission as defined above by bank transfer to an account specified by the Researcher by * **, 20** (bank fees to be covered by the Host).   
 The Host shall pay the remaining part of the Commission by bank transfer to an account specified by the Researcher by * **, 20** (bank fees to be covered by the Host).   
@@ -217,10 +223,12 @@ d) The Host and the Researcher regard the day on which the required procedures f
 e) 	The Host shall prove the completion of payment to the Researcher by supplying a "wire transfer form" of the bank from which the money transfer was made.   
   
 (2) Travel expenses  
+  
 a) 	The Host shall cover expenses for a round trip from an airport near the Researcher's place of residence to the place of stay during the program. When the use of an airplane is necessary, the Host shall agree beforehand to cover the costs of an Economy Class air ticket.  
 b) If actual travel expenses exceed the estimated costs by the Researcher’s intention or negligence after having agreed on details, the Researcher shall cover the excess portion.  
   
 (3) Transportation costs  
+  
 a) 	Transportation to the Joint Research Facility  
 If the execution of the Researcher's work requires an international shipment of cargo to the Joint Research Facility, and the Host accepts this in advance, the Host shall compensate for international shipping fees (transportation from a Host-approved location in the country of residence to the Joint Research Facility), charges for customs clearance of [country where the Joint Research Facility is located], and domestic cargo rates in [country where the Joint Research Facility is located] covered in advance by the Researcher.   
 b) 	Transportation from the Joint Research Facility  
@@ -246,6 +254,7 @@ When using or publishing Development Results or derivative products, the Host sh
 The Researcher shall assume the following obligations to the Host:  
   
 (1) Payment of expenses  
+  
 a)   When the cooperation of a third party is necessary, the Researcher shall do the necessary processing, and cover occurring costs regarding copyrights or other rights belonging to a composer, designer or other rights holder, whenever necessary in order to execute the Work.  
 b) 	The Researcher shall cover accident and health insurance costs for the period from and including the day of departure from the Researcher's country of residence, up to and including the day of departure from [country where the Joint Research Facility is located]  
 c) 	The Researcher shall cover all other expenses spent by the Researcher, except for those defined in this Agreement as the Host's responsibility.  
@@ -254,6 +263,7 @@ c) 	The Researcher shall cover all other expenses spent by the Researcher, excep
 When using or publishing Development Results or derivative products, the Researcher shall indicate for all results of the Work, during and after the term of this Agreement, that these were produced through joint research and development with the Host at the Joint Research Facility. Details of such credits are to be discussed and determined separately between the Host and the Researcher.  
   
 (3) Cooperation for Visa Acquisition  
+  
 a) The Researcher shall properly undertake the necessary procedures for the acquisition of a visa. When the Researcher needs to provide the Host with documents necessary for the visa application, the Researcher shall send these documents timely and by an appropriate method. The Host shall support the acquisition of necessary documents for the Researcher's visa application, but not guarantee or assume responsibility for the issuance of such certificate.  
 b) After receipt of a certificate of eligibility from the Host, the Researcher shall promptly acquire a proper visa. The Researcher's passport must be valid until at least six months from the time of entrance into [country where the Joint Research Facility is located], and have at least two blank pages left.  
   
@@ -312,6 +322,7 @@ The Researcher shall not re-entrust all or part of the Work to a third party. Ho
 18.1 During and after the term of this Agreement, the Host and the Researcher shall treat confidentially all information disclosed by the respective other party based on this Agreement, and not disclose it to a third party.   
   
 18.2 The preceding clause shall not apply for information  
+  
 (1) that is publicly known or became known for reasons not imputable to the party concerned.   
 (2) that was lawfully acquired by a third party.  
 (3) that had already been possessed at the time of disclosure.   
