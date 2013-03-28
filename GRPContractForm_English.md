@@ -1,3 +1,92 @@
+
+  						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
 #GRPContractForm_English ver.1.0
 
 
@@ -413,7 +502,7 @@ This Agreement takes effect on the day of conclusion, and will remain effective 
 ---
   
   
-####Article 28（Governing Law）  
+####Article 28(Governing Law)  
 This Agreement complies with, and shall be construed in accordance with the laws of Japan.  
   
 ---
