@@ -151,21 +151,27 @@ Details such as editing process and schedule shall be discussed and determined s
 The attribution of all rights including copyrights, patent rights and other intellectual property rights (except the ownership specified in Article 9.4) of  development results as part of the Work defined in Article 2 (including software, hardware, images, movies, plans, drawings, documents, data, techniques, know-how and other results of development; hereinafter "Development Results") shall be handled as follows:  
   
 a) The Host and the Researcher shall share copyrights, patent rights and other intellectual property rights of the Development Results.  
+  
 b) Copyrights, patent rights and other intellectual property rights owned by the Host or the Researcher before commencement of the Work shall remain in the possession of the respective party.  
+  
 c)   When the attribution of copyrights, patent rights and other intellectual property rights is unclear, rights shall be considered as shared.   
   
 9.2 Attribution of Rights Relating to the Developed Software  
 When the Development Results contain software (hereinafter "Developed Software"), the attribution of rights of the Developed Software shall be handled as follows:  
   
 a) 	The Host and the Researcher shall share copyrights, patent rights and other intellectual property rights of the source-code and compiled object-code of the Developed Software.  
+  
 b) Copyrights, patent rights and other intellectual property rights relating to the Developed Software owned by the Host or the Researcher before commencement of the Work shall remain in the possession of the respective party.  
+  
 c) 	When the attribution of copyrights, patent rights and other intellectual property rights relating to the Developed Software is unclear, rights shall be considered as shared.   
   
 9.3 Attribution of Rights Relating to the Developed Hardware  
 When the Development Results contain hardware (including physical materials such as machines, devices, boards, circuits etc., but excluding photographs, plans, drawings and documents etc.; hereinafter "Developed Hardware"), the attribution of rights of the Developed Hardware shall be handled as follows:  
   
 a) 	The Host and the Researcher shall share copyrights, patent rights and other intellectual property rights of the Developed Hardware.  
+  
 b) Copyrights, patent rights and other intellectual property rights relating to the Developed Hardware owned by the Host or the Researcher before commencement of Work shall remain in the possession of the respective party.  
+  
 c) 	When the attribution of copyrights, patent rights and other intellectual property rights relating to the Developed Hardware is unclear, rights shall be considered as shared.   
   
 9.4 In the case of material Development Results, ownership of the Development Results shall be attributed to the Host.  
