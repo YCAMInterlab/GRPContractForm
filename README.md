@@ -14,7 +14,7 @@ GRPContractFormは、クリエイティブでオープンな恊働のフレー�
 一つの試みとして契約書にCCライセンスを付与しています。  
 ```
 
-----
+
 
 ##本コントラクトフォームの特徴
 
@@ -28,7 +28,7 @@ GRPContractFormは、クリエイティブでオープンな恊働のフレー�
 
 GRPのフレームワークの構築を通じて、真摯に設計された契約は、アートセンターとアーティスト/技術者との間の信頼関係を強め、より良い成果を生み出せることを知りました。また、契約書はプログラムコードに非常に良く似ており、両者の交錯に大きな可能性があるとも考えます。つまり、共同研究や委託における契約はクリエイションに大きな影響を与え、そのフレームワークを実現する契約書は、プログラムコードと同様に恊働して開発し発達させることができる、ということです。このフォームの公開が、今日的なクリエイションのフレームワークが発達する一助となればと考えています。  
 
-----
+
 
  
 ##つかいかた
@@ -45,13 +45,13 @@ GRPのフレームワークの構築を通じて、真摯に設計された契�
 詳しくは[マニュアル](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_Japanese.md)を参照ください。  
 
   
-----
+
 
 
 ##ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL"> Produced by Yamaguchi Center for Arts and Media [YCAM] Planned & Made by YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
 
-----
+
 
 ##クレジット
 ```
