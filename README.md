@@ -1,4 +1,3 @@
-
 ##GRPContractFormについて
 
 
@@ -43,7 +42,7 @@ GRPのフレームワークの構築を通じて、真摯に設計された契�
 12条(1)委託料a[変更] (3)輸送費用[変更] (6)ビザ申請費用[削除]  
 13条(1)b[削除] (3)ビザ取得手続に対する協力[削除] (4)租税免除の手続[削除]  
 ```
-詳しくは解説本文を参照ください。  
+詳しくは[マニュアル](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_Japanese.md)を参照ください。  
 
   
 ----
