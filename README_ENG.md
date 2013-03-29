@@ -688,15 +688,15 @@ This article specifies how to handle a situation in which the Host decides to di
 
 > When one of the following applies to either the Host or the Researcher, the respective other party may cancel all or part of this contract if obligations still remain unexecuted one week after demanding fulfillment. In such cases, claims for damages shall not be precluded.
 > 
-> (1) Illegal actions in the process of conclusion or fulfillment of this Agreement
+> (1) When being some kind of violation or illegal action in the process of conclusion or fulfillment of this Agreement  
 > 
-> (2) Other forms of violation of this Agreement that are not included in the above point
+> (2) When violated a part of this Agreement  
 > 
-> (3) Bankruptcy, liquidation, or financial difficulties
+> (3) When is made attachment, provisional attachment, provisional disposition, compulsory auction, secured real property auction, or seizure as a result   of delinquent tax payment
 > 
-> (4)
+> (4) When is made a petition for bankruptcy procedure, special liquidation, civil rehabilitation, corporate reorganization, or corporate consolidation  
 > 
-> (5)
+> (5)When is made a petition for bankruptcy procedure, special liquidation, civil rehabilitation, corporate reorganization, or corporate consolidation  
 
 In the event of a breach of contract or illegal action by either the Host or the Researcher, the respective other party may nullify this contract if obligations are not executed within one week after demanding fulfillment. This also applies in the case of bankruptcy for example.  
 Liquidation here refers to the dissolution of foundations or other corporate institutions. In the event of a dissolution of a non-juridical organization, this situation may only be referred to as "dissolution".
