@@ -537,6 +537,7 @@ The correct indication of credits is helpful in communicating the products' orig
 > When using or publishing Development Results or derivative products, the Researcher shall indicate for all results of the Work, during and after the term of this Agreement, that these were produced through joint research and development with the Host at the Joint Research Facility. Details of such credits are to be discussed and determined separately between the Host and the Researcher.
 > 
 > (3) Cooperation for Visa Acquisition
+>
 > a) The Researcher shall properly undertake the necessary procedures for the acquisition of a visa. When the Researcher needs to provide the Host with documents necessary for the visa application, the Researcher shall send these documents timely and by an appropriate method. The Host shall support the acquisition of necessary documents for the Researcher's visa application, but not guarantee or assume responsibility for the issuance of such certificate.
 > 
 > b) After receipt of a certificate of eligibility from the Host, the Researcher shall promptly acquire a proper visa. The Researcher's passport must be valid until at least six months from the time of entrance into [country where the Joint Research Facility is located], and contain at least two blank pages.
