@@ -206,7 +206,7 @@ Article 30 (Language of Priority)
 > 
 > and  
 >   
-> [Name]    				              	
+> [Name]  					              	
 > 【________________】  (hereinafter "Researcher")  
 > [Country of residence]  
 > 【________________】  
@@ -773,24 +773,24 @@ For example, if the contract is written in Japanese and English, and the Japanes
 *"While the agreement is written in Japanese and English languages, both the Host and the Researcher agree to refer to the Japanese interpretation whenever differences arise in its interpretation."*
 
 
-> In witness hereof, the parties sign this Agreement and agree it to be executed by their duly authorized representatives as of
+> In witness hereof, the parties sign this Agreement and agree it to be executed by their duly authorized representatives as of  
 > [Date] 20xx/xx/xx
 > 
 > Each party will be given a copy of the signed Agreement.
 > 
-> Host:
+> Host:  
 > 【________________】 				
 > Represented by:							
-> 【________________】 　　　　　　　							
+> 【________________】 　　　　　　　					
 > 
-> Researcher:
-> [Name]
-> 【________________】 							
-> Represented by:
-> [Name]
-> 【________________】 
-> [Title]
-> 【________________】 		 					　　　　　　　
+> Researcher:  
+> [Name]  
+> 【________________】 	  						
+> Represented by:  
+> [Name]  
+> 【________________】   
+> [Title]  
+> 【________________】 	 	 					　　　　　　　
 		 	
 Each party receives a signed or sealed copy of this contract.
 
