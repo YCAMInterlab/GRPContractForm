@@ -39,14 +39,14 @@ Title and Parties Concerned
 ```
 
 
-###[Division 1  General Provisions](#%E7%AC%AC%EF%BC%91%E7%AB%A0--%E7%B7%8F%E5%89%87-1)
+###[Division Ⅰ  General Provisions](#%E7%AC%AC%EF%BC%91%E7%AB%A0--%E7%B7%8F%E5%89%87-1)
 Contains outlines and purposes to be regulated by this contract.  
 
 ```
 Article 1 (Purpose)
 ```
 
-###[Division 2  Assigned Work](#%E7%AC%AC2%E7%AB%A0%E3%80%80%E6%9C%AC%E4%BB%B6%E6%A5%AD%E5%8B%99-1)
+###[Division Ⅱ  Assigned Work](#%E7%AC%AC2%E7%AB%A0%E3%80%80%E6%9C%AC%E4%BB%B6%E6%A5%AD%E5%8B%99-1)
 Contains information on the work the host assigns to the guest researcher (Article 2), and on the place and period of work (Article 3).  
 While the assigned work is chiefly research and development (Article 4), this chapter contains also items regulating accompanying activities (Articles 5-8).  
 
@@ -61,7 +61,7 @@ Article 7 (Implementation of Exhibitions)
 Article 8 (Creation of Documents)   
 ```
 
-###[Division 3  Attribution of Rights](#第3章%E3%80%80成果物の権利帰属-1)
+###[Division Ⅲ Attribution of Rights](#第3章%E3%80%80成果物の権利帰属-1)
 Regulates the handling of rights related to all kinds of products resulting from the respective projects.  
 Regarding results of the joint research and development, the chapter specifies that intellectual property rights shall be shared, and that both the host and the researcher may exercise these rights independently as long as credits are indicated appropriately, whereas ownership of material products shall be attributed to the host (Article 9).    
 The chapter further specifies that copyrights in the host's recorded archives shall be attributed to the host, who may make free use of those rights (Article 10).    
@@ -72,7 +72,7 @@ Article 9 (Attribution of Rights Relating to Development Results)
 Article 10 (Photographs, Video and Audio Recordings)
 ```
 
-###[Division 4  Publication of Works](#第4章%E3%80%80成果物の公開-1)
+###[Division Ⅳ  Publication of Works](#第4章%E3%80%80成果物の公開-1)
 Regulates the publication of software and other copyrighted products resulting from the joint research and development. (See also Articles 8/9)  
 
 ```
@@ -80,7 +80,7 @@ Article 11 (Publication of Works, Open-Source Licensing)
 ```
 
 
-###[Division 5  Other Rights and Obligations](#第5章%E3%80%80その他の権利・義務-1)
+###[Division Ⅴ  Other Rights and Obligations](#第5章%E3%80%80その他の権利・義務-1)
 Specifies obligations on the Host's (Article 12) and the Researcher's side (Article 13). While mainly regulating the payment of commission to the artists/technicians, as well as the coverage of other expenses, accommodation, and the handling of credits and rights, this chapter also contains information on visa application and tax convention procedures for researchers coming from abroad.    
 The chapter further regulates warranty issues regarding intellectual property (Article 14), the use of software etc. of a third party (Article 15), and support and maintenance after the end of the period of stay (Article 16).  
 
@@ -92,7 +92,7 @@ Article 15 (Use of Software etc. of a Third Party)
 Article 16 (Maintenance) 
 ```
 
-###[Division 6  General Terms](#第6章%E3%80%80一般条項-1)
+###[Division Ⅵ  General Terms](#第6章%E3%80%80一般条項-1)
 This chapter regulates general issues related to the joint research and development contract. It further contains provisions regarding the prohibition of re-commission (Article 17), confidentiality (Article 18), measures to be taken if the agreement cannot be fulfilled due to reasons beyond the control of the host and/or researcher (Article 19), the payment of redemption to the researcher if the host is forced to discontinue the project (Article 20), cancellation (Article 21), damage compensation (Article 22), etc.  
 
 ```
@@ -159,7 +159,7 @@ Please specify the parties concerned, that is to say the Host and the Researcher
 
 
 
-###DivisionⅠ GENERAL PROVISIONS  
+###Division Ⅰ GENERAL PROVISIONS  
 
 ####Article 1 (Purpose)   
 
@@ -170,7 +170,7 @@ This article specifies outlines and purposes of items regulated by this contract
   
   
 
-###DivisionⅡ ASSIGNED WORKS 
+###Division Ⅱ ASSIGNED WORKS 
 
 ####Article 2 (Assigned Work) 
 
@@ -256,7 +256,7 @@ While rights in these documents are to be shared, like the respective software t
   
   
 
-###DivisionⅢ ATTRIBUTION OF RIGHTS
+###Division Ⅲ ATTRIBUTION OF RIGHTS
 
 ####Article 9 (Attribution of Rights Relating to Development Results)  
 
@@ -343,7 +343,7 @@ If, for example, the Researcher is a musician, please consider whether the Host 
 
 
 
-###DivisionⅣ PUBLICATION OF WORKS
+###Division Ⅳ PUBLICATION OF WORKS
 
 ####Article 11 (Publication of Works, Open-Source Licensing)
 
@@ -369,7 +369,7 @@ License formats are constantly evolving. The introduction of open-source hardwar
 
 
 
-###DivisionⅤ OTHER RIGHTS AND OBLIGATIONS
+###Division Ⅴ OTHER RIGHTS AND OBLIGATIONS
 
 ####Article 12 (Host's Obligations)  
 
@@ -379,7 +379,7 @@ License formats are constantly evolving. The introduction of open-source hardwar
 > 
 > a) 	The Host shall pay **** yen (tax excluded; hereinafter "Commission") to the Researcher only for the Work defined in Article 2. The Commission shall cover daily wages, travel expenses in the country of residence (except for the expenses specified in Article 12.2 a), as well as costs of insurance and visa formalities in the country of residence. Regarding payment of Commission based on the above definition, the Researcher shall issue estimates and invoices to the Host.
 > 
-> b) 	The Host shall pay 50% of the Commission as defined above by bank transfer to an account specified by the Researcher by x xx, 20xx (bank fees to be covered by the Host). 
+> b) 	The Host shall pay fifty (50)% of the Commission as defined above by bank transfer to an account specified by the Researcher by x xx, 20xx (bank fees to be covered by the Host). 
 > The Host shall pay the remaining part of the Commission by bank transfer to an account specified by the Researcher by x xx, 20xx (bank fees to be covered by the Host). 
 > 
 > c) 	The Host shall pay the entire amount without deducting taxes, bank fees or other expenses for reasons not specified in this Agreement.
@@ -480,7 +480,7 @@ The correct indication of credits is helpful in communicating the products' orig
 > When the Researcher is exempted taxes in a foreign countries, the Researcher shall provide the Host with data or documents required for tax exemption procedures at least one month prior to the Researcher's entrance into [country where the Joint Research Facility is located].
 > 
 > (5) Cooperation for PR/report concerning
-> The Researcher shall provide the Host with materials such as profile, photograph(s), text(s), work documentation (video), printed matter, and others to be used for PR/report concerning the Work, and allows the Host to use such data free of charge when deemed necessary.
+> The Researcher shall provide the Host with materials such as profile, photograph(s), text(s), work documentation (video)(s), printed matters, and others to be used for PR/report concerning the Work, and allows the Host to use such data free of charge when deemed necessary.
 > 
 > (6) Compliance with Laws and Regulations
 > During the Researcher’s stay in [country where the Joint Research Facility is located], the Researcher shall obey the rules of Joint Research Facility, law of [country where the Joint Research Facility is located] and public policy. In the case of fire or other accident caused by intention, negligence or a breach of contract by the Researcher, the Researcher shall assume full responsibility.
@@ -555,7 +555,7 @@ If the execution of the work requires the use of additional software, such as co
 > 
 > 16.3 In the event of an update to the integrated development environment, library or other parts of the development environment of the Developed Software within one year after the end of the Period of Stay, the Researcher shall make the upgrades necessary for the software to be developed in the respective new environment, and make the updated software accessible to the public without compensation. 
 > 
-> 16.4 In the event of a termination of manufacture of parts used for the Developed Hardware within one year after the end of the Period of Stay, the Researcher shall re-design and rebuild equally functioning hardware using the respective substitute part(s) without compensation, and make the updated hardware accessible to the public after verifying its operation. However, the Host shall cover the costs of substitute part(s), and the Researcher shall purchase the substitute part(s) only with the Host's consent.
+> 16.4 In the event of a termination of manufacture of parts used for the Developed Hardware within one (1) year after the end of the Period of Stay, the Researcher shall re-design and rebuild equally functioning hardware using the respective substitute part(s) without compensation, and make the updated hardware accessible to the public after verifying its operation. However, the Host shall cover the costs of substitute part(s), and the Researcher shall purchase the substitute part(s) only with the Host's consent.
 
 
 
@@ -574,7 +574,7 @@ Parts could include such small, inexpensive articles as Arduino for example. In 
 
 
 
-###DivisionⅥ GENERAL TERMS 
+###Division Ⅵ GENERAL TERMS 
 
 ####Article 17 (Prohibition of Re-commission)   
 
@@ -613,7 +613,7 @@ If any point specified in this agreement cannot be fulfilled due to causes beyon
 
 ####Article 20 (Discontinuation of Work) 
 
-> If the Host decides to discontinue the Work, and no breach of contract by the Researcher is involved, the Host shall pay the Researcher 50% of the commission defined in Article 12 as the only remuneration. 
+> If the Host decides to discontinue the Work, and no breach of contract by the Researcher is involved, the Host shall pay the Researcher fifty (50)% of the commission defined in Article 12 as the only remuneration. 
  
 This article specifies how to handle a situation in which the Host decides to discontinue the work without a breach of contract by the Researcher. In such case, the Researcher shall receive 50% of the commission as the only compensation. 
 
