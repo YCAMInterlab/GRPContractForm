@@ -69,14 +69,14 @@ and
 【________________】  
   
 
-##DivisionⅠ GENERAL PROVISIONS  
+##Division Ⅰ GENERAL PROVISIONS  
 
 ####Article 1 (Purpose)   
 The Purpose of this agreement is to define the roles of the Host and the Researcher, as well as the retention of rights on the results, methods of publishing results, and other rights and obligations on the Host's and the Researcher's side during their joint research and development, with the aim to contribute to the development of culture by publishing development results such as software and hardware as common property of mankind.  
   
  
 
-##DivisionⅡ ASSIGNED WORKS 
+##Division Ⅱ ASSIGNED WORKS 
 
 ####Article 2 (Assigned Work) 
 
@@ -146,7 +146,7 @@ Details such as editing process and schedule shall be discussed and determined s
   
  
 
-##DivisionⅢ ATTRIBUTION OF RIGHTS
+##Division Ⅲ ATTRIBUTION OF RIGHTS
 
 ####Article 9 (Attribution of Rights Relating to Development Results)   
 
@@ -203,7 +203,7 @@ c) 	When the attribution of copyrights, patent rights and other intellectual pro
 
 
 
-##DivisionⅣ PUBLICATION OF WORKS
+##Division Ⅳ PUBLICATION OF WORKS
 
 ####Article 11 (Publication of Works, Open-Source Licensing)
 
@@ -218,7 +218,7 @@ c) 	When the attribution of copyrights, patent rights and other intellectual pro
 
   
   
-##DivisionⅤ OTHER RIGHTS AND OBLIGATIONS
+##Division Ⅴ OTHER RIGHTS AND OBLIGATIONS
 
 ####Article 12 (Host's Obligations)  
   
@@ -331,7 +331,7 @@ Whenever the Work requires the use of software etc., the rights of which are own
 
 
 
-##DivisionⅥ GENERAL TERMS 
+##Division Ⅵ GENERAL TERMS 
 
 ####Article 17 (Prohibition of Re-commission) 
 
