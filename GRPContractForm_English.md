@@ -380,16 +380,17 @@ If the Host decides to discontinue the Work, and no breach of contract by the Re
   
 When one of the following applies to either the Host or the Researcher, the respective other party may cancel all or part of this contract if obligations still remain unexecuted one week after demanding fulfillment. In such cases, claims for damages shall not be precluded.  
   
-(1) Illegal actions in the process of conclusion or fulfillment of this Agreement  
-   
-(2) Other forms of violation of this Agreement that are not included in the above point  
-   
-(3) Bankruptcy, liquidation, or financial difficulties  
+(1) When being some kind of violation or illegal action in the process of conclusion or fulfillment of this Agreement  
   
-(4)  
- 
-(5)  
+(2) When violated a part of this Agreement  
   
+(3) When is made attachment, provisional attachment, provisional disposition, compulsory auction, secured real property auction, or seizure as a result of delinquent tax payment  
+  
+(4) When is made a petition for bankruptcy procedure, special liquidation, civil rehabilitation, corporate reorganization, or corporate consolidation   
+  
+(5)When is made a petition for bankruptcy procedure, special liquidation, civil rehabilitation, corporate reorganization, or corporate consolidation  
+  
+   
   
   
 ---
