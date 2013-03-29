@@ -69,7 +69,7 @@ and
 【________________】  
   
 
-##Division 1 GENERAL PROVISIONS  
+##DivisionⅠ GENERAL PROVISIONS  
 
 ####Article 1 (Purpose)   
 The Purpose of this agreement is to define the roles of the Host and the Researcher, as well as the retention of rights on the results, methods of publishing results, and other rights and obligations on the Host's and the Researcher's side during their joint research and development, with the aim to contribute to the development of culture by publishing development results such as software and hardware as common property of mankind.  
@@ -230,7 +230,7 @@ The Host shall assume the following obligations to the Researcher:
  
 a) 	The Host shall pay **** yen (tax excluded; hereinafter "Commission") to the Researcher only for the Work defined in Article 2. The Commission shall cover daily wages, travel expenses in the country of residence (except for the expenses specified in Article 12.2 a), as well as costs of insurance and visa formalities in the country of residence. Regarding payment of Commission based on the above definition, the Researcher shall issue estimates and invoices to the Host.
  
-b) 	The Host shall pay 50% of the Commission as defined above by bank transfer to an account specified by the Researcher by x xx, 20xx (bank fees to be covered by the Host).   
+b) 	The Host shall pay fifty (50)% of the Commission as defined above by bank transfer to an account specified by the Researcher by x xx, 20xx (bank fees to be covered by the Host).   
 The Host shall pay the remaining part of the Commission by bank transfer to an account specified by the Researcher by x xx, 20xx (bank fees to be covered by the Host). 
  
 c) 	The Host shall pay the entire amount without deducting taxes, bank fees or other expenses for reasons not specified in this Agreement.
@@ -294,7 +294,7 @@ b) After receipt of a certificate of eligibility from the Host, the Researcher s
 When the Researcher is exempted taxes in a foreign countries, the Researcher shall provide the Host with data or documents required for tax exemption procedures at least one month prior to the Researcher's entrance into [country where the Joint Research Facility is located].
  
 (5) Cooperation for PR/report concerning
-The Researcher shall provide the Host with materials such as profile, photograph(s), text(s), work documentation (video), printed matter, and others to be used for PR/report concerning the Work, and allows the Host to use such data free of charge when deemed necessary.
+The Researcher shall provide the Host with materials such as profile, photograph(s), text(s), work documentation (video)(s), printed matters, and others to be used for PR/report concerning the Work, and allows the Host to use such data free of charge when deemed necessary.
  
 (6) Compliance with Laws and Regulations
 During the Researcher’s stay in [country where the Joint Research Facility is located], the Researcher shall obey the rules of Joint Research Facility, law of [country where the Joint Research Facility is located] and public policy. In the case of fire or other accident caused by intention, negligence or a breach of contract by the Researcher, the Researcher shall assume full responsibility.
@@ -324,9 +324,9 @@ Whenever the Work requires the use of software etc., the rights of which are own
  
 16.2 In the event of an OS update or other modification concerning the Developed Software's operating environment within one (1) year after the end of the Period of Stay, the Researcher shall make the upgrades necessary for the Developed Software to run in the respective new environment, and make the updated software accessible to the public without compensation. 
  
-16.3 In the event of an update to the integrated development environment, library or other parts of the development environment of the Developed Software within one year after the end of the Period of Stay, the Researcher shall make the upgrades necessary for the software to be developed in the respective new environment, and make the updated software accessible to the public without compensation. 
+16.3 In the event of an update to the integrated development environment, library or other parts of the development environment of the Developed Software within one (1) year after the end of the Period of Stay, the Researcher shall make the upgrades necessary for the software to be developed in the respective new environment, and make the updated software accessible to the public without compensation. 
  
-16.4 In the event of a termination of manufacture of parts used for the Developed Hardware within one year after the end of the Period of Stay, the Researcher shall re-design and rebuild equally functioning hardware using the respective substitute part(s) without compensation, and make the updated hardware accessible to the public after verifying its operation. However, the Host shall cover the costs of substitute part(s), and the Researcher shall purchase the substitute part(s) only with the Host's consent.  
+16.4 In the event of a termination of manufacture of parts used for the Developed Hardware within one (1) year after the end of the Period of Stay, the Researcher shall re-design and rebuild equally functioning hardware using the respective substitute part(s) without compensation, and make the updated hardware accessible to the public after verifying its operation. However, the Host shall cover the costs of substitute part(s), and the Researcher shall purchase the substitute part(s) only with the Host's consent.  
   
 
 
@@ -372,7 +372,7 @@ The Researcher shall not re-entrust all or part of the Work to a third party. Ho
 
 ####Article 20 (Discontinuation of Work)   
   
-If the Host decides to discontinue the Work, and no breach of contract by the Researcher is involved, the Host shall pay the Researcher 50% of the commission defined in Article 12 as the only remuneration.  
+If the Host decides to discontinue the Work, and no breach of contract by the Researcher is involved, the Host shall pay the Researcher fifty (50)% of the commission defined in Article 12 as the only remuneration.  
   
 ---
   
