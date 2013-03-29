@@ -40,7 +40,7 @@ YCAM may discontinue the publication of all or parts of this text and all other 
 #JOINT RESEARCH AND DEVELOPMENT AGREEMENT
 
 
->####"JOINT RESEARCH AND DEVELOPMENT AGREEMENT
+####"JOINT RESEARCH AND DEVELOPMENT AGREEMENT
 
 This Agreement was concluded in ●●, 20** between:  
    
