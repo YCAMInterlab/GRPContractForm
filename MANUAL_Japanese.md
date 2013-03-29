@@ -1,9 +1,9 @@
 ##GRPContractFormマニュアル
   
   
-[•つかいかた](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#はじめに)  
-[•各章の概要](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#各章の概要)  
-[•解説](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#解説)  
+[•つかいかた](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_Japanese.md#)  
+[•各章の概要](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_Japanese.md#-1)  
+[•解説](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_Japanese.md#-3)  
 
 
 
