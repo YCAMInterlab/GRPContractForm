@@ -42,7 +42,6 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 [DURATTION](http://www.duration.cc)  
 ![DURATION](http://www.duration.cc/assets/images/DurationText.png "DURATION") 
   
-  
 
 [YCAM InterLab＋安藤洋子　共同研究開発プロジェクト「Reactor for Awareness in Motion」](http://www.ycam.jp/performingarts/2013/02/ram-presentation.html)  
 ![2012_ram_02.jpg](http://www.ycam.jp/education/images/2012_ram_02.jpg)  
