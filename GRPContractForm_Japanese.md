@@ -1,45 +1,7 @@
 ####[はじめに](https://github.com/YCAMInterlab/GRPContractForm/blob/master/README.md) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_Japanese.md) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [ENGLISH](https://github.com/YCAMInterlab/GRPContractForm/blob/master/README_ENG.md)
 
 
-#GRPContractForm_Japanese ver.1.0
-
-
-##クレジット
-```
-企画制作: Yamaguchi Center for Arts and Media [YCAM]
-立案・作成: YCAM InterLab
-監修: 水野 祐（クリエイティブ・コモンズ・ジャパン、弁護士）
-協力: ドミニク・チェン（クリエイティブ・コモンズ・ジャパン）
-
-Produced by Yamaguchi Center for Arts and Media [YCAM]
-Planned & Made by YCAM InterLab
-Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law)
-Support: Dominick Chen (Creative Commons Japan)
-```
-
-  
-##ライセンス
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL"> Produced by Yamaguchi Center for Arts and Media [YCAM] Planned & Made by YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
-
-
-
-
-
-##免責事項
-```
-YCAMはあなたに対し、本テキストに関し、何らの保証もいたしません。
-本サイトの関係者（他の利用者も含む）は、本テキストの利用（閲覧、投稿、外部での再利用など一切の利用を含むものとします。以下同じ）に関し、
-あなたに対して一切責任を負いません。
-あなたが、本テキストを利用する場合は、自己責任で行う必要があります。
-YCAMは、あなたに対し、本テキストの利用の結果生じた損害について、一切責任を負いません。
-YCAMは、あなたの適用される法令に照らして、本テキストの利用が合法であることを保証しません。
-コンテンツとして提供する全ての情報について、内容の合法性・正確性・安全性等、あらゆる点において保証しません。
-また、リンクをしている外部サイトについては、何ら保証しません。
-本テキストは、Creative Commons Attribution-ShareAlike 3.0 Unported Licenseに基づく改変・再利用を許諾しますが、
-法令その他の法慣習に反する形での利用を許諾するものではありません。
-文章と共に表示されている画像は、それぞれ文章とは別個のライセンスに基づく場合があります。
-YCAMは、事前の予告無く、本テキストのほか全部または一部のコンテンツの提供を中止する可能性があります。
-```
+#GRPContractForm_Japanese
 
 
 
@@ -434,6 +396,46 @@ b リサーチャーは、主催者からビザ取得に必要な書類を受領
   
   
   
+
+----
+
+##クレジット
+```
+企画制作: Yamaguchi Center for Arts and Media [YCAM]
+立案・作成: YCAM InterLab
+監修: 水野 祐（クリエイティブ・コモンズ・ジャパン、弁護士）
+協力: ドミニク・チェン（クリエイティブ・コモンズ・ジャパン）
+
+Produced by Yamaguchi Center for Arts and Media [YCAM]
+Planned & Made by YCAM InterLab
+Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law)
+Support: Dominick Chen (Creative Commons Japan)
+```
+
+  
+##ライセンス
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL"> Produced by Yamaguchi Center for Arts and Media [YCAM] Planned & Made by YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
+
+
+
+
+
+##免責事項
+```
+YCAMはあなたに対し、本テキストに関し、何らの保証もいたしません。
+本サイトの関係者（他の利用者も含む）は、本テキストの利用（閲覧、投稿、外部での再利用など一切の利用を含むものとします。以下同じ）に関し、
+あなたに対して一切責任を負いません。
+あなたが、本テキストを利用する場合は、自己責任で行う必要があります。
+YCAMは、あなたに対し、本テキストの利用の結果生じた損害について、一切責任を負いません。
+YCAMは、あなたの適用される法令に照らして、本テキストの利用が合法であることを保証しません。
+コンテンツとして提供する全ての情報について、内容の合法性・正確性・安全性等、あらゆる点において保証しません。
+また、リンクをしている外部サイトについては、何ら保証しません。
+本テキストは、Creative Commons Attribution-ShareAlike 3.0 Unported Licenseに基づく改変・再利用を許諾しますが、
+法令その他の法慣習に反する形での利用を許諾するものではありません。
+文章と共に表示されている画像は、それぞれ文章とは別個のライセンスに基づく場合があります。
+YCAMは、事前の予告無く、本テキストのほか全部または一部のコンテンツの提供を中止する可能性があります。
+```
+
 
 
 
