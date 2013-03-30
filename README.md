@@ -17,18 +17,6 @@ GRPContractFormは、クリエイティブでオープンな恊働のフレー�
 一つの試みとして契約書にCCライセンスを付与しています。  
 ```
 
-
-##利用事例
-
-[Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  
-[DURATTION](http://www.duration.cc)  
-![DURATION](http://www.duration.cc/assets/images/DurationText.png "DURATION") 
-  
-  
-
-[YCAM InterLab＋安藤洋子　共同研究開発プロジェクト「Reactor for Awareness in Motion」](http://www.ycam.jp/performingarts/2013/02/ram-presentation.html)  
-![2012_ram_02.jpg](http://www.ycam.jp/education/images/2012_ram_02.jpg)  
-  
   
 
 
@@ -45,6 +33,17 @@ GRPContractFormは、クリエイティブでオープンな恊働のフレー�
 GRPのフレームワークの構築を通じて、真摯に設計された契約は、アートセンターとアーティスト/技術者との間の信頼関係を強め、より良い成果を生み出せることを知りました。また、契約書はプログラムコードに非常に良く似ており、両者の交錯に大きな可能性があるとも考えます。つまり、共同研究や委託における契約はクリエイションに大きな影響を与え、そのフレームワークを実現する契約書は、プログラムコードと同様に恊働して開発し発達させることができる、ということです。このフォームの公開が、今日的なクリエイションのフレームワークが発達する一助となればと考えています。  
 
 
+  
+##利用事例
+
+[DURATTION](http://www.duration.cc)  
+![DURATION](http://www.duration.cc/assets/images/DurationText.png "DURATION") 
+  
+  
+
+[YCAM InterLab＋安藤洋子　共同研究開発プロジェクト「Reactor for Awareness in Motion」](http://www.ycam.jp/performingarts/2013/02/ram-presentation.html)  
+![2012_ram_02.jpg](http://www.ycam.jp/education/images/2012_ram_02.jpg)  
+  
   
 
  
