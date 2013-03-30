@@ -34,23 +34,16 @@ GRPのフレームワークの構築を通じて、真摯に設計された契�
  
 ##利用事例
 
-[Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)
-[DURATTION](http://www.duration.cc)
-[はじめに](http://www.duration.cc/assets/images/DurationText.png)
+[Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  
+[DURATTION](http://www.duration.cc)  
+[はじめに](http://www.duration.cc/assets/images/DurationText.png)  
+  
+  
 
-
-[YCAM InterLab＋安藤洋子　共同研究開発プロジェクト「Reactor for Awareness in Motion」](http://www.ycam.jp/performingarts/2013/02/ram-presentation.html)
-![2012_ram_02.jpg](http://www.ycam.jp/education/images/2012_ram_02.jpg)
-
-
-
-
-
-![alt text](http://path/to/img.jpg)
-![alt text](http://path/to/img.jpg)
-【】でくくられた部分は、契約書ごとに適切な内容に変更する必要が有ります。また、この契約書はあくまでひな形ですので、その他の条項についてもプロジェクトに応じてアレンジして下さい。  
-例えば、ゲストリサーチャーを外国から招聘することを前提としていますが、国内から招聘する場合は、その点を書き換える必要が有ります。具体的には以下の部分を変更します。  
-
+[YCAM InterLab＋安藤洋子　共同研究開発プロジェクト「Reactor for Awareness in Motion」](http://www.ycam.jp/performingarts/2013/02/ram-presentation.html)  
+![2012_ram_02.jpg](http://www.ycam.jp/education/images/2012_ram_02.jpg)  
+  
+  
 
  
 ##つかいかた
