@@ -34,7 +34,7 @@ As this form assumes the invitation of guest researchers from other countries, i
 Through the construction of a GRP framework, we learned that a seriously formulated contract helps strengthen the relationships of mutual trust between art centers and artists/technicians, and produce better results. We further think that a contract is very similar to a program code, and are seeing great potential in a mixture of both. In other words, contracts for joint research or commissioned work have a big effect on the eventual creation, whereas the contracts for realizing such frameworks can be developed in cooperation just like program codes. We hope that the publication of this form will help develop frameworks for contemporary forms of creative work.    
 
 
-##Case Example
+##Case Examples
 
 <!-- [Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  -->
 [DURATTION](http://www.duration.cc)  
