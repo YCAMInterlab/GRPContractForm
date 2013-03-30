@@ -2,7 +2,7 @@
 
 
 
-###About the GRPContractForm 
+##About the GRPContractForm 
 
 
 The GRPContractForm is a contract form created with the aim to define creative and open collaboration frameworks. The idea is to establish environments comparable to so-called "open-source codes", and make them available to a broad audience to use, further develop, and/or create derivative works.  
@@ -21,7 +21,7 @@ under a CC license.
 
 
 
-###Special Features of this Contract Form  
+##Special Features of this Contract Form  
 
 This form was created based on an actual contract used for the implementation of the YCAM InterLab Guest Research Project (GRP), a residency program inviting artists/technicians specializing in cutting-edge topics to carry out joint research and development with the YCAM InterLab staff.  
 
@@ -34,8 +34,21 @@ As this form assumes the invitation of guest researchers from other countries, i
 Through the construction of a GRP framework, we learned that a seriously formulated contract helps strengthen the relationships of mutual trust between art centers and artists/technicians, and produce better results. We further think that a contract is very similar to a program code, and are seeing great potential in a mixture of both. In other words, contracts for joint research or commissioned work have a big effect on the eventual creation, whereas the contracts for realizing such frameworks can be developed in cooperation just like program codes. We hope that the publication of this form will help develop frameworks for contemporary forms of creative work.    
 
 
+##Case Example
 
-###Usage  
+<!-- [Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  -->
+[DURATTION](http://www.duration.cc)  
+![DURATION](http://www.duration.cc/assets/images/DurationText.png "DURATION") 
+  
+  
+
+[YCAM InterLab + Yoko Ando Joint Research and Development Project "Reactor for Awareness in Motion"](http://www.ycam.jp/en/performingarts/2013/02/ram-presentation.html)  
+![2012_ram_02.jpg](http://www.ycam.jp/education/images/2012_ram_02.jpg)  
+  
+  
+
+
+##Usage  
 
 Parts in brackets ([]) are to be adapted to each specific contract. Furthermore, as this contract is merely a basic model, other items may require modifications/arrangements to fit the respective project.    
 For example, as the form assumes the invitation of guest researchers from abroad, contents will have to be modified for projects on a domestic level. Concrete items to be modified are as follows.    
@@ -49,12 +62,12 @@ Article 13.1 b) [delete] / 13.3 Cooperation for Visa Application [delete] / 13.4
 For more details, please refer to the [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_English.md)    
 
 
-###Licenses
+##Licenses
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/en/" property="cc:attributionName" rel="cc:attributionURL"> Produced by Yamaguchi Center for Arts and Media [YCAM] Planned & Made by YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
 
 
-###Credits  
+##Credits  
 ```
 Produced by Yamaguchi Center for Arts and Media [YCAM]
 Planned & Made by YCAM InterLab
@@ -64,7 +77,7 @@ Support: Dominick Chen (Creative Commons Japan)
 
 
 
-###Disclaimer
+##Disclaimer
 ```
 YCAM makes no guarantees whatsoever related to this text.
 The persons involved in the creation/operation of this website (including other users) take no responsibility regarding 
