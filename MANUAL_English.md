@@ -4,9 +4,9 @@
 ##GRPContractForm MANUAL
   
   
-[•Usage](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#はじめに)  
-[•Chapter summaries](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#各章の概要)  
-[•Explanatory Notes](https://github.com/YCAMInterlab/GRPContract/blob/master/README.md#解説)  
+[•Usage](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_English.md#usage)  
+[•Chapter summaries](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_English.md#chapter-summaries)  
+[•Explanatory Notes](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_English.md#explanatory-notes)  
 
 
 
