@@ -448,7 +448,7 @@ Each party receives a signed or sealed copy of this contract.
   
   
 ##Licenses
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/en/" property="cc:attributionName" rel="cc:attributionURL"> Produced by Yamaguchi Center for Arts and Media [YCAM] Planned & Made by YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">GRP Contract Form</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL"></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
 
   
