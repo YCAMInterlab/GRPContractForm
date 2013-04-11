@@ -47,7 +47,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
  
 ##つかいかた
 
-[GitHub](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md)からダウンロードして利用できます。ソフトウェア開発プロジェクトのための共有ウェブサービスであるGitHub上で公開・開発しており、オープンソースコードと同様に、誰でも開発や派生物の制作に参加できます。また、pdfファイルもダウンロード[GRPContractForm Japanese ver1.0](http://interlab.ycam.jp/wp-content/uploads/2013/04/GRPContractForm_Japanese_ver1.0.pdf)できます。  
+[GitHub](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md)からダウンロードして利用できます。ソフトウェア開発プロジェクトのための共有ウェブサービスであるGitHub上で公開・開発しており、オープンソースコードと同様に、誰でも開発や派生物の制作に参加できます。また、pdfファイルもダウンロード[[GRPContractForm Japanese ver1.0]](http://interlab.ycam.jp/wp-content/uploads/2013/04/GRPContractForm_Japanese_ver1.0.pdf)できます。  
 
 【】でくくられた部分は、契約書ごとに適切な内容に変更する必要が有ります。また、この契約書はあくまでひな形ですので、その他の条項についてもプロジェクトに応じてアレンジして下さい。   
 例えば、ゲストリサーチャーを外国から招聘することを前提としていますが、国内から招聘する場合は、その点を書き換える必要が有ります。具体的には以下の部分を変更します。  
