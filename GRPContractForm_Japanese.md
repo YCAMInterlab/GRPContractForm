@@ -1,4 +1,4 @@
-####[はじめに](https://github.com/YCAMInterlab/GRPContractForm/blob/master/README.md) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_Japanese.md) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [ENGLISH](https://github.com/YCAMInterlab/GRPContractForm/blob/master/README_ENG.md)
+####[はじめに](http://interlab.ycam.jp/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_Japanese) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [ENGLISH](http://interlab.ycam.jp/en/projects/grp-contract-form)
 
 
 #GRPContractForm_Japanese
@@ -39,7 +39,7 @@
   
 （主催者）【________________】（以下「主催者」という）と（リサーチャー）【________________】（以下「リサーチャー」という）は、主催者・リサーチャー間における共同研究開発に関し、以下のとおり業務委託契約（以下「本契約」という）を締結する。  
 
-
+---
 ##第1章 総則
 
 ####第１条（目的）
@@ -401,8 +401,7 @@ b リサーチャーは、主催者からビザ取得に必要な書類を受領
 
 
 ##ライセンス
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">YCAMInterlab / GRPContract</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL"> Produced by Yamaguchi Center for Arts and Media [YCAM] Planned & Made by YCAM InterLab Supervisor: Tasuku Mizuno (Creative Commons Japan, Attorney at Law) Support: Dominick Chen (Creative Commons Japan)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示 - 継承 3.0 非移植 License</a>.
-
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">GRP Contract Form</span>  <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL"></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
 
 ##クレジット
