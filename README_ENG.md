@@ -1,4 +1,4 @@
-####[ABOUT](https://github.com/YCAMInterlab/GRPContractForm/blob/master/README_ENG.md) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_English) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [JAPANESE](http://interlab.ycam.jp/projects/grp-contract-form)
+####[ABOUT](http://interlab.ycam.jp/en/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_English) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [JAPANESE](http://interlab.ycam.jp/projects/grp-contract-form)
 
 
 
