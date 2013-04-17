@@ -84,6 +84,29 @@ Support: Dominick Chen (Creative Commons Japan)
 
 
 
+##ライセンスとクレジット
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.1/jp/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.1/jp/88x31.png" /></a><br /> 
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">『GRPContractForm』</span>:<br />
+<a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL">
+企画制作: Yamaguchi Center for Arts and Media [YCAM]<br />
+立案・作成: YCAM InterLab<br />
+監修: 水野 祐(クリエイティブ・コモンズ・ジャパン、弁護士)<br />
+協力: ドミニク・チェン(クリエイティブ・コモンズ・ジャパン)</a><br />
+この作品は<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.1/jp/">クリエイティブ・コモンズ表示−継承 3.0 非移植 ライセンス</a>で公開されています。<br /> <br /> 
+Produced by the Yamaguchi Center for Arts and Media [YCAM],<br />
+Planned and developed by YCAM InterLab,<br />
+Supervised by Tasuku Mizuno (Creative Commons Japan, Attorney at Law),<br />
+Supported by Dominick Chen (Creative Commons Japan)</a><br />
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.1/jp/">Creative Commons Attribution - ShareAlike 3.0 Unported License</a>.
+
+
+
+
+
+
+
+
+
 ##免責事項
 ```
 YCAMはあなたに対し、本テキストに関し、何らの保証もいたしません。
