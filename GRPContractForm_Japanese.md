@@ -407,7 +407,6 @@ b リサーチャーは、主催者からビザ取得に必要な書類を受領
   
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">『GRPContractForm』</span>:<br />
 <a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/" property="cc:attributionName" rel="cc:attributionURL">
-  
 企画制作: Yamaguchi Center for Arts and Media [YCAM]<br />
 立案・作成: YCAM InterLab<br />
 監修: 水野 祐(クリエイティブ・コモンズ・ジャパン、弁護士)<br />
