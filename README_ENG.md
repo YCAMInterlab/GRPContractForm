@@ -36,7 +36,7 @@ Through the implemention of a YCAM Interlab Guest Research Project (GRP) framewo
 
 <!-- [Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  -->
 [DURATTION](http://www.duration.cc)  
-![DURATION](http://www.duration.cc/assets/images/DurationText.png "DURATION") 
+![DURATION](http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg) 
   
   
 
