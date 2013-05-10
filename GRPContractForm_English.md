@@ -15,12 +15,16 @@ This Agreement was concluded in xx, 20xx between:
    
 [Name]                                            
 【________________】  (hereinafter "Host")  
+
 [Country of residence]  
 【________________】  
+
 [Address]  
 【________________】  
+
 [E-mail]  
 【________________】  
+
 [Phone]  
 【________________】  
 
@@ -28,12 +32,16 @@ and
    
 [Name]    				              	
 【________________】  (hereinafter "Researcher")  
+
 [Country of residence]  
 【________________】  
+
 [Address]  
 【________________】  
+
 [E-mail]  
 【________________】  
+
 [Phone]  
 【________________】  
   
@@ -425,17 +433,20 @@ In witness hereof, the parties sign this Agreement and agree it to be executed b
 Each party will be given a copy of the signed Agreement.   
   
 Host:   
-【________________】 				
+【________________】 	
+
 Represented by:							
 【________________】 　　　　　　　					
    
 Researcher:  
 [Name]   
 【________________】 	  						
+
 Represented by:   
 [Name]   
 【________________】   
- [Title]  
+
+[Title]  
 【________________】 	 	 					　　　　　　　
 		 	
 Each party receives a signed or sealed copy of this contract.   
