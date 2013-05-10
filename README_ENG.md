@@ -35,12 +35,12 @@ Through the implemention of a [YCAM Interlab Guest Research Project (GRP)](http:
 ##Case Examples
 
 [Guest Research Project vol.2 - Composition tools for Generative Media](http://interlab.ycam.jp/en/projects/grp-contract-form)
-![DURATION](http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg) 
+<img src="http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg" alt="Duration" width=600>
   
   
 
-[YCAM InterLab + Yoko Ando Joint Research and Development Project "Reactor for Awareness in Motion"](http://www.ycam.jp/en/performingarts/2013/02/ram-presentation.html)  
-![2012_ram_02.jpg](http://www.ycam.jp/education/images/2012_ram_02.jpg)  
+[YCAM InterLab + Yoko Ando Joint Research and Development Project "Reactor for Awareness in Motion"](http://interlab.ycam.jp/en/projects/ram)  
+<img src="http://interlab.ycam.jp/wp-content/uploads/2013/05/RAM_Video_Top.jpg" alt="Reactor for Awareness in Motion" width=600>
   
   
 
