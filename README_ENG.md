@@ -34,8 +34,7 @@ Through the implemention of a YCAM Interlab Guest Research Project (GRP) framewo
 
 ##Case Examples
 
-<!-- [Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  -->
-[DURATTION](http://www.duration.cc)  
+[Guest Research Project vol.2 - Composition tools for Generative Media](http://interlab.ycam.jp/en/projects/grp-contract-form)
 ![DURATION](http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg) 
   
   
