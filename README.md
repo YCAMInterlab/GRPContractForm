@@ -34,8 +34,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
   
 ##利用事例
 
-<!-- [Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  -->
-[DURATTION](http://www.duration.cc)  
+[Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  
 ![DURATION](http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg) 
   
 
