@@ -35,7 +35,8 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 ##利用事例
 
 [Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  
-![DURATION](http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg) 
+<img src="http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg" alt="Duration" width=500>
+
   
 
 [YCAM InterLab＋安藤洋子　共同研究開発プロジェクト「Reactor for Awareness in Motion」](http://www.ycam.jp/performingarts/2013/02/ram-presentation.html)  
