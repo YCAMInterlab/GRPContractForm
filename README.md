@@ -51,7 +51,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 
 【】でくくられた部分は、契約書ごとに適切な内容に変更する必要が有ります。また、この契約書はあくまでひながたですので、その他の条項についてもプロジェクトに応じてアレンジして下さい。  
 
-詳しくは[MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_Japanese.md)を参照ください。  
+詳しくは[MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_Japanese)を参照ください。  
 
   
 

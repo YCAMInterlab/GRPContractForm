@@ -51,7 +51,7 @@ GRPContractForm is available on [GitHub](https://github.com/YCAMInterlab/GRPCont
 
 Parts in brackets ([ ]) are to be adapted to each specific contract. Furthermore, as this contract is merely a basic model, other items may require modifications/arrangements to fit the respective project.  
 
-For more details, please refer to the [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_English.md).    
+For more details, please refer to the [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_English).    
 
 
   
