@@ -11,7 +11,7 @@
 #JOINT RESEARCH AND DEVELOPMENT AGREEMENT
 
 
-This Agreement was concluded in ●●, 20** between:  
+This Agreement was concluded in xx, 20xx between:  
    
 [Name]                                            
 【________________】  (hereinafter "Host")  
