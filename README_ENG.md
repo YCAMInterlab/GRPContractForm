@@ -2,36 +2,34 @@
 
 
 
-##About the GRPContractForm 
+##About GRPContractForm 
 
 
-The GRPContractForm is a contract form created with the aim to define creative and open collaboration frameworks. The idea is to establish environments comparable to so-called "open-source codes", and make them available to a broad audience to use, further develop, and/or create derivative works.  
+GRPContractForm is a contract form created with the aim to define creative and open collaboration frameworks. The idea is to establish environments comparable to so-called “open-source codes”, and make them available to a broad audience to use, modify, and/or create derivative works.  
 
-The purpose of this form is to facilitate projects in which art centers invite researchers and engineers in the field of media art to carry out joint research on cutting-edge topics in a residency style, and encourage further development and derivation of the resulting products by making them openly available. One may consider the form as a source code for a framework for such projects.    
+The purpose of this form is to facilitate projects in which art centers invite artists and technologists in the field of media art to carry out joint research on cutting-edge topics in a residency style, and encourage further development and derivation of the resulting products by making them openly available. One may consider the form as a source code for a framework for this kind of project.   
 
-This form is published under a Creative Commons license* (for details see "disclaimer" below). Within the scope of the license, users are free to arrange or fork products to fit their respective projects. Requests for updates are also welcome.   
+This form is published under a Creative Commons license(*). Within the scope of the license, users are free to arrange or fork products to fit their respective projects. Requests for updates are also welcome.   
 
 
 ```
-* A Creative Commons (CC) license is a form of license for copyrighted work. While there is controversy as to whether 
-a contract is a copyrighted work, considering the importance of the fact that the contract and related information are 
-to be broadly shared as a new framework for media art, the contract as part of this project is published 
-under a CC license.    
+(*)Creative Commons (CC) licenses are copyright licenses for creative works. There is controversy as to whether
+a contract can fall under copyright licenses. Considering the importance of the fact that the contract form 
+and related information are to be broadly shared as a new collaboration framework for media art, 
+the contract as part of this project can be published under a Creative Commons (CC) license.    
 ```
 
 
 
 ##Special Features of this Contract Form  
 
-This form was created based on an actual contract used for the implementation of the YCAM InterLab Guest Research Project (GRP), a residency program inviting artists/technicians specializing in cutting-edge topics to carry out joint research and development with the YCAM InterLab staff.  
+This form was created based on an actual contract used for the implementation of [YCAM Interlab Guest Research Project (GRP)](http://interlab.ycam.jp/projects/guestresearch) between YCAM and artists / technologists.  
 
-*YCAM Interlab Guest Research Project* (http://interlab.ycam.jp/projects/guestresearch)
-
-In addition to regulating research contents, residency periods, costs, and other general issues related to joint research and residency projects, this particular contract contains regulations for publishing and improving the efficiency of resulting products. Specified here are, for example, the handling of rights, publishing licenses and methods, as well as credits and maintenance details.    
+In addition to regulating research contents, residency periods, costs, and other general issues related to joint research and residency projects, this particular contract also contains regulations for publishing and improving the efficiency of resulting products. Specified here are, for example, the handling of rights, publishing licenses and methods, as well as credits and maintenance details.    
 
 As this form assumes the invitation of guest researchers from other countries, it contains items related to the necessary international administrative procedures (such as visa and tax issues), insurance, and international transport. The aim is to establish partnerships based on fair relationships between hosts and guest researchers.      
 
-Through the construction of a GRP framework, we learned that a seriously formulated contract helps strengthen the relationships of mutual trust between art centers and artists/technicians, and produce better results. We further think that a contract is very similar to a program code, and are seeing great potential in a mixture of both. In other words, contracts for joint research or commissioned work have a big effect on the eventual creation, whereas the contracts for realizing such frameworks can be developed in cooperation just like program codes. We hope that the publication of this form will help develop frameworks for contemporary forms of creative work.    
+Through the implemention of a YCAM Interlab Guest Research Project (GRP) framework, we learned that a seriously formulated contract helps to strengthen the relationships of mutual trust between art centers and artists / technologists, and increase the efficiency of research and development. We also think that a contract is very similar to a program code, and are seeing great potential in mixture of both. In other words, contracts for joint research or commissioned work have a big effect on eventual creation, whereas the contracts for realizing such collaboration frameworks can be developed in cooperation just like program codes. Open source development and collaborations have gathered much attention and more people realized the importance of it. We hope that the publication of this form will help to develop frameworks for contemporary forms of creative work.    
 
 
 ##Case Examples
@@ -50,16 +48,11 @@ Through the construction of a GRP framework, we learned that a seriously formula
 
 ##Usage  
 
-Parts in brackets ([]) are to be adapted to each specific contract. Furthermore, as this contract is merely a basic model, other items may require modifications/arrangements to fit the respective project.    
-For example, as the form assumes the invitation of guest researchers from abroad, contents will have to be modified for projects on a domestic level. Concrete items to be modified are as follows.    
+GRPContractForm is available on GitHub. GRPContractForm is published and developed on Github that is a web-based hosting service for software development projects that anyone can participate in development or work of a derivative. PDF(GRPContractForm English ver1.0) is also available.    
 
+Parts in brackets ([]) are to be adapted to each specific contract. Furthermore, as this contract is merely a basic model, other items may require modifications/arrangements to fit the respective project.  
 
-
-```
-Article 12.1 Commission a) [modify] / 12.3 Transportation Costs [modify] / 12.6 Visa Application [delete]  
-Article 13.1 b) [delete] / 13.3 Cooperation for Visa Application [delete] / 13.4 Tax Exemption Procedures [delete]  
-```
-For more details, please refer to the [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_English.md)    
+For more details, please refer to the [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/MANUAL_English.md).    
 
 
   
