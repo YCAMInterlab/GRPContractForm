@@ -11,8 +11,6 @@
 #JOINT RESEARCH AND DEVELOPMENT AGREEMENT
 
 
-####"JOINT RESEARCH AND DEVELOPMENT AGREEMENT
-
 This Agreement was concluded in ●●, 20** between:  
    
 [Name]                                            
