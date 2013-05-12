@@ -74,7 +74,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 -->
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /> 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRPContractForm</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form" property="cc:attributionName" rel="cc:attributionURL">  
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form" property="cc:attributionName" rel="cc:attributionURL">  
 企画制作: Yamaguchi Center for Arts and Media [YCAM]<br />
 立案・作成: YCAM InterLab<br />
 監修: 水野 祐(クリエイティブ・コモンズ・ジャパン、弁護士)<br />
