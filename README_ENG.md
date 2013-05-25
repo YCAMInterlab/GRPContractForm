@@ -9,7 +9,7 @@ GRPContractForm is a contract form created with the aim to define creative and o
 
 The purpose of this form is to facilitate projects in which art centers invite artists and technologists in the field of media art to carry out joint research on cutting-edge topics in a residency style, and encourage further development and derivation of the resulting products by making them openly available. One may consider the form as a source code for a framework for this kind of project.   
 
-This form is published under a Creative Commons license(*). Within the scope of the license, users are free to arrange or fork products to fit their respective projects. Requests for updates are also welcome.   
+This form is published under a Creative Commons license(*). Within the scope of the license, users are free to arrange or fork products to fit their respective projects. Requests for updates on Github are also welcome.   
 
 
 ```
