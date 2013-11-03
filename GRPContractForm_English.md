@@ -186,7 +186,7 @@ c) 	When the attribution of copyrights, patent rights and other intellectual pro
 
 11.1 The Researcher agrees the Host or person specified by the Host to publish the Development Results (including downloading and Internet streaming). 
  
-11.2 The Researcher agrees the Host to publish the Developed Software under open-source licenses (such as GPL, MIT License, Apache License etc.).
+11.2 The Researcher agrees the Host to publish the Developed Software under open-source licenses (such as MIT License, Apache License 2.0 etc.).
  
 11.3 The Researcher agrees the Host to publish all copyrighted items resulting from the Work, except for the Developed Software, under Creative Commons licenses.
  
