@@ -404,14 +404,14 @@ b リサーチャーは、主催者からビザ取得に必要な書類を受領
 
 ##ライセンスとクレジット
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /> 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form" property="cc:attributionName" rel="cc:attributionURL">  
+<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+<br /> 
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form" property="cc:attributionName" rel="cc:attributionURL"></a>
 企画制作: Yamaguchi Center for Arts and Media [YCAM]<br />
 立案・作成: YCAM InterLab<br />
 監修: 水野 祐(クリエイティブ・コモンズ・ジャパン、弁護士)<br />
-協力: ドミニク・チェン(クリエイティブ・コモンズ・ジャパン)<br /></a>
-GRP Contract Formは<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">クリエイティブ・コモンズ表示−継承 3.0 非移植 ライセンス</a>で公開されています。<br />
-
+協力: ドミニク・チェン(クリエイティブ・コモンズ・ジャパン)<br />
+GRP Contract Formは<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。
 
 ##免責事項
 ```
