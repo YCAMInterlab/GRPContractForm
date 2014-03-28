@@ -465,7 +465,7 @@ Produced by the Yamaguchi Center for Arts and Media [YCAM],<br />
 Planned and developed by YCAM InterLab,<br />
 Supervised by Tasuku Mizuno (Creative Commons Japan, Attorney at Law),<br />
 Supported by Dominick Chen (Creative Commons Japan)<br />
-GRP Contract Form is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution - ShareAlike 4.0 International License</a>.<br />]
+GRP Contract Form is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution - ShareAlike 4.0 International License</a>.<br />
 
 
 ##Disclaimer
