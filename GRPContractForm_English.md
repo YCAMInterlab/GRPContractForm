@@ -477,7 +477,7 @@ YCAM takes no responsibility regarding eventual damage resulting from your use o
 YCAM does not guarantee that your use of this text is legitimate according to applicable laws.
 We don't guarantee in any way the legitimacy, accuracy and safety of all information provided as contents.
 We make no guarantees regarding external website linked to from this site.
-This text permits alteration or reuse based on the Creative Commons Attribution-ShareAlike 3.0 Unported License, however it does not permit forms of reuse that violate laws or other regulations.  
+This text permits alteration or reuse based on the Creative Commons Attribution-ShareAlike 4.0 International License, however it does not permit forms of reuse that violate laws or other regulations.  
 The use of images accompanying the text may be based on license agreements separate from the respective text licenses.  
 YCAM may discontinue the publication of all or parts of this text and all other contents without prior notice.
 ```
