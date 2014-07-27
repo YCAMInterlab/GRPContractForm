@@ -64,9 +64,7 @@
 
 ##1.ガイドラインの構成
 
-<img src="http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg" alt="Duration" width=600>
-
-<img src="https://github.com/YCAMInterlab/GRPContractForm/data/guidlinestructure_J.png" alt="" width=600>  
+<img src="https://raw.githubusercontent.com/YCAMInterlab/GRPContractForm/master/data/guidlinestructure_J.png" alt="" width=400>  
 
 
 
