@@ -73,19 +73,21 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 
 -->
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /> 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form" property="cc:attributionName" rel="cc:attributionURL">  
+
+
+
+
+
+##ライセンスとクレジット
+
+<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+<br /> 
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form" property="cc:attributionName" rel="cc:attributionURL"></a>
 企画制作: Yamaguchi Center for Arts and Media [YCAM]<br />
 立案・作成: YCAM InterLab<br />
 監修: 水野 祐(クリエイティブ・コモンズ・ジャパン、弁護士)<br />
-協力: ドミニク・チェン(クリエイティブ・コモンズ・ジャパン)<br /></a>
-GRP Contract Formは<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">クリエイティブ・コモンズ表示−継承 3.0 非移植 ライセンス</a>で公開されています。<br />
-
-
-
-
-
-
+協力: ドミニク・チェン(クリエイティブ・コモンズ・ジャパン)<br />
+GRP Contract Formは<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。
 
 ##免責事項
 ```
@@ -97,11 +99,12 @@ YCAMは、あなたに対し、本テキストの利用の結果生じた損害�
 YCAMは、あなたの適用される法令に照らして、本テキストの利用が合法であることを保証しません。
 コンテンツとして提供する全ての情報について、内容の合法性・正確性・安全性等、あらゆる点において保証しません。
 また、リンクをしている外部サイトについては、何ら保証しません。
-本テキストは、Creative Commons Attribution-ShareAlike 3.0 Unported Licenseに基づく改変・再利用を許諾しますが、
+本テキストは、Creative Commons Attribution-ShareAlike 4.0 International Licenseに基づく改変・再利用を許諾しますが、
 法令その他の法慣習に反する形での利用を許諾するものではありません。
 文章と共に表示されている画像は、それぞれ文章とは別個のライセンスに基づく場合があります。
 YCAMは、事前の予告無く、本テキストのほか全部または一部のコンテンツの提供を中止する可能性があります。
 ```
+
 
 ---
 
