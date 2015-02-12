@@ -59,7 +59,7 @@ Through the implemention of a [YCAM Interlab Guest Research Project (GRP)](http:
   
 
 [MEDIA/ART KITCHEN YAMAGUCHI](http://mediaartkitchen.tumblr.com)  
-<img src="http://www.ycam.jp/art/images/20140705_media-art-kitchen.jpg  " alt="Reactor for Awareness in Motion" width=600>
+<img src="http://www.ycam.jp/art/images/20140705_media-art-kitchen.jpg" alt="MEDIA/ART KITCHEN YAMAGUCHI]" width=600>
 
 
 
