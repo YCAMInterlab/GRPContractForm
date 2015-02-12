@@ -2,6 +2,21 @@
 
 
 
+##Development History
+
+2013.3 Ver.1 released  
+
+2014.9 Ver.2 released in response to the following (MEDIA/ART KITCHEN YAMAGUCHI):
+- Environments for multiple Collaborators to simultaneously engage in research/development (Attribution of Rights Relating to Development Results)  
+- Regulations regarding the application of CC0 for released data (Publication of Works, Open-Source Licensing)  
+- Reference to Guidelines    
+- Regulations for handling material Development Results the ownership of which has been attributed to the Host (Attribution of Rights Relating to Material Development Results)  
+- Addition of terminological definition clauses (Definitions)  
+- Various additions/modifications regarding notation related to: compensation (from tax excluded to tax included) (Payment of Commission), tax exemption (Procedure for Tax Exemption), regulations for publication (Publication of Works, Open-Source Licensing)    
+- Notational modifications (changing "Researcher” to “Collaborator”; adding “increase of creativity” to “Purpose”; changing "Warranty etc.” to “Warranty”)
+
+
+
 ##About GRPContractForm 
 
 
@@ -42,7 +57,10 @@ Through the implemention of a [YCAM Interlab Guest Research Project (GRP)](http:
 [YCAM InterLab + Yoko Ando Joint Research and Development Project "Reactor for Awareness in Motion"](http://interlab.ycam.jp/en/projects/ram)  
 <img src="http://interlab.ycam.jp/wp-content/uploads/2013/05/RAM_Video_Top.jpg" alt="Reactor for Awareness in Motion" width=600>
   
-  
+
+[MEDIA/ART KITCHEN YAMAGUCHI](http://mediaartkitchen.tumblr.com)  
+<img src="http://www.ycam.jp/art/images/20140705_media-art-kitchen.jpg  " alt="Reactor for Awareness in Motion" width=600>
+
 
 
 ##Usage  
