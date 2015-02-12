@@ -2,21 +2,6 @@
 
 
 
-##Development History
-
-2013.3 Ver.1 released  
-
-2014.9 Ver.2 released in response to the following (MEDIA/ART KITCHEN YAMAGUCHI):
-- Environments for multiple Collaborators to simultaneously engage in research/development (Attribution of Rights Relating to Development Results)  
-- Regulations regarding the application of CC0 for released data (Publication of Works, Open-Source Licensing)  
-- Reference to Guidelines    
-- Regulations for handling material Development Results the ownership of which has been attributed to the Host (Attribution of Rights Relating to Material Development Results)  
-- Addition of terminological definition clauses (Definitions)  
-- Various additions/modifications regarding notation related to: compensation (from tax excluded to tax included) (Payment of Commission), tax exemption (Procedure for Tax Exemption), regulations for publication (Publication of Works, Open-Source Licensing)    
-- Notational modifications (changing "Researcher” to “Collaborator”; adding “increase of creativity” to “Purpose”; changing "Warranty etc.” to “Warranty”)
-
-
-
 ##About GRPContractForm 
 
 
@@ -33,6 +18,21 @@ a contract can fall under copyright licenses. Considering the importance of the 
 and related information are to be broadly shared as a new collaboration framework for media art, 
 the contract as part of this project can be published under a Creative Commons (CC) license.    
 ```
+
+
+
+##Development History
+
+2013.3 Ver.1 released  
+
+2014.9 Ver.2 released in response to the following (MEDIA/ART KITCHEN YAMAGUCHI):
+- Environments for multiple Collaborators to simultaneously engage in research/development (Attribution of Rights Relating to Development Results)  
+- Regulations regarding the application of CC0 for released data (Publication of Works, Open-Source Licensing)  
+- Reference to Guidelines    
+- Regulations for handling material Development Results the ownership of which has been attributed to the Host (Attribution of Rights Relating to Material Development Results)  
+- Addition of terminological definition clauses (Definitions)  
+- Various additions/modifications regarding notation related to: compensation (from tax excluded to tax included) (Payment of Commission), tax exemption (Procedure for Tax Exemption), regulations for publication (Publication of Works, Open-Source Licensing)    
+- Notational modifications (changing "Researcher” to “Collaborator”; adding “increase of creativity” to “Purpose”; changing "Warranty etc.” to “Warranty”)
 
 
 

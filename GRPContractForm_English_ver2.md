@@ -57,10 +57,10 @@ and
 
   
 
-##Division Ⅰ GENERAL PROVISIONS  
+##Ⅰ GENERAL PROVISIONS  
 
 ####Article 1 (Purpose)   
-The Purpose of this agreement is to define the roles of the Host and the Collaborator, as well as the retention of rights on the results, methods of publishing results, and other rights and obligations on the Host's and the Collaborator's side during their joint research and development, with the aim to increase the creativity of mankaind as a whole and to contribute to the development of culture by publishing development results as common property of mankind.
+The Purpose of this agreement is to define the roles of the Host and the Collaborator, as well as the retention of rights on the results, methods of publishing results, and other rights and obligations on the Host's and the Collaborator's side during their joint research and development, with the aim to increase the creativity of mankind as a whole and to contribute to the development of culture by publishing development results as common property of mankind.
   
  
 ---
@@ -70,14 +70,14 @@ The Purpose of this agreement is to define the roles of the Host and the Collabo
 
 Following terms shall have the meaning designated below when referred to under this Agreement.
 
-2.1 The "Software" shall mean the programs that operate on computers (personal computers, microcomputers, etc.)
+2.1 "Software" shall mean the programs that operate on computers (personal computers, microcomputers, etc.)
 
-2.2 The "Hardware" shall mean the phsical existence of machines, devices, circuit borads and circuits, excluding pictures, blueprints, and docments of these items.
+2.2 "Hardware" shall mean the physical existence of machines, devices, circuit boards and circuits, excluding pictures, blueprints, and docments of these items.
 
-2.3 The "Other collaborator(s)" shall mean all of those other than the “Collaborator” that have agreed to the same terms as set forth in this Agreement with the Host regarding pubicaiton of product, creation of documents, non-exercize of rights and warranty and maintenance, and are third parties (including groups) that conduct joint research and development with the Host.  
+2.3 "Other collaborator(s)" shall mean all of those other than the “Collaborator” that have agreed to the same terms as set forth in this Agreement with the Host regarding publicaiton of product, creation of documents, non-exertion of rights and warranty and maintenance, and are third parties (including groups) that conduct joint research and development with the Host.  
   
 
-##Division Ⅱ ASSIGNED WORKS 
+##Ⅱ ASSIGNED WORKS 
   
 ####Article 3 (Assigned Work)
 
@@ -159,7 +159,7 @@ As part of the Work, the Collaborator shall implement exhibitions. Details inclu
 
 ####Article 9 (Creation of Documents)
 
-The Collaborator shall create documents related to the Work set forth in Articles 5 and 6 (when the Developed Results is software, the examples, readme documents, manuals, explanations and any other documents, as well as demo movies are also cosidered part of the Works).
+The Collaborator shall create documents related to the Work set forth in Articles 5 and 6 (when the Developed Results are software, the examples, readme documents, manuals, explanations and any other documents, as well as demo movies are also considered part of the Work).
 
 Details such as editing process and schedule shall be discussed and determined separately between the Host and the Collaborator.
 
@@ -167,13 +167,13 @@ Details such as editing process and schedule shall be discussed and determined s
   
  
 
-##Division Ⅲ ATTRIBUTION OF RIGHTS
+##Ⅲ ATTRIBUTION OF RIGHTS
 
 ####Article 10 (Attribution of Rights Relating to Development Results)
 
 10.1 General Provision about Development Results
 
-The attribution of all rights including the intellectual property rights (hereinafter used to refer to any rights already owned or to obtain or apply for registration of such rights, and hereinafter refferd to as the "IP Rights") such as copyright (including the rights specified in articles 27, 28 and other articles of the Japanese Copyright Act; the same apply hereinafter), patent rights, utility model rights, design rights, trademarks(except the ownership specified in Article 10.5 of development results as part of the Work defined in Article 3 (including software, hardware, images, movies, plans, drawings, documents, data, techniques, know-how and other results of development; hereinafter "Development Results") shall be handled as follows:
+The attribution of all rights including the intellectual property rights (hereinafter used to refer to any rights already owned or to obtain or apply for registration of such rights, and hereinafter referred to as the "IP Rights") such as copyright (including the rights specified in articles 27, 28 and other articles of the Japanese Copyright Act; the same apply hereinafter), patent rights, utility model rights, design rights, trademarks(except the ownership specified in Article 10.5 of Development Results as part of the Work defined in Article 3 (including software, hardware, images, movies, plans, drawings, documents, data, techniques, know-how and other results of development; hereinafter "Development Results") shall be handled as follows:
 
 a) The Host and the Collaborator shall share IP Rights of the Development Results.
 
@@ -207,11 +207,11 @@ When the Development Results is created through cooperation between the host, th
 
 10.5 Attribution of Rights Relating to material Development Results
 
-In the case of material Development Results, ownership of the Development Results shall be attributed to the Host. The Host shall not guarantee anything regarding management, including maintenance, of said physical objects. In the event the Host wishes to dispose of said pyhsical objects, the Host will contact the Collaborator, and if the Collaborator requests, the Host will transfer the objects to the Collaborator if possible. Any costs incurred by this transfer, including shipment and insurance, shall be the Collaborator's responsibility.
+In the case of material Development Results, ownership of the Development Results shall be attributed to the Host. The Host shall not guarantee anything regarding management, including maintenance, of said physical objects. In the event the Host wishes to dispose of said physical objects, the Host will contact the Collaborator, and if the Collaborator requests, the Host will transfer the objects to the Collaborator if possible. Any costs incurred by this transfer, including shipment and insurance, shall be the Collaborator's responsibility.
 
 10.6 Exercise of Shared Rights 
 
-When the Host and the Collaborator co-own in whole or in part IP Rights of the Development Results defined in Articles 10.1-5, the Host or the Collaborator may exercise these rights without the respective co-holder's agreement. However, the foregoing shall not apply when rights are found to be exercised without due reason (including rights not exercised by mandatory provision). The Host or the Collaborator may only use data that don't involve copyrights. This clause shall apply correspondingly when the rights is shared between the Host, the Collaborator, and the Other Collaborator(s), as set forth in Article 10.4.
+When the Host and the Collaborator co-own in whole or in part IP Rights of the Development Results defined in Articles 10.1-5, the Host or the Collaborator may exercise these rights without the respective co-holder's agreement. However, the foregoing shall not apply when rights are found to be exercised without due reason (including rights not exercised by mandatory provision). The Host or the Collaborator may only use data that don't involve copyrights. This clause shall apply correspondingly when the rights are shared between the Host, the Collaborator, and the Other Collaborator(s), as set forth in Article 10.4.
 
 10.7 Rental of material Development Results 
 
@@ -233,12 +233,8 @@ Upon request, the Host agrees to lend eventual material Developed Results to the
 
 
 
-  
-   
 
-
-
-##Division Ⅳ PUBLICATION OF WORKS
+##Ⅳ PUBLICATION OF WORKS
 
 ####Article 12 (Publication of Works, Open-Source Licensing)
 
@@ -250,7 +246,7 @@ Upon request, the Host agrees to lend eventual material Developed Results to the
 
 12.4 The Collaborator agrees to the Host publishing any and all data regarding the Works under the CC0 license.
 
-12.5 Based on the premise that the Collaborator has sufficient knowledge of the structures of open source and Creative Commons licenses set forth in Articles 12.2 , 12.3, and 12.4 details such as licensing conditions and methods shall be discussed and determined separately between the Host and the Collaborator 
+12.5 Based on the premise that the Collaborator has sufficient knowledge of the structures of open source and Creative Commons licenses set forth in Articles 12.2, 12.3, and 12.4, details such as licensing conditions and methods shall be discussed and determined separately between the Host and the Collaborator 
 
 (When the Host or the Collaborator has associated guidelines covering the details of license terms, the publishing method and other publishing details will be determined by separate discussion between the Host and the Collaborator with reference to the guidelines.).   
 
@@ -259,7 +255,7 @@ Upon request, the Host agrees to lend eventual material Developed Results to the
 
   
   
-##Division Ⅴ OTHER RIGHTS AND OBLIGATIONS
+##Ⅴ OTHER RIGHTS AND OBLIGATIONS
 
 ####Article 13 (Host's Obligations)
 
@@ -315,7 +311,7 @@ When using or publishing Development Results or derivative products, the Host sh
 
 13.8 Procedure for Tax Exemption
 
-When the Collaborator submit to the Host docments required for tax exemption procedures by ten (10) days prior to the first date on payment of the Commission to the Collaborator set forth Article 13.1 b),  the Host will carry out procedures necessary for the Collaborator’s tax exemption.
+When the Collaborator submit to the Host documents required for tax exemption procedures by ten (10) days prior to the first date on payment of the Commission to the Collaborator set forth Article 13.1 b),  the Host will carry out procedures necessary for the Collaborator’s tax exemption.
 
 ---
 
@@ -377,7 +373,7 @@ Whenever the Work requires the use of software etc., the rights of which are own
 
 
 
-##Division Ⅵ GENERAL TERMS 
+##Ⅵ GENERAL TERMS 
 
 ####Article 18 (Prohibition of Re-commission)
 
