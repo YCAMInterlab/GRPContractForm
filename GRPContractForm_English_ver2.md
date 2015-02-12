@@ -403,7 +403,7 @@ d) the disclosure of which was required by law, or mandated by the court or gove
 
 ####Article 21 (Discontinuation of Work)
 
-If the Host decides to discontinue the Work, and no breach of contract by the Collaborator is involved, the Host shall pay the Collaborator fifty (50)% of the commission defined in Article 12 as the only remuneration.
+If the Host decides to discontinue the Work, and no breach of contract by the Collaborator is involved, the Host shall pay the Collaborator fifty (50)% of the commission defined in Article 13 as the only remuneration.
 
 ####Article 22 (Cancellation)
 
