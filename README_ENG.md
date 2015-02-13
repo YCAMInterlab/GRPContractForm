@@ -65,7 +65,7 @@ Through the implemention of a [YCAM Interlab Guest Research Project (GRP)](http:
 
 ##Usage  
 
-GRPContractForm is [available on GitHub](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md). GRPContractForm is published and developed on Github that is a web-based hosting service for software development projects that anyone can participate in development or work of a derivative. PDF[[GRPContractForm English ver1.0]](http://interlab.ycam.jp/wp-content/uploads/2013/05/GRPContractForm_English_ver1.0.pdf) is also available.    
+GRPContractForm is [available on GitHub](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md). GRPContractForm is published and developed on Github that is a web-based hosting service for software development projects that anyone can participate in development or work of a derivative.  
 
 Parts in brackets ([ ]) are to be adapted to each specific contract. Furthermore, as this contract is merely a basic model, other items may require modifications/arrangements to fit the respective project.  
 

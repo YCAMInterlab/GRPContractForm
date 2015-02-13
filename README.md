@@ -66,11 +66,11 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
  
 ##つかいかた
 
-[GitHubからダウンロード](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md)して利用できます。GRPContractFormはソフトウェア開発プロジェクトのための共有ウェブサービスであるGitHub上で公開・開発しており、オープンソースコードと同様に、誰でも改変や派生物の制作に参加できます。また、pdfファイル[[GRPContractForm Japanese ver1.0]](http://interlab.ycam.jp/wp-content/uploads/2013/04/GRPContractForm_Japanese_ver1.0.pdf)もダウンロードできます。    
+[GitHubからダウンロード](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md)して利用できます。GRPContractFormはソフトウェア開発プロジェクトのための共有ウェブサービスであるGitHub上で公開・開発しており、オープンソースコードと同様に、誰でも改変や派生物の制作に参加できます。      
 
 【】でくくられた部分は、契約書ごとに適切な内容に変更する必要が有ります。また、この契約書はあくまでひながたですので、その他の条項についてもプロジェクトに応じてアレンジして下さい。  
 
-詳しくは[MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_Japanese)を参照ください。  
+詳しくは[MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/Manual_Japanese.md)を参照ください。  
 
   
 
