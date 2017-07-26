@@ -1,16 +1,16 @@
-####[ABOUT](http://interlab.ycam.jp/en/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_English) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [JAPANESE](http://interlab.ycam.jp/projects/grp-contract-form)
+#### [ABOUT](http://interlab.ycam.jp/en/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_English) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [JAPANESE](http://interlab.ycam.jp/projects/grp-contract-form)
 
 
 
 
 
 
-##GRP Contract Form MANUAL (Ver.2)
+## GRP Contract Form MANUAL (Ver.2)
   
   
 
  
-##Usage
+## Usage
   
 GRPContractForm is a contract form created with the aim to define creative and open collaboration frameworks. As it is a basic model, items may require modifications/arrangements to fit the respective project. For more details, please refer to the [README](https://github.com/YCAMInterlab/GRPContractForm/blob/master/README_ENG.md) file.  
 
@@ -35,12 +35,12 @@ For example, as the model form assumes the invitation of guest Collaborators fro
 This form functions at once as a blueprint and knowledge library for joint research and development projects, and can thus be considered as a layout (metadesign) for design environments that may be a useful reference for designing individual projects.  
 
   
-####List of key points (link below)
+#### List of key points (link below)
 Items and clauses that may be crucial in terms of open licensing and matters that are to be discussed separately, are collected in a "List of key points”, which should be helpful for discussing the progression of a project or formulating a contract.  
 [•List of key points]()   
   
 
-####Guidelines for Open Licensing (link below)
+#### Guidelines for Open Licensing (link below)
 For a smooth and efficient implementation of open licensing, it is recommended to refer to the "Guidelines for Open Licensing” (which may also serve as guidelines as specified in Chapter Ⅳ: Publication of Works, Article 12.5).  
 [•Guidelines for Open Licensing]()    
 
@@ -53,9 +53,9 @@ For a smooth and efficient implementation of open licensing, it is recommended t
 ----
     
 
-##Chapter summaries  
+## Chapter summaries  
 
-###[Title and Parties Concerned]
+### [Title and Parties Concerned]
 Contains this contract's title and information on the parties concerned.  
 
   
@@ -65,7 +65,7 @@ Title and Parties Concerned
 
 
 
-###[Ⅰ General Provisions]
+### [Ⅰ General Provisions]
 Contains outlines, purposes and definitions to be regulated by this contract.  
 
 ```
@@ -74,7 +74,7 @@ Article 1: Purposes  Article 2: Definitions
 
 
 
-###[Ⅱ Assigned Work]
+### [Ⅱ Assigned Work]
 Contains information on the work the host assigns to the guest Collaborator (Article 3), and on the place and period of work (Article 4).  
 While the assigned work is chiefly research and development (Article 5), this chapter contains also items regulating accompanying activities (Articles 6-9).  
 
@@ -91,7 +91,7 @@ Article 9 (Creation of Documents)
 
 
 
-###[Ⅲ Attribution of Rights]
+### [Ⅲ Attribution of Rights]
 Regulates the handling of rights related to all kinds of products resulting from the respective projects.  
 Regarding results of the joint research and development, the chapter specifies that intellectual property rights shall be shared, and that both the host and the Collaborator may exercise these rights independently as long as credits are indicated appropriately, whereas ownership of material products shall be attributed to the host (Article 10).    
 The chapter further specifies that copyrights in the host's recorded archives shall be attributed to the host, who may make free use of those rights (Article 11).  
@@ -102,7 +102,7 @@ Article 10 (Attribution of Rights Relating to Development Results)
 Article 11 (Photographs, Video and Audio Recordings)
 ```
 
-###[Ⅳ Publication of Works]
+### [Ⅳ Publication of Works]
 Regulates the publication of software and other copyrighted products resulting from the joint research and development.  
 
 ```
@@ -110,7 +110,7 @@ Article 12 (Publication of Works, Open-Source Licensing)
 ```
 
 
-###[Ⅴ Other Rights and Obligations]
+### [Ⅴ Other Rights and Obligations]
 Specifies obligations on the Host's (Article 13) and the Collaborator's side (Article 14). While mainly regulating the payment of commission to the artists/technologists, as well as the coverage of other expenses, accommodation, and the handling of credits and rights, this chapter also contains information on visa application and tax convention procedures for Collaborators coming from abroad.    
 The chapter further regulates warranty issues regarding intellectual property (Article 15), the use of software etc. of a third party (Article 16), and support and maintenance after the end of the period of stay (Article 17).   
 
@@ -122,7 +122,7 @@ Article 16 (Use of Software etc. of a Third Party)
 Article 17 (Maintenance)   
 ```
 
-###[Ⅵ General Terms]
+### [Ⅵ General Terms]
 This chapter regulates general issues related to the joint research and development contract. It further contains provisions regarding the prohibition of re-commission (Article 18), confidentiality (Article 19()), measures to be taken if the agreement cannot be fulfilled due to reasons beyond the control of the host and/or Collaborator (Article 20), the payment of redemption to the Collaborator if the host is forced to discontinue the project (Article 21), cancellation (Article 22), damage compensation (Article 23), etc.    
 
 
@@ -147,10 +147,10 @@ Article 31 (Language of Priority)
 
 ---
 
-##Explanations
+## Explanations
 
 
-###Titles and Parties Concerned
+### Titles and Parties Concerned
 
 
 
@@ -221,7 +221,7 @@ Collaborator: engineer or artist
 
 
 
-> ##JOINT RESEARCH AND DEVELOPMENT AGREEMENT
+> ## JOINT RESEARCH AND DEVELOPMENT AGREEMENT
 > 
 > 
 > This Agreement was concluded in xx, 20xx between:
@@ -275,7 +275,7 @@ Please specify the parties concerned, i.e. the Host and the Collaborator.
 
 
 
-###Ⅰ. GENERAL PROVISIONS  
+### Ⅰ. GENERAL PROVISIONS  
 
 <table>
 
@@ -366,7 +366,7 @@ Please specify the parties concerned, i.e. the Host and the Collaborator.
 
 
 
-####Article 1 (Purpose) 
+#### Article 1 (Purpose) 
 
 > The Purpose of this agreement is to define the roles of the Host and the Collaborator, as well as the retention of rights on the results, methods of publishing results, and other rights and obligations on the Host's and the Collaborator's side during their joint research and development, with the aim to increase the creativity of mankind as a whole and to contribute to the development of culture by publishing development results as common property of mankind.
 
@@ -376,7 +376,7 @@ This article specifies outlines and purposes of items regulated by this contract
 creativity: the creation of new idea or product, its quality and amount, its ability  
 
 
-####Article 2 (Definitions)
+#### Article 2 (Definitions)
 
 > Following terms shall have the meaning designated below when referred to under this Agreement.  
 >  
@@ -389,7 +389,7 @@ Defined in this article are terms used in this contract.
 ”Other collaborators” refers to collaborators other than the Collaborator specified as a contracting party of this contract in cases of multiple collaborators participating in one project.  
   
 
-###Ⅱ. ASSIGNED WORKS
+### Ⅱ. ASSIGNED WORKS
 
 
 
@@ -598,7 +598,7 @@ As the Period of Work may extend beyond the Period of Stay, these two items are 
  
   
 
-####Article 4 (Place and Period of Work)
+#### Article 4 (Place and Period of Work)
 
 > 4.1 The Collaborator shall conduct the Work at the following place:
 > 
@@ -619,7 +619,7 @@ As the Period of Work may extend beyond the Period of Stay, these two items are 
 Specified here are the Place at which the actual joint research and development is carried out, as well as the Period of Stay at that place.  
   
 
-####Article 5 (Research and Development Contents)
+#### Article 5 (Research and Development Contents)
 
 > The Host and the Collaborator shall conduct joint research and development on the following subject.
 > 
@@ -633,7 +633,7 @@ Products resulting from this activity are published under open license. (See als
   
   
 
-####Article 6 (Production and Implementation of Workshops)
+#### Article 6 (Production and Implementation of Workshops)
 
 > 6.1 During the Period of Stay set forth in Article 4.2, the Collaborator shall produce workshops on the research and development set forth in Article 5 at Joint Research Facility. Detailed contents of workshops shall be discussed and determined separately between the Host and the Collaborator.
 > 
@@ -643,7 +643,7 @@ This article sets forth that the Collaborator produces, plans and implements wor
   
   
 
-####Article 7 (Implementation of Lectures)
+#### Article 7 (Implementation of Lectures)
 
 > As part of the Work, the Collaborator shall give lectures. Details including contents, location and frequency shall be discussed and determined separately between the Host and the Collaborator.
 
@@ -652,7 +652,7 @@ This article sets forth that the Collaborator gives lectures related to the resp
   
   
 
-####Article 8 (Implementation of Exhibitions)
+#### Article 8 (Implementation of Exhibitions)
 
 > As part of the Work, the Collaborator shall implement exhibitions. Details including contents, location and frequency shall be discussed and determined separately between the Host and the Collaborator.
 
@@ -661,7 +661,7 @@ This article sets forth that the Collaborator holds exhibitions related to the r
  
   
 
-####Article 9 (Creation of Documents)
+#### Article 9 (Creation of Documents)
 
 > The Collaborator shall create documents related to the Work set forth in Articles 5 and 6 (when the Developed Results are software, the examples, readme documents, manuals, explanations and any other documents, as well as demo movies are also considered part of the Work).
 
@@ -674,7 +674,7 @@ This article sets forth that the Collaborator creates documents on research/deve
   
   
 
-###Ⅲ. ATTRIBUTION OF RIGHTS
+### Ⅲ. ATTRIBUTION OF RIGHTS
 
 
 <table>
@@ -858,7 +858,7 @@ General regulation
 
 
 
-####Article 10 (Attribution of Rights Relating to Development Results)
+#### Article 10 (Attribution of Rights Relating to Development Results)
 
 > 10.1 General Provision about Development Results
 > 
@@ -932,7 +932,7 @@ Data that don't involve copyrights may be used independently.
 
 10.7 When the Collaborator requires material products resulting from the project, which came into the possession of the Host after the end of the project, the Host shall lend those free of charge (except for actual expenses) whenever possible. If ownership rights are attributed to others than the Host, this clause is to be modified accordingly.  
 
-####Article 11 (Photographs, Video and Audio Recordings)
+#### Article 11 (Photographs, Video and Audio Recordings)
 
 > 11.1 As part of the Work, the Collaborator agrees to have photographs, video or audio recordings made by the Host or person specified by the Host, to be used for advertisement, research, development, archive creation, and other purposes whenever considered necessary by the Host.
 > 
@@ -952,7 +952,7 @@ If, for example, the Collaborator is a musician, please consider whether the Hos
 
 
 
-###Ⅳ. PUBLICATION OF WORKS
+### Ⅳ. PUBLICATION OF WORKS
 
 
 <table>
@@ -1066,7 +1066,7 @@ If, for example, the Collaborator is a musician, please consider whether the Hos
 
 
 
-####Article 12 (Publication of Works, Open-Source Licensing)
+#### Article 12 (Publication of Works, Open-Source Licensing)
 
 > 12.1 The Collaborator agrees the Host or person specified by the Host to publish the Development Results (including downloading and Internet streaming).
 > 
@@ -1098,7 +1098,7 @@ License formats are constantly evolving, thus this clause will have to be update
 12.6 As a dispersion of publishers involves the risk of concluding a project without either party publishing the results, the Host or other person specified by the Host is primordially appointed as the party who publishes Development Results (12.1). As Collaborators often use such source code sharing websites as GitHub for their actual work, in some cases it is more efficient if the Collaborator does the publication. The clause includes the possibility of appointing, if necessary, the Collaborator as the party that publishes Development Results.
 
 
-###Ⅴ. OTHER RIGHTS AND OBLIGATIONS
+### Ⅴ. OTHER RIGHTS AND OBLIGATIONS
  
 
 
@@ -1295,7 +1295,7 @@ License formats are constantly evolving, thus this clause will have to be update
 
 
 
-####Article 13 (Host's Obligations)
+#### Article 13 (Host's Obligations)
 
 > The Host shall assume the following obligations to the Collaborator:
 > 
@@ -1659,7 +1659,7 @@ May be deleted if no tax convention is applicable
 
 
   
-####Article 14 (Collaborator's Obligations)
+#### Article 14 (Collaborator's Obligations)
 
 > The Collaborator shall assume the following obligations to Host:
 > 
@@ -1848,7 +1848,7 @@ The Collaborator shall cooperate regarding maintenance, development (including u
 
 
 
-####Article 15 (Warranty and Non-Assertion)
+#### Article 15 (Warranty and Non-Assertion)
 
 > 15.1 In executing the Work, the Collaborator shall warrant to the Host that the Collaborator has legitimate authority to conclude this Agreement, and that the Work will not infringe on IP Rights, or any other rights owned by a third party, or that mentally abuse, or violate the privacy of a third party. In the event of any dispute with a third party, Collaborator shall cover all expenses (including legal fees and other costs) for resolving the problem.
 > 
@@ -1860,7 +1860,7 @@ When acting in a way that infringes on someone else's rights, the Collaborator m
 Whenever the work and results of the project involve the Collaborator's intellectual property rights, the Collaborator shall not enforce these rights, such as by claiming suspension or compensation from the Host as well as from third parties utilizing the results.
 
 
-####Article 16 (Use of Software etc. of a Third Party)
+#### Article 16 (Use of Software etc. of a Third Party)
 
 > Whenever the Work requires the use of software etc., the rights of which are owned by a third party, the Host and the Collaborator shall discuss the matter, and decide on the usage of the software, such as by licensing or other necessary agreement with the third party.
 
@@ -1868,7 +1868,7 @@ Whenever the work and results of the project involve the Collaborator's intellec
 If the execution of the work requires the use of additional software, such as commercially available video editing software for example, the Collaborator and the Host shall discuss the purchase of that software. 
 
 
-####Article 17 (Maintenance)
+#### Article 17 (Maintenance)
 
 > 17.1 The Collaborator shall cooperate without compensation and to the extent possible on maintenance, administration, improvement and development (through user groups, etc.) of the Developed Software and the Developed Hardware for two (2) years after the Period of Stay.
 > 
@@ -1893,7 +1893,7 @@ Hardware could include such small, inexpensive articles as Arduino for example. 
 
 
 
-###Ⅵ. GENERAL TERMS
+### Ⅵ. GENERAL TERMS
 
 
 
@@ -2059,13 +2059,13 @@ Hardware could include such small, inexpensive articles as Arduino for example. 
 
 
 
-####Article 18 (Prohibition of Re-commission)   
+#### Article 18 (Prohibition of Re-commission)   
 
 > The Collaborator shall not re-entrust all or part of the Work to a third party. However, the Host and the Collaborator may assign the Work to a third party if the Host permits such re-commission by a document to be issued after mutual agreement.
 
 In principle, the Collaborator shall not re-commission work related to the project to others. However, the Host may permit such re-commission by a document to be issued after mutual agreement with the Collaborator. For example, the work could require additional imagery, the production of which may be commissioned to a third party.
 
-####Article 19 (Confidentiality)
+#### Article 19 (Confidentiality)
 
 > 19.1 During and after the term of this Agreement, the Host and the Collaborator shall treat confidentially all information disclosed by the respective other party based on this Agreement, and not disclose it to a third party.
 > 
@@ -2082,7 +2082,7 @@ In principle, the Collaborator shall not re-commission work related to the proje
 This article contains clauses related to confidentiality obligation. 
 
 
-####Article 20 (Force Majeure)
+#### Article 20 (Force Majeure)
 
 > 20.1 In the event the Host or the Collaborator does not fulfill this Agreement due to a natural disaster, war, revolution, riot, epidemic or other cause beyond the control of the Host and the Collaborator, this shall not be regarded as a breach of this Agreement.
 > 
@@ -2094,14 +2094,14 @@ If any point specified in this agreement cannot be fulfilled due to causes beyon
  
 
 
-####Article 21 (Discontinuation of Work)
+#### Article 21 (Discontinuation of Work)
 
 > If the Host decides to discontinue the Work, and no breach of contract by the Collaborator is involved, the Host shall pay the Collaborator fifty (50)% of the commission defined in Article 13 as the only remuneration. 
  
 This article specifies how to handle a situation in which the Host decides to discontinue the work without a breach of contract by the Collaborator. In such case, the Collaborator shall receive 50% of the commission as the only compensation. 
 
 
-####Article 22 (Cancellation)
+#### Article 22 (Cancellation)
 
 > When one of the following applies to either the Host or the Collaborator, the respective other party may cancel all or part of this contract if obligations still remain unexecuted one week after demanding fulfillment. In such cases, claims for damages shall not be precluded.
 > 
@@ -2120,7 +2120,7 @@ Liquidation here refers to the dissolution of foundations or other corporate ins
 If the Collaborator acts against this agreement by canceling one-sidedly, this will be subject to nullification. Furthermore, it may involve the payment of damage compensation (see Article 23 (Damage Compensation)).   
 
 
-####Article 23 (Damage Compensation)  
+#### Article 23 (Damage Compensation)  
 
 > 23.1 When the Collaborator breaks all or part of this contract, the Collaborator shall compensate for all resulting damage (including legal fees).
 > 
@@ -2130,14 +2130,14 @@ This article contains regulations concerning compensation in the case of damage.
 In addition, the article regulates compensation in the event that execution of the work becomes impossible due to the Host's negligence – for example if a budget cannot be secured due to a procedural error. In such case, the Collaborator does not have to pay for business operations that would normally have to be paid. If such error occurs at the preparation stage prior to the Collaborator's stay, for example, this will include insurance cost or costs involved in the creation of documents related to visa applications. The Host shall compensate the Collaborator by deducting such expenses (that the Collaborator was originally supposed to spend) from the commission.
 
 
-####Article 24 (Responsibility)
+#### Article 24 (Responsibility)
 
 > In the event any damage to a third party arises out of the Work, the Host shall take no responsibility, and the Collaborator will be liable for the damage if caused by the Collaborator's own intention or negligence.
 
 If a third party suffer damage caused by the Collaborator's deliberate intention or negligence, the Collaborator shall assume responsibility.
 
 
-####Article 25 (Non-assignment of Rights)
+#### Article 25 (Non-assignment of Rights)
 
 > Neither party may assign, transfer or mortgage all or part of the rights, obligations or property that are subject of this Agreement without prior written consent of the other party.
 
@@ -2145,21 +2145,21 @@ The rights and obligations of either party cannot be transferred to third partie
 
 
 
-####Article 26 (Modifications to this Agreement)
+#### Article 26 (Modifications to this Agreement)
 
 > Any modification to this document will be invalid and not effective unless specified in a written agreement signed by both parties.
 
 Modifications to the contents of this contract may only be made by way of a written agreement between the Host and the Collaborator, signed by both parties.
 
 
-####Article 27 (Entire Agreement)
+#### Article 27 (Entire Agreement)
 
 > This Agreement constitutes the entire agreement between the Host and the Collaborator with respect to the purpose of this Agreement, and supersedes any prior written or oral agreement, assertion or endorsement concerning the subject matter unless specified otherwise in writing and signed by both parties.
  
 Except for the case of modification as specified in the preceding article, this agreement will be given first priority.
 
 
-####Article 28 (Term of Agreement)
+#### Article 28 (Term of Agreement)
 
 > This Agreement takes effect on the day of conclusion, and will remain effective as long as any right or obligation exists for either the Host or the Collaborator specified in this Agreement.
 
@@ -2167,20 +2167,20 @@ Except for the case of modification as specified in the preceding article, this 
 This agreement takes effect on the day it is concluded. Rights and obligations are valid as long as specified in the agreement. In the case of this agreement, the contract ends when the period of maintenance (Article 17 (Maintenance)) ends. However, provisions related to credits remain valid even after the Term of Agreement. (See also Articles 13.7 (Credits of Development Results) and 14.2 (Credits of Development Results))
 
 
-####Article 29 (Governing Law)
+#### Article 29 (Governing Law)
 
 > This Agreement complies with, and shall be construed in accordance with the laws of Japan.
   
 This agreement – including this English version – was concluded and is to be interpreted based on Japanese law. If a project requires that the agreement be based on the laws of a different country, this Article shall be modified accordingly. 
 
 
-####Article 30 (Jurisdiction)
+#### Article 30 (Jurisdiction)
 
 > The parties hereto submit to the exclusive jurisdiction of [district court having jurisdiction over the location of the Host] with respect to all controversies arising from the interpretation and performance of this Agreement.
 
 This article specifies the court at which eventual conflict between the Host and the Collaborator regarding this agreement is to be settled. This will generally be the district court having jurisdiction over the Host's location.
 
-####Article 31 (Language of Priority) 
+#### Article 31 (Language of Priority) 
 
 > This Agreement is written in both [language of the country where the Joint Research Facility is located] and English languages, however in the event that differences arise in its interpretation, the Host and the Collaborator agree to refer to the [language of the country where the Joint Collaborator Facility is located / English] interpretation.
 
@@ -2231,7 +2231,7 @@ Each Party Receives A Signed Or Sealed Copy Of This Contract.
 ---
 
 
-##Licenses and Credits  
+## Licenses and Credits  
 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="Creative Commons License" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 <br /> 
@@ -2243,7 +2243,7 @@ Supported by Dominick Chen (Creative Commons Japan)<br />
 GRP Contract Form is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution - ShareAlike 4.0 International License</a>.<br />
 
 
-##Disclaimer
+## Disclaimer
 ```
 YCAM makes no guarantees whatsoever related to this text.
 The persons involved in the creation/operation of this website (including other users) take no responsibility regarding the usage of this text (including any kind of use such as browsing, contribution, or external re-use; the same shall apply hereinafter).

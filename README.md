@@ -1,8 +1,8 @@
 
-####[はじめに](http://interlab.ycam.jp/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/Manual_Japanese.md) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [ENGLISH](http://interlab.ycam.jp/en/projects/grp-contract-form)
+#### [はじめに](http://interlab.ycam.jp/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/Manual_Japanese.md) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [ENGLISH](http://interlab.ycam.jp/en/projects/grp-contract-form)
 
 
-##GRPContractFormについて
+## GRPContractFormについて
 
 
 GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=フレームワーク)を実現する、共同研究開発契約書のひながたです。いわゆるオープンソースコードと同様に、多くの人々が自由に利用し、改変し、派生物を生み出せるようにするため、GRPContractFormを公開します。  
@@ -19,7 +19,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 ```
 
   
-##開発履歴
+## 開発履歴
 
 2013.3 Ver.1公開  
 
@@ -36,7 +36,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 2016.2 ライセンスのアップデート  
 
 
-##本コントラクトフォームの特徴
+## 本コントラクトフォームの特徴
 
 このひながたは、[YCAM Interlab Guest Research Project](http://interlab.ycam.jp/projects/guestresearch)を実施するために、アートセンターとアーティスト/技術者との間で実際に使用された契約書をもとに、作成されています。  
 
@@ -50,7 +50,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 
 
   
-##利用事例
+## 利用事例
 
 [Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  
 <img src="http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg" alt="Duration" width=600>
@@ -66,7 +66,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 
 
  
-##つかいかた
+## つかいかた
 
 [GitHubからダウンロード](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md)して利用できます。GRPContractFormはソフトウェア開発プロジェクトのための共有ウェブサービスであるGitHub上で公開・開発しており、オープンソースコードと同様に、誰でも改変や派生物の制作に参加できます。      
 
@@ -79,7 +79,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 
 
 
-##ライセンスとクレジット
+## ライセンスとクレジット
 
 <!--
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.1/jp/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.1/jp/88x31.png" /></a><br /> 
@@ -107,7 +107,7 @@ GRP Contract Formは<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel
 『GRP Contract Form』はクリエイティブ・コモンズ・ライセンス【表示-継承 4.0 国際】で提供されています。なお、本ライセンス8.c.の規定にしたがい、本ライセンス3.a.に規定する【表示】に関する条件または権利を明示的に放棄いたします。したがいまして、本同意書の派生物をつくる方は、本ライセンスが求める権利者名の表示を行わないでも、本同意書を利用することができます。  
 それぞれのイベントで使用する場合には、それぞれのイベントに合わせて改変し、その結果を公開する場合には、同じライセンスの元で公開してください。また、改変の際には可能なかぎりGitHub上でforkし、派生関係がわかるようにしてください。公開の際には可能な限り権利者名の表示をしてください。
 
-##免責事項
+## 免責事項
 ```
 YCAMはあなたに対し、本テキストに関し、何らの保証もいたしません。
 本サイトの関係者（他の利用者も含む）は、本テキストの利用（閲覧、投稿、外部での再利用など一切の利用を含むものとします。以下同じ）に関し、

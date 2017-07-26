@@ -1,8 +1,8 @@
-####[ABOUT](http://interlab.ycam.jp/en/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_English) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [JAPANESE](http://interlab.ycam.jp/projects/grp-contract-form)
+#### [ABOUT](http://interlab.ycam.jp/en/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_English) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [JAPANESE](http://interlab.ycam.jp/projects/grp-contract-form)
 
 
 
-##About GRPContractForm 
+## About GRPContractForm 
 
 
 GRPContractForm is a contract form created with the aim to define creative and open collaboration frameworks. The idea is to establish environments comparable to so-called “open-source codes”, and make them available to a broad audience to use, modify, and/or create derivative works.  
@@ -21,7 +21,7 @@ the contract as part of this project can be published under a Creative Commons (
 
 
 
-##Development History
+## Development History
 
 2013.3 Ver.1 released  
 
@@ -38,7 +38,7 @@ the contract as part of this project can be published under a Creative Commons (
 2016.2 license updated    
 
 
-##Special Features of this Contract Form  
+## Special Features of this Contract Form  
 
 This form was created based on an actual contract used for the implementation of [YCAM Interlab Guest Research Project (GRP)](http://interlab.ycam.jp/projects/guestresearch) between YCAM and artists / technologists.  
 
@@ -49,7 +49,7 @@ As this form assumes the invitation of guest researchers from other countries, i
 Through the implemention of a [YCAM Interlab Guest Research Project (GRP)](http://interlab.ycam.jp/projects/guestresearch) framework, we learned that a seriously formulated contract helps to strengthen the relationships of mutual trust between art centers and artists / technologists, and increase the efficiency of research and development. We also think that a contract is very similar to a program code, and are seeing great potential in mixture of both. In other words, contracts for joint research or commissioned work have a big effect on eventual creation, whereas the contracts for realizing such collaboration frameworks can be developed in cooperation just like program codes. Open source development and collaborations have gathered much attention and more people realized the importance of it. We hope that the publication of this form will help to develop frameworks for contemporary forms of creative work.    
 
 
-##Case Examples
+## Case Examples
 
 [Guest Research Project vol.2 - Composition tools for Generative Media](http://interlab.ycam.jp/en/projects/grp-contract-form)
 <img src="http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg" alt="Duration" width=600>
@@ -65,7 +65,7 @@ Through the implemention of a [YCAM Interlab Guest Research Project (GRP)](http:
 
 
 
-##Usage  
+## Usage  
 
 GRPContractForm is [available on GitHub](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md). GRPContractForm is published and developed on Github that is a web-based hosting service for software development projects that anyone can participate in development or work of a derivative.  
 
@@ -75,7 +75,7 @@ For more details, please refer to the [MANUAL](https://github.com/YCAMInterlab/G
 
 
   
-##Licenses and Credits  
+## Licenses and Credits  
 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="Creative Commons License" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 <br /> 
@@ -90,7 +90,7 @@ GRP Contract Form is licensed under a Creative Commons　[Attribution-ShareAlike
 For use at an event, please modify the GRP Contract Form as needed, and publish the respective results under the same license. In the case of secondary use, please fork the GRP Contract Form on GitHub, and indicate derivations and right-holders’ names whenever possible.  
 
 
-##Disclaimer
+## Disclaimer
 ```
 YCAM makes no guarantees whatsoever related to this text.
 The persons involved in the creation/operation of this website (including other users) take no responsibility regarding 
