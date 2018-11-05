@@ -1,5 +1,5 @@
 
-#### [はじめに](http://interlab.ycam.jp/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/Manual_Japanese.md) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [ENGLISH](http://interlab.ycam.jp/en/projects/grp-contract-form)
+#### [はじめに](http://interlab.ycam.jp/projects/grp-contract-form.html) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_Japanese.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/Manual_Japanese.md) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [ENGLISH](http://interlab.ycam.jp/en/projects/grp-contract-form.html)
 
 
 ## GRPContractFormについて
@@ -38,7 +38,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 
 ## 本コントラクトフォームの特徴
 
-このひながたは、[YCAM Interlab Guest Research Project](http://interlab.ycam.jp/projects/guestresearch)を実施するために、アートセンターとアーティスト/技術者との間で実際に使用された契約書をもとに、作成されています。  
+このひながたは、[YCAM Interlab Guest Research Project](http://interlab.ycam.jp/projects/guestresearch.html)を実施するために、アートセンターとアーティスト/技術者との間で実際に使用された契約書をもとに、作成されています。  
 
 成果のオープン化(第三者が一定の範囲で自由に利用できるよう公開すること)を前提とし、その効果を高めつつクリエイティビティの向上することを目指していることが最大の特徴です。例えば、成果の権利の扱い、公開のライセンスや方法、さらにクレジットやメンテナンスについて定めています。  
 
@@ -52,12 +52,12 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
   
 ## 利用事例
 
-[Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2)  
+[Guest Research Project vol.2―ジェネレーティブ・メディアのためのコンポジション・ツール](http://interlab.ycam.jp/projects/guestresearch/vol2.html)  
 <img src="http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg" alt="Duration" width=600>
 
   
 
-[YCAM InterLab＋安藤洋子　共同研究開発プロジェクト「Reactor for Awareness in Motion」](http://interlab.ycam.jp/projects/ram)  
+[YCAM InterLab＋安藤洋子　共同研究開発プロジェクト「Reactor for Awareness in Motion」](http://interlab.ycam.jp/projects/ram.html)  
 <img src="http://interlab.ycam.jp/wp-content/uploads/2013/05/RAM_Video_Top.jpg" alt="Reactor for Awareness in Motion" width=600>
   
 
@@ -97,7 +97,7 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 <br /> 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form" property="cc:attributionName" rel="cc:attributionURL"></a>  
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form.html" property="cc:attributionName" rel="cc:attributionURL"></a>  
 企画制作: Yamaguchi Center for Arts and Media [YCAM]<br />
 立案・作成: YCAM InterLab<br />
 監修: 水野 祐(クリエイティブ・コモンズ・ジャパン、弁護士)<br />

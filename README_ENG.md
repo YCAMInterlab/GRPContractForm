@@ -1,4 +1,4 @@
-#### [ABOUT](http://interlab.ycam.jp/en/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_English) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [JAPANESE](http://interlab.ycam.jp/projects/grp-contract-form)
+#### [ABOUT](http://interlab.ycam.jp/en/projects/grp-contract-form.html) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/wiki/MANUAL_English) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [JAPANESE](http://interlab.ycam.jp/projects/grp-contract-form.html)
 
 
 
@@ -40,23 +40,23 @@ the contract as part of this project can be published under a Creative Commons (
 
 ## Special Features of this Contract Form  
 
-This form was created based on an actual contract used for the implementation of [YCAM Interlab Guest Research Project (GRP)](http://interlab.ycam.jp/projects/guestresearch) between YCAM and artists / technologists.  
+This form was created based on an actual contract used for the implementation of [YCAM Interlab Guest Research Project (GRP)](http://interlab.ycam.jp/projects/guestresearch.html) between YCAM and artists / technologists.  
 
 In addition to regulating research contents, residency periods, costs, and other general issues related to joint research and residency projects, this particular contract also contains regulations for publishing and improving the efficiency of resulting products. Specified here are, for example, the handling of rights, publishing licenses and methods, as well as credits and maintenance details.    
 
 As this form assumes the invitation of guest researchers from other countries, it contains items related to the necessary international administrative procedures (such as visa and tax issues), insurance, and international transport. The aim is to establish partnerships based on fair relationships between hosts and guest researchers.      
 
-Through the implemention of a [YCAM Interlab Guest Research Project (GRP)](http://interlab.ycam.jp/projects/guestresearch) framework, we learned that a seriously formulated contract helps to strengthen the relationships of mutual trust between art centers and artists / technologists, and increase the efficiency of research and development. We also think that a contract is very similar to a program code, and are seeing great potential in mixture of both. In other words, contracts for joint research or commissioned work have a big effect on eventual creation, whereas the contracts for realizing such collaboration frameworks can be developed in cooperation just like program codes. Open source development and collaborations have gathered much attention and more people realized the importance of it. We hope that the publication of this form will help to develop frameworks for contemporary forms of creative work.    
+Through the implemention of a [YCAM Interlab Guest Research Project (GRP)](http://interlab.ycam.jp/projects/guestresearch.html) framework, we learned that a seriously formulated contract helps to strengthen the relationships of mutual trust between art centers and artists / technologists, and increase the efficiency of research and development. We also think that a contract is very similar to a program code, and are seeing great potential in mixture of both. In other words, contracts for joint research or commissioned work have a big effect on eventual creation, whereas the contracts for realizing such collaboration frameworks can be developed in cooperation just like program codes. Open source development and collaborations have gathered much attention and more people realized the importance of it. We hope that the publication of this form will help to develop frameworks for contemporary forms of creative work.    
 
 
 ## Case Examples
 
-[Guest Research Project vol.2 - Composition tools for Generative Media](http://interlab.ycam.jp/en/projects/grp-contract-form)
+[Guest Research Project vol.2 - Composition tools for Generative Media](http://interlab.ycam.jp/en/projects/grp-contract-form.html)
 <img src="http://interlab.ycam.jp/wp-content/uploads/2013/04/Duration.jpg" alt="Duration" width=600>
   
   
 
-[YCAM InterLab + Yoko Ando Joint Research and Development Project "Reactor for Awareness in Motion"](http://interlab.ycam.jp/en/projects/ram)  
+[YCAM InterLab + Yoko Ando Joint Research and Development Project "Reactor for Awareness in Motion"](http://interlab.ycam.jp/en/projects/ram.html)  
 <img src="http://interlab.ycam.jp/wp-content/uploads/2013/05/RAM_Video_Top.jpg" alt="Reactor for Awareness in Motion" width=600>
   
 
@@ -79,7 +79,7 @@ For more details, please refer to the [MANUAL](https://github.com/YCAMInterlab/G
 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="Creative Commons License" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 <br /> 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form" property="cc:attributionName" rel="cc:attributionURL"></a>  
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form.html" property="cc:attributionName" rel="cc:attributionURL"></a>  
 Produced by the Yamaguchi Center for Arts and Media [YCAM],<br />
 Planned and developed by YCAM InterLab,<br />
 Supervised by Tasuku Mizuno (Creative Commons Japan, Attorney at Law),<br />

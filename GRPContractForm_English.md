@@ -1,4 +1,4 @@
-#### [ABOUT](http://interlab.ycam.jp/en/projects/grp-contract-form) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/Manual_English.md) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [JAPANESE](http://interlab.ycam.jp/projects/grp-contract-form)
+#### [ABOUT](http://interlab.ycam.jp/en/projects/grp-contract-form.html) /  [GRPContractForm](https://github.com/YCAMInterlab/GRPContractForm/blob/master/GRPContractForm_English.md) /  [MANUAL](https://github.com/YCAMInterlab/GRPContractForm/blob/master/Manual_English.md) /  [ISSUES](https://github.com/YCAMInterlab/GRPContractForm/issues) /  [JAPANESE](http://interlab.ycam.jp/projects/grp-contract-form.html)
 
 
 # GRPContractForm_English (Ver.2)
@@ -503,7 +503,7 @@ Each party receives a signed or sealed copy of this contract.
 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="Creative Commons License" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 <br /> 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form" property="cc:attributionName" rel="cc:attributionURL"></a>  
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form.html" property="cc:attributionName" rel="cc:attributionURL"></a>  
 Produced by the Yamaguchi Center for Arts and Media [YCAM],<br />
 Planned and developed by YCAM InterLab,<br />
 Supervised by Tasuku Mizuno (Creative Commons Japan, Attorney at Law),<br />
