@@ -32,12 +32,12 @@ GRPContractFormは、クリエイティブでオープンな恊働の枠組み(=
 #### キーポイントまとめ (別ファイル)
 オープン化に関する事項と別途協議する項目について、ポイントとなる事項と条項を"キーポイントまとめ"に示してます。  
 プロジェクトの進行についてディスカッションしたり、契約書を作成したりする際に手助けになるでしょう。  
-[•キーポイントまとめ](https://github.com/YCAMInterlab/GRPContractForm/wiki/キーポイントまとめ--(GRP-Contract-Form-Ver2))  
+[•キーポイントまとめ](https://github.com/YCAMInterlab/GRPContractForm/blob/master/KeyPoints.md)  
   
 
 #### オープン化のガイドライン (別ファイル)
 オープン化をスムースに・効果的に進めるため、"オープン化のガイドライン"を参照するのが良いでしょう(4章"成果物の公開"(12.5)に示された"ガイドライン"として用いてもよいかもしれません)。  
-[•オープン化のガイドライン](https://github.com/YCAMInterlab/GRPContractForm/wiki/オープン化のガイドライン)  
+[•オープン化のガイドライン](https://github.com/YCAMInterlab/OpenSharingGuideline)  
 
 
 
