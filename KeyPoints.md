@@ -1,11 +1,11 @@
-#キーポイントまとめ (GRP Contract Form Ver.2)  
+# キーポイントまとめ (GRP Contract Form Ver.2)  
 
 オープン化に関する事項と別途協議する項目について、ポイントとなる事項と条項を示してます。  　　
 
 プロジェクトの進行についてディスカッションしたり、契約書を作成したりする際に手助けになるでしょう。    
 
 
-###1.オープン化のポイント  
+### 1.オープン化のポイント  
 
 
 <table class=a border=1 cellspacing=0 cellpadding=0 width=482 style='margin-left:
@@ -305,9 +305,9 @@
 
 
 
-###2.別途協議するポイント  
+### 2.別途協議するポイント  
 
-####2.1 オープン化に関するもの  
+#### 2.1 オープン化に関するもの  
 
 
 
@@ -516,7 +516,7 @@
 -->
 
 
-####2.2 業務内容に関するもの  
+#### 2.2 業務内容に関するもの  
 
 <table class=a1 border=1 cellspacing=0 cellpadding=0 width=482
  style='margin-left:5.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
@@ -732,7 +732,7 @@
 
 
 
-####2.3 事務的なもの  
+#### 2.3 事務的なもの  
 
 
 <table class=a2 border=1 cellspacing=0 cellpadding=0 width=482
@@ -917,7 +917,7 @@
 
 
 
-##ライセンスとクレジット  
+## ライセンスとクレジット  
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" alt="クリエイティブ・コモンズ・ライセンス" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 <br /> 
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">GRP Contract Form</span><a xmlns:cc="http://creativecommons.org/ns#" href="http://interlab.ycam.jp/projects/grp-contract-form" property="cc:attributionName" rel="cc:attributionURL"></a>
@@ -929,7 +929,7 @@ GRP Contract Formは<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel
 
 
 
-##免責事項  
+## 免責事項  
 ```
 YCAMはあなたに対し、本テキストに関し、何らの保証もいたしません。
 本サイトの関係者（他の利用者も含む）は、本テキストの利用（閲覧、投稿、外部での再利用など一切の利用を含むものとします。以下同じ）に関し、
